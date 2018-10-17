@@ -41,7 +41,7 @@ ui = shinyUI(
       column(class = 'intro-text',
         width = 3, 
         wellPanel(
-          p('This is small demo app to see the kinds of visualizations we could develop for referee team gender composition. It is based on the internship project from Silvia La Porta and extended by Eva.'),
+          p('This is small demo app to see the kinds of visualizations we could develop for referee team gender composition (or any other kind of data of interest). It is based on the internship project from Silvia La Porta and extended by Eva.'),
           br(), br(), br(),
           p('The general conclusion is that there is a strong gender imbalance, with an ovepowering number of male referees overall, as well as a higher proportion of male-only referee teams. Although the biggest proportion of referee teams was mixed, within those, most of the teams were imbalanced with a clear shift towards male-dominated teams.'),
           br(), br(), br(),
@@ -98,7 +98,7 @@ ui = shinyUI(
       column(
         width = 3, 
         wellPanel(
-          h2('Final fate of reviewed manuscript in the year'),
+          h2('Final fate of reviewed manuscripts in the year'),
           plotOutput(outputId = 'alluvium_2015')
                   )
             )
@@ -130,7 +130,7 @@ ui = shinyUI(
       column(
         width = 3, 
         wellPanel(
-          h2('Final fate of reviewed manuscript in the year'),
+          h2('Final fate of reviewed manuscripts in the year'),
           plotOutput(outputId = 'alluvium_2016')
                   )
             )
@@ -162,7 +162,7 @@ ui = shinyUI(
       column(
         width = 3, 
         wellPanel(
-          h2('Final fate of reviewed manuscript in the year'),
+          h2('Final fate of reviewed manuscripts in the year'),
           plotOutput(outputId = 'alluvium_2017')
                   )
             )
@@ -214,8 +214,8 @@ theme_settings = theme_minimal() + theme(panel.grid.major = element_blank(), pan
 output$global_team_composition_year = renderPlot({
 
 ggplot(data = df1_yearly, aes(x = year, y = Freq, group = gender)) + 
-geom_line(aes(color=gender))  +
-geom_point(aes(color=gender)) + 
+geom_line(aes(color=gender), size = 2)  +
+geom_point(aes(color=gender), size = 4) + 
 scale_color_manual(values = c('orange', 'darkblue', '#dba7e5')) +
 theme_settings 
                                                   })
@@ -365,6 +365,7 @@ theme_minimal() +
 theme(legend.position = 'top', panel.grid.major = element_blank(), panel.grid.minor = element_blank(),axis.text.x=element_blank()) 
 # dev.off()
 })
+
 
 
 gsub('-', '\n', as.character(df4_2015$Final.Decision.Type[16]))
