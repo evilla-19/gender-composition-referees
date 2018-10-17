@@ -2,15 +2,12 @@
 ########## libraries ###################
 ########################################
 
-
 library(shiny)
 library(ggplot2)
 library(dplyr)
-library(DT)
-library(chron)
-library(plotly)
 library(RColorBrewer)
 library(ggalluvial)
+
 
 
 ########################################
@@ -179,7 +176,7 @@ ui = shinyUI(
 ########## Server ######################
 ########################################
 
-server = function(input, output){
+server = function(input, output, session){
 
 
 ###### Block 1 for graph-1   ########
@@ -211,7 +208,7 @@ df1_yearly = bind_rows(plot1_2015, plot1_2016, plot1_2017)
 df1_yearly$year = c('2015', '2015', '2015', '2016', '2016', '2016', '2017', '2017', '2017')
 
 
-theme_settings = theme_minimal() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())  
+theme_settings = theme_minimal() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(), legend.position = 'bottom')  
 
 # output plot
 output$global_team_composition_year = renderPlot({
@@ -219,8 +216,8 @@ output$global_team_composition_year = renderPlot({
 ggplot(data = df1_yearly, aes(x = year, y = Freq, group = gender)) + 
 geom_line(aes(color=gender))  +
 geom_point(aes(color=gender)) + 
-scale_color_manual(values = c('orange', 'darkblue', '#42f468')) +
-theme_settings
+scale_color_manual(values = c('orange', 'darkblue', '#dba7e5')) +
+theme_settings 
                                                   })
 
 
@@ -350,24 +347,27 @@ fill_levels_2015 = c(unique(as.character(df4_2015$Final.Decision.Type)),
 unique(df4_2015$team_composition)
 )
 
-fill_2015 = c('darkgray', 'darkblue', 'darkgray', rep('darkgray', length(fill_levels_2015)-3))
-
+fill_2015 = c('#dba7e5', 'darkblue', 'darkgray', rep('darkgray', length(fill_levels_2015)-3))
 
 output$alluvium_2015 = renderPlot({
 
+# png('test.png', width =400, height = 400)
+
+df4_2015$Final.Decision.Type = sapply(strwrap(df4_2015$Final.Decision.Type, 40, simplify = FALSE), paste, collapse = ' \n ')
+
 ggplot(df4_2015, aes(y = freq, axis1 = team_composition, axis2 = Final.Decision.Type)) +
 geom_alluvium(aes(fill = Final.Decision.Type), width = 1/12) +
-geom_stratum(width = 1/12, fill = fill_2015, color = 'black') +
-geom_label(stat = "stratum", label.strata = TRUE) +
+geom_stratum(width = 1/12, fill = fill_2015 , color = 'black') +
+geom_label(stat = "stratum", label.strata = TRUE, size = 3) +
 scale_x_discrete(limits = c("referee group composition", "final decision"), expand = c(.05, .05)) +
-scale_fill_manual(values = col_2015) +
+scale_fill_manual(values = col_2015, guide = guide_legend(nrow =4, title.position = 'top', keywidth = 0.5)) +
 theme_minimal() +
-theme(legend.position = 'right', panel.grid.major = element_blank(), panel.grid.minor = element_blank(),axis.text.x=element_blank())
-
+theme(legend.position = 'top', panel.grid.major = element_blank(), panel.grid.minor = element_blank(),axis.text.x=element_blank()) 
+# dev.off()
 })
 
 
-
+gsub('-', '\n', as.character(df4_2015$Final.Decision.Type[16]))
 
 
 ###### Block 6 for graph-6   ########
@@ -394,18 +394,18 @@ fill_levels_2016 = c(unique(as.character(df4_2016$Final.Decision.Type)),
 unique(df4_2016$team_composition)
 )
 
-fill_2016 = c('darkgray', 'darkblue', 'darkgray', rep('darkgray', length(fill_levels_2016)-3))
+fill_2016 = c('#dba7e5', 'darkblue', 'darkgray', rep('darkgray', length(fill_levels_2016)-3))
 
 output$alluvium_2016 = renderPlot({
 
 ggplot(df4_2016, aes(y = freq, axis1 = team_composition, axis2 = Final.Decision.Type)) +
 geom_alluvium(aes(fill = Final.Decision.Type), width = 1/12) +
 geom_stratum(width = 1/12, fill = fill_2016 , color = 'black') +
-geom_label(stat = "stratum", label.strata = TRUE) +
+geom_label(stat = "stratum", label.strata = TRUE, size = 3) +
 scale_x_discrete(limits = c("referee group composition", "final decision"), expand = c(.05, .05)) +
-scale_fill_manual(values = col_2016) +
+scale_fill_manual(values = col_2016, guide = guide_legend(nrow =4, title.position = 'top', keywidth = 0.5)) +
 theme_minimal() +
-theme(legend.position = 'right', panel.grid.major = element_blank(), panel.grid.minor = element_blank(),axis.text.x=element_blank())
+theme(legend.position = 'top', panel.grid.major = element_blank(), panel.grid.minor = element_blank(),axis.text.x=element_blank())
 
 })
 
@@ -438,18 +438,18 @@ fill_levels_2017 = c(unique(as.character(df4_2017$Final.Decision.Type)),
 unique(df4_2017$team_composition)
 )
 
-fill_2017 = c('darkgray', 'darkblue', 'darkgray', rep('darkgray', length(fill_levels_2017)-3))
+fill_2017 = c('#dba7e5', 'darkblue', 'darkgray', rep('darkgray', length(fill_levels_2017)-3))
 
 output$alluvium_2017 = renderPlot({ 
 
 ggplot(df4_2017, aes(y = freq, axis1 = team_composition, axis2 = Final.Decision.Type)) +
 geom_alluvium(aes(fill = Final.Decision.Type), width = 1/12) +
-geom_stratum(width = 1/12, fill = fill_2017, color = 'black') +
-geom_label(stat = "stratum", label.strata = TRUE) +
+geom_stratum(width = 1/12, fill = fill_2017 , color = 'black') +
+geom_label(stat = "stratum", label.strata = TRUE, size = 3) +
 scale_x_discrete(limits = c("referee group composition", "final decision"), expand = c(.05, .05)) +
-scale_fill_manual(values = col_2017) +
+scale_fill_manual(values = col_2017, guide = guide_legend(nrow =4, title.position = 'top', keywidth = 0.5)) +
 theme_minimal() +
-theme(legend.position = 'right', panel.grid.major = element_blank(), panel.grid.minor = element_blank(),axis.text.x=element_blank())
+theme(legend.position = 'top', panel.grid.major = element_blank(), panel.grid.minor = element_blank(),axis.text.x=element_blank())
 
 })
 
