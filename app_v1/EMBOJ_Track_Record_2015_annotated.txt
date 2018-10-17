@@ -1,0 +1,899 @@
+unique_id	Manuscript	Editor	Final.Decision.Type	referees_clean	indiv_referees	name	gender	probability	count
+1	EMBOJ-2014-89809	Dumstrei, Karin	By author	Mickie Bhatia,Paul Tesar,Catherina Becker	Mickie Bhatia	Mickie	female	0.88	25
+2	EMBOJ-2014-89809	Dumstrei, Karin	By author	Mickie Bhatia,Paul Tesar,Catherina Becker	Paul Tesar	Paul	male	1	5931
+3	EMBOJ-2014-89809	Dumstrei, Karin	By author	Mickie Bhatia,Paul Tesar,Catherina Becker	Catherina Becker	Catherina	female	1	13
+4	EMBOJ-2014-90556	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Edward Harhaj,Adolfo Garcia-Sastre	Edward Harhaj	Edward	male	1	1015
+5	EMBOJ-2014-90556	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Edward Harhaj,Adolfo Garcia-Sastre	Adolfo Garcia-Sastre	Adolfo	male	1	192
+6	EMBOJ-2014-90666	Dumstrei, Karin	Reject post review	Eric Gouaux,Alexander Sobolevsky	Eric Gouaux	Eric	male	1	4110
+7	EMBOJ-2014-90666	Dumstrei, Karin	Reject post review	Eric Gouaux,Alexander Sobolevsky	Alexander Sobolevsky	Alexander	male	1	1645
+8	EMBOJ-2014-90786	Dumstrei, Karin	Revise and Re-review	Rafi Ahmed,Mark Smyth	Rafi Ahmed	Rafi	male	0.78	55
+9	EMBOJ-2014-90786	Dumstrei, Karin	Revise and Re-review	Rafi Ahmed,Mark Smyth	Mark Smyth	Mark	male	1	6176
+10	EMBOJ-2014-90791	Dumstrei, Karin	Revise and Re-review	Florent Ginhoux	Florent Ginhoux	Florent	male	1	160
+11	EMBOJ-2014-90793	Dumstrei, Karin	Reject post review	Nicolas Demaurex,Reinhold Penner,Thierry Soldati	Nicolas Demaurex	Nicolas	male	1	1953
+12	EMBOJ-2014-90793	Dumstrei, Karin	Reject post review	Nicolas Demaurex,Reinhold Penner,Thierry Soldati	Reinhold Penner	Reinhold	male	1	9
+13	EMBOJ-2014-90793	Dumstrei, Karin	Reject post review	Nicolas Demaurex,Reinhold Penner,Thierry Soldati	Thierry Soldati	Thierry	male	0.99	310
+14	EMBOJ-2014-90808	Dumstrei, Karin	Revise and Re-review	David Rubinsztein,Lisa Ellerby,Nobuyuki Nukina	David Rubinsztein	David	male	1	12593
+15	EMBOJ-2014-90808	Dumstrei, Karin	Revise and Re-review	David Rubinsztein,Lisa Ellerby,Nobuyuki Nukina	Lisa Ellerby	Lisa	female	1	6394
+16	EMBOJ-2014-90808	Dumstrei, Karin	Revise and Re-review	David Rubinsztein,Lisa Ellerby,Nobuyuki Nukina	Nobuyuki Nukina	Nobuyuki	male	1	6
+17	EMBOJ-2014-90867	Dumstrei, Karin	Reject post review	Francis Chan,Paolo Dellabona,David Wallach	Francis Chan	Francis	male	0.89	680
+18	EMBOJ-2014-90867	Dumstrei, Karin	Reject post review	Francis Chan,Paolo Dellabona,David Wallach	Paolo Dellabona	Paolo	male	0.99	781
+19	EMBOJ-2014-90867	Dumstrei, Karin	Reject post review	Francis Chan,Paolo Dellabona,David Wallach	David Wallach	David	male	1	12593
+20	EMBOJ-2015-90962	Dumstrei, Karin	Reject post review	Walter Witke,Silvio Rizzoli,Matthew Rasband	Walter Witke	Walter	male	1	864
+21	EMBOJ-2015-90962	Dumstrei, Karin	Reject post review	Walter Witke,Silvio Rizzoli,Matthew Rasband	Silvio Rizzoli	Silvio	male	1	183
+22	EMBOJ-2015-90962	Dumstrei, Karin	Reject post review	Walter Witke,Silvio Rizzoli,Matthew Rasband	Matthew Rasband	Matthew	male	1	3338
+23	EMBOJ-2015-91020	Dumstrei, Karin	Reject post review	Vishva Dixit,Zhaoyu Li,David Wallach	Vishva Dixit	Vishva	male	1	2
+24	EMBOJ-2015-91020	Dumstrei, Karin	Reject post review	Vishva Dixit,Zhaoyu Li,David Wallach	Zhaoyu Li	Zhaoyu	male	1	1
+25	EMBOJ-2015-91020	Dumstrei, Karin	Reject post review	Vishva Dixit,Zhaoyu Li,David Wallach	David Wallach	David	male	1	12593
+26	EMBOJ-2015-91118	Dumstrei, Karin	Revise and Re-review	Anna Lasorella,Minoree Kohwi,David Rowitch	Anna Lasorella	Anna	female	1	4755
+27	EMBOJ-2015-91118	Dumstrei, Karin	Revise and Re-review	Anna Lasorella,Minoree Kohwi,David Rowitch	Minoree Kohwi	Minoree	None	NA	NA
+28	EMBOJ-2015-91118	Dumstrei, Karin	Revise and Re-review	Anna Lasorella,Minoree Kohwi,David Rowitch	David Rowitch	David	male	1	12593
+29	EMBOJ-2015-91181	Dumstrei, Karin	Reject post review	Philip Barker,Thomas Gillingwater	Philip Barker	Philip	male	1	1097
+30	EMBOJ-2015-91181	Dumstrei, Karin	Reject post review	Philip Barker,Thomas Gillingwater	Thomas Gillingwater	Thomas	male	1	3753
+31	EMBOJ-2015-91348	Dumstrei, Karin	Revise and Re-review	Benedikt Berninger,Ana Martin-Villalba,Sebastian Jessberger	Benedikt Berninger	Benedikt	male	1	26
+32	EMBOJ-2015-91348	Dumstrei, Karin	Revise and Re-review	Benedikt Berninger,Ana Martin-Villalba,Sebastian Jessberger	Ana Martin-Villalba	Ana	female	0.99	3621
+33	EMBOJ-2015-91348	Dumstrei, Karin	Revise and Re-review	Benedikt Berninger,Ana Martin-Villalba,Sebastian Jessberger	Sebastian Jessberger	Sebastian	male	1	1459
+34	EMBOJ-2015-91397	Dumstrei, Karin	Revise and Re-review	Philipp Kahle,Ted Dawson,Peter-Christian Kloehn	Philipp Kahle	Philipp	male	1	205
+35	EMBOJ-2015-91397	Dumstrei, Karin	Revise and Re-review	Philipp Kahle,Ted Dawson,Peter-Christian Kloehn	Ted Dawson	Ted	male	1	376
+36	EMBOJ-2015-91397	Dumstrei, Karin	Revise and Re-review	Philipp Kahle,Ted Dawson,Peter-Christian Kloehn	Peter-Christian Kloehn	Peter-Christian	None	NA	NA
+37	EMBOJ-2015-91399	Dumstrei, Karin	Revise and Re-review	Edward Fon,Konstanze Winklhofer,Gabor Kovacs	Edward Fon	Edward	male	1	1015
+38	EMBOJ-2015-91399	Dumstrei, Karin	Revise and Re-review	Edward Fon,Konstanze Winklhofer,Gabor Kovacs	Konstanze Winklhofer	Konstanze	female	1	5
+39	EMBOJ-2015-91399	Dumstrei, Karin	Revise and Re-review	Edward Fon,Konstanze Winklhofer,Gabor Kovacs	Gabor Kovacs	Gabor	male	1	31
+40	EMBOJ-2015-91407	Dumstrei, Karin	Revise and Re-review	Stuart Calderwood,Paul Crocker	Stuart Calderwood	Stuart	male	0.99	759
+41	EMBOJ-2015-91407	Dumstrei, Karin	Revise and Re-review	Stuart Calderwood,Paul Crocker	Paul Crocker	Paul	male	1	5931
+42	EMBOJ-2015-91416	Dumstrei, Karin	Reject post review	Dennis W. Metzger,Victor Huber,Francois Trottein	Dennis W. Metzger	Dennis W.	None	NA	NA
+43	EMBOJ-2015-91416	Dumstrei, Karin	Reject post review	Dennis W. Metzger,Victor Huber,Francois Trottein	Victor Huber	Victor	male	1	2234
+44	EMBOJ-2015-91416	Dumstrei, Karin	Reject post review	Dennis W. Metzger,Victor Huber,Francois Trottein	Francois Trottein	Francois	male	1	290
+45	EMBOJ-2015-91459	Dumstrei, Karin	Revise and Re-review	Stephen Hedrick,Steve C. Jameson	Stephen Hedrick	Stephen	male	1	2608
+46	EMBOJ-2015-91459	Dumstrei, Karin	Revise and Re-review	Stephen Hedrick,Steve C. Jameson	Steve C. Jameson	Steve C.	None	NA	NA
+47	EMBOJ-2015-91468	Dumstrei, Karin	Accept	Michael Heneka	Michael Heneka	Michael	male	1	11094
+48	EMBOJ-2015-91488	Dumstrei, Karin	Revise and Re-review	Michal Schwartz,Melanie Greter	Michal Schwartz	Michal	male	0.75	360
+49	EMBOJ-2015-91488	Dumstrei, Karin	Revise and Re-review	Michal Schwartz,Melanie Greter	Melanie Greter	Melanie	female	1	2137
+50	EMBOJ-2015-91578	Dumstrei, Karin	Reject post review	Michael Gale Jr.	Michael Gale Jr.	Michael Gale	None	NA	NA
+51	EMBOJ-2015-91591	Dumstrei, Karin	Reject post review	Adolfo Garcia-Sastre,Zhijian Chen	Adolfo Garcia-Sastre	Adolfo	male	1	192
+52	EMBOJ-2015-91591	Dumstrei, Karin	Reject post review	Adolfo Garcia-Sastre,Zhijian Chen	Zhijian Chen	Zhijian	male	1	1
+53	EMBOJ-2015-91700	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Gerhard Schratt,Stefania Nicoli,Federico Calegari	Gerhard Schratt	Gerhard	male	1	49
+54	EMBOJ-2015-91700	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Gerhard Schratt,Stefania Nicoli,Federico Calegari	Stefania Nicoli	Stefania	female	0.99	396
+55	EMBOJ-2015-91700	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Gerhard Schratt,Stefania Nicoli,Federico Calegari	Federico Calegari	Federico	male	1	686
+56	EMBOJ-2015-91708	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Todd Golde,Stefan Prokop	Todd Golde	Todd	male	1	847
+57	EMBOJ-2015-91708	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Todd Golde,Stefan Prokop	Stefan Prokop	Stefan	male	1	917
+58	EMBOJ-2015-91723	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Christopher Aiken,Michael Emerman	Christopher Aiken	Christopher	male	1	2339
+59	EMBOJ-2015-91723	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Christopher Aiken,Michael Emerman	Michael Emerman	Michael	male	1	11094
+60	EMBOJ-2015-91781	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Daniel Krappmann,Vishva Dixit	Daniel Krappmann	Daniel	male	1	8180
+61	EMBOJ-2015-91781	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Daniel Krappmann,Vishva Dixit	Vishva Dixit	Vishva	male	1	2
+62	EMBOJ-2015-91805	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Cathrin Brisken,Christopher Ormandy	Cathrin Brisken	Cathrin	female	1	12
+63	EMBOJ-2015-91805	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Cathrin Brisken,Christopher Ormandy	Christopher Ormandy	Christopher	male	1	2339
+64	EMBOJ-2015-91866	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Gabriel Corfas,Barbara Canlon	Gabriel Corfas	Gabriel	male	0.99	1674
+65	EMBOJ-2015-91866	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Gabriel Corfas,Barbara Canlon	Barbara Canlon	Barbara	female	1	2837
+66	EMBOJ-2015-91885	Dumstrei, Karin	Revise and Re-review	Matthijs Verhage,Ling-Gang Wu,Didier Dulon	Matthijs Verhage	Matthijs	male	1	12
+67	EMBOJ-2015-91885	Dumstrei, Karin	Revise and Re-review	Matthijs Verhage,Ling-Gang Wu,Didier Dulon	Ling-Gang Wu	Ling-Gang	None	NA	NA
+68	EMBOJ-2015-91885	Dumstrei, Karin	Revise and Re-review	Matthijs Verhage,Ling-Gang Wu,Didier Dulon	Didier Dulon	Didier	male	0.99	204
+69	EMBOJ-2015-91888	Dumstrei, Karin	Revise and Re-review	Ricardo Rajsbaum,Thorsten Hoppe,Paul Freemont	Ricardo Rajsbaum	Ricardo	male	1	1916
+70	EMBOJ-2015-91888	Dumstrei, Karin	Revise and Re-review	Ricardo Rajsbaum,Thorsten Hoppe,Paul Freemont	Thorsten Hoppe	Thorsten	male	1	32
+71	EMBOJ-2015-91888	Dumstrei, Karin	Revise and Re-review	Ricardo Rajsbaum,Thorsten Hoppe,Paul Freemont	Paul Freemont	Paul	male	1	5931
+72	EMBOJ-2015-92035	Dumstrei, Karin	Reject post review	Yasunori Hayashi,Samuel E. Gandy,Yueming Li	Yasunori Hayashi	Yasunori	None	NA	NA
+73	EMBOJ-2015-92035	Dumstrei, Karin	Reject post review	Yasunori Hayashi,Samuel E. Gandy,Yueming Li	Samuel E. Gandy	Samuel E.	None	NA	NA
+74	EMBOJ-2015-92035	Dumstrei, Karin	Reject post review	Yasunori Hayashi,Samuel E. Gandy,Yueming Li	Yueming Li	Yueming	None	NA	NA
+75	EMBOJ-2015-92042	Dumstrei, Karin	Revise only	Claudio Hetz,Chad Dickey,Taisuke Tomita	Claudio Hetz	Claudio	male	1	854
+76	EMBOJ-2015-92042	Dumstrei, Karin	Revise only	Claudio Hetz,Chad Dickey,Taisuke Tomita	Chad Dickey	Chad	male	1	1028
+77	EMBOJ-2015-92042	Dumstrei, Karin	Revise only	Claudio Hetz,Chad Dickey,Taisuke Tomita	Taisuke Tomita	Taisuke	male	1	1
+78	EMBOJ-2015-92045	Dumstrei, Karin	Reject post review	Takeshi Iwatsubo,Ted Dawson,Philipp Kahle	Takeshi Iwatsubo	Takeshi	male	1	20
+79	EMBOJ-2015-92045	Dumstrei, Karin	Reject post review	Takeshi Iwatsubo,Ted Dawson,Philipp Kahle	Ted Dawson	Ted	male	1	376
+80	EMBOJ-2015-92045	Dumstrei, Karin	Reject post review	Takeshi Iwatsubo,Ted Dawson,Philipp Kahle	Philipp Kahle	Philipp	male	1	205
+81	EMBOJ-2015-92081	Dumstrei, Karin	Revise and Re-review	Stefano Piccolo,Andrew Aplin,Thomas Graeber	Stefano Piccolo	Stefano	male	1	732
+82	EMBOJ-2015-92081	Dumstrei, Karin	Revise and Re-review	Stefano Piccolo,Andrew Aplin,Thomas Graeber	Andrew Aplin	Andrew	male	1	5168
+83	EMBOJ-2015-92081	Dumstrei, Karin	Revise and Re-review	Stefano Piccolo,Andrew Aplin,Thomas Graeber	Thomas Graeber	Thomas	male	1	3753
+84	EMBOJ-2015-92104	Dumstrei, Karin	Reject post review	Bruno Klaholz,Ruben L Gonzalez	Bruno Klaholz	Bruno	male	1	926
+85	EMBOJ-2015-92104	Dumstrei, Karin	Reject post review	Bruno Klaholz,Ruben L Gonzalez	Ruben L Gonzalez	Ruben L	None	NA	NA
+86	EMBOJ-2015-92107	Dumstrei, Karin	Reject post review	Mark Hoon,Diana Bautista	Mark Hoon	Mark	male	1	6176
+87	EMBOJ-2015-92107	Dumstrei, Karin	Reject post review	Mark Hoon,Diana Bautista	Diana Bautista	Diana	female	0.99	2885
+88	EMBOJ-2015-92116	Dumstrei, Karin	Revise and Re-review	Martin Eilers,Bing Lim	Martin Eilers	Martin	male	1	3568
+89	EMBOJ-2015-92116	Dumstrei, Karin	Revise and Re-review	Martin Eilers,Bing Lim	Bing Lim	Bing	female	0.62	37
+90	EMBOJ-2015-92188	Dumstrei, Karin	Revise and Re-review	Jonas Muhr,Gert Jansen	Jonas Muhr	Jonas	male	1	628
+91	EMBOJ-2015-92188	Dumstrei, Karin	Revise and Re-review	Jonas Muhr,Gert Jansen	Gert Jansen	Gert	male	1	48
+92	EMBOJ-2015-92224	Dumstrei, Karin	Revise and Re-review	Francisco Baralle,Guy Rouleau,Rockland Wiseman	Francisco Baralle	Francisco	male	1	1513
+93	EMBOJ-2015-92224	Dumstrei, Karin	Revise and Re-review	Francisco Baralle,Guy Rouleau,Rockland Wiseman	Guy Rouleau	Guy	male	1	445
+94	EMBOJ-2015-92224	Dumstrei, Karin	Revise and Re-review	Francisco Baralle,Guy Rouleau,Rockland Wiseman	Rockland Wiseman	Rockland	male	1	1
+95	EMBOJ-2015-92237	Dumstrei, Karin	Revise and Re-review	Tony Hunter,Katrin Rittinger,Kylie Walters	Tony Hunter	Tony	male	1	3071
+96	EMBOJ-2015-92237	Dumstrei, Karin	Revise and Re-review	Tony Hunter,Katrin Rittinger,Kylie Walters	Katrin Rittinger	Katrin	female	1	193
+97	EMBOJ-2015-92237	Dumstrei, Karin	Revise and Re-review	Tony Hunter,Katrin Rittinger,Kylie Walters	Kylie Walters	Kylie	female	1	441
+98	EMBOJ-2015-92244	Dumstrei, Karin	Revise and Re-review	Volker Haucke,Pablo Castillo	Volker Haucke	Volker	male	1	31
+99	EMBOJ-2015-92244	Dumstrei, Karin	Revise and Re-review	Volker Haucke,Pablo Castillo	Pablo Castillo	Pablo	male	1	1653
+100	EMBOJ-2015-92337	Dumstrei, Karin	Revise and Re-review	Katrin Rittinger	Katrin Rittinger	Katrin	female	1	193
+101	EMBOJ-2015-92359	Dumstrei, Karin	Revise and Re-review	Wesley I. Sundquist,Félix Rey,Owen Pornillos	Wesley I. Sundquist	Wesley I.	None	NA	NA
+102	EMBOJ-2015-92359	Dumstrei, Karin	Revise and Re-review	Wesley I. Sundquist,Félix Rey,Owen Pornillos	Félix Rey	Félix	male	1	35
+103	EMBOJ-2015-92359	Dumstrei, Karin	Revise and Re-review	Wesley I. Sundquist,Félix Rey,Owen Pornillos	Owen Pornillos	Owen	male	0.99	240
+104	EMBOJ-2015-92372	Dumstrei, Karin	Revise and Re-review	Isabel Fariñas,Brad St. Croix,Benedikt Berninger	Isabel Fariñas	Isabel	female	1	1094
+105	EMBOJ-2015-92372	Dumstrei, Karin	Revise and Re-review	Isabel Fariñas,Brad St. Croix,Benedikt Berninger	Brad St. Croix	Brad St.	None	NA	NA
+106	EMBOJ-2015-92372	Dumstrei, Karin	Revise and Re-review	Isabel Fariñas,Brad St. Croix,Benedikt Berninger	Benedikt Berninger	Benedikt	male	1	26
+107	EMBOJ-2015-92430	Dumstrei, Karin	Reject post review	Shizuo Akira,Shashi Bala,Michael Karin	Shizuo Akira	Shizuo	None	NA	NA
+108	EMBOJ-2015-92430	Dumstrei, Karin	Reject post review	Shizuo Akira,Shashi Bala,Michael Karin	Shashi Bala	Shashi	male	0.71	31
+109	EMBOJ-2015-92430	Dumstrei, Karin	Reject post review	Shizuo Akira,Shashi Bala,Michael Karin	Michael Karin	Michael	male	1	11094
+110	EMBOJ-2015-92517	Dumstrei, Karin	Reject post review	Stefano Casola,Didier Trono,Richard Austin	Stefano Casola	Stefano	male	1	732
+111	EMBOJ-2015-92517	Dumstrei, Karin	Reject post review	Stefano Casola,Didier Trono,Richard Austin	Didier Trono	Didier	male	0.99	204
+112	EMBOJ-2015-92517	Dumstrei, Karin	Reject post review	Stefano Casola,Didier Trono,Richard Austin	Richard Austin	Richard	male	1	4381
+113	EMBOJ-2015-92524	Dumstrei, Karin	Revise and Re-review	William Schafer,Rockland Wiseman,Anat Ben-Zvi	William Schafer	William	male	1	2626
+114	EMBOJ-2015-92524	Dumstrei, Karin	Revise and Re-review	William Schafer,Rockland Wiseman,Anat Ben-Zvi	Rockland Wiseman	Rockland	male	1	1
+115	EMBOJ-2015-92524	Dumstrei, Karin	Revise and Re-review	William Schafer,Rockland Wiseman,Anat Ben-Zvi	Anat Ben-Zvi	Anat	female	0.98	46
+116	EMBOJ-2015-92534	Dumstrei, Karin	Revise and Re-review	Matthias Merkenschlager,Gerd Blobel,Michael Krangel	Matthias Merkenschlager	Matthias	male	1	257
+117	EMBOJ-2015-92534	Dumstrei, Karin	Revise and Re-review	Matthias Merkenschlager,Gerd Blobel,Michael Krangel	Gerd Blobel	Gerd	female	0.52	54
+118	EMBOJ-2015-92534	Dumstrei, Karin	Revise and Re-review	Matthias Merkenschlager,Gerd Blobel,Michael Krangel	Michael Krangel	Michael	male	1	11094
+119	EMBOJ-2015-92559	Dumstrei, Karin	Revise and Re-review	Dorothee Dormann,Michael Sendtner,Jacqueline Mitchell	Dorothee Dormann	Dorothee	female	1	36
+120	EMBOJ-2015-92559	Dumstrei, Karin	Revise and Re-review	Dorothee Dormann,Michael Sendtner,Jacqueline Mitchell	Michael Sendtner	Michael	male	1	11094
+121	EMBOJ-2015-92559	Dumstrei, Karin	Revise and Re-review	Dorothee Dormann,Michael Sendtner,Jacqueline Mitchell	Jacqueline Mitchell	Jacqueline	female	1	1016
+122	EMBOJ-2015-92602	Dumstrei, Karin	Reject post review	Stephane Meresse,Michael Hensel,Javier Pizarro-Cerda	Stephane Meresse	Stephane	male	0.99	221
+123	EMBOJ-2015-92602	Dumstrei, Karin	Reject post review	Stephane Meresse,Michael Hensel,Javier Pizarro-Cerda	Michael Hensel	Michael	male	1	11094
+124	EMBOJ-2015-92602	Dumstrei, Karin	Reject post review	Stephane Meresse,Michael Hensel,Javier Pizarro-Cerda	Javier Pizarro-Cerda	Javier	male	1	1975
+125	EMBOJ-2015-92623	Dumstrei, Karin	Reject post review	Todd Golde,Chad Dickey	Todd Golde	Todd	male	1	847
+126	EMBOJ-2015-92623	Dumstrei, Karin	Reject post review	Todd Golde,Chad Dickey	Chad Dickey	Chad	male	1	1028
+127	EMBOJ-2015-92631	Dumstrei, Karin	Reject post review	Todd Golde,Chad Dickey	Todd Golde	Todd	male	1	847
+128	EMBOJ-2015-92631	Dumstrei, Karin	Reject post review	Todd Golde,Chad Dickey	Chad Dickey	Chad	male	1	1028
+129	EMBOJ-2015-92651	Dumstrei, Karin	Revise and Re-review	Wesley I. Sundquist,Félix Rey,Owen Pornillos	Wesley I. Sundquist	Wesley I.	None	NA	NA
+130	EMBOJ-2015-92651	Dumstrei, Karin	Revise and Re-review	Wesley I. Sundquist,Félix Rey,Owen Pornillos	Félix Rey	Félix	male	1	35
+131	EMBOJ-2015-92651	Dumstrei, Karin	Revise and Re-review	Wesley I. Sundquist,Félix Rey,Owen Pornillos	Owen Pornillos	Owen	male	0.99	240
+132	EMBOJ-2015-92649	Dumstrei, Karin	Revise and Re-review	Allan Mowat,John Grainger,Greg Barton	Allan Mowat	Allan	male	1	590
+133	EMBOJ-2015-92649	Dumstrei, Karin	Revise and Re-review	Allan Mowat,John Grainger,Greg Barton	John Grainger	John	male	0.99	9931
+134	EMBOJ-2015-92649	Dumstrei, Karin	Revise and Re-review	Allan Mowat,John Grainger,Greg Barton	Greg Barton	Greg	male	1	1852
+135	EMBOJ-2015-92652	Dumstrei, Karin	Revise only	Mickie Bhatia	Mickie Bhatia	Mickie	female	0.88	25
+136	EMBOJ-2015-92669	Dumstrei, Karin	Reject post review	Christoph Wuelfing	Christoph Wuelfing	Christoph	male	1	192
+137	EMBOJ-2015-92701	Dumstrei, Karin	Revise and Re-review	Silvio Rizzoli,Tobias Moser	Silvio Rizzoli	Silvio	male	1	183
+138	EMBOJ-2015-92701	Dumstrei, Karin	Revise and Re-review	Silvio Rizzoli,Tobias Moser	Tobias Moser	Tobias	male	1	352
+139	EMBOJ-2015-92706	Dumstrei, Karin	Reject post review	Marjorie Brand,Berthold Gottgens	Marjorie Brand	Marjorie	female	0.99	342
+140	EMBOJ-2015-92706	Dumstrei, Karin	Reject post review	Marjorie Brand,Berthold Gottgens	Berthold Gottgens	Berthold	male	1	4
+141	EMBOJ-2015-92748	Dumstrei, Karin	Revise only	John Hardy,Jurgen Gotz	John Hardy	John	male	0.99	9931
+142	EMBOJ-2015-92748	Dumstrei, Karin	Revise only	John Hardy,Jurgen Gotz	Jurgen Gotz	Jurgen	male	0.97	36
+143	EMBOJ-2015-92853	Dumstrei, Karin	Revise and Re-Review - Border Line Reject	R. Keith Slotkin,Andrzej Wierzbicki,Ortrun Mittelsten Scheid	R. Keith Slotkin	R. Keith	None	NA	NA
+144	EMBOJ-2015-92853	Dumstrei, Karin	Revise and Re-Review - Border Line Reject	R. Keith Slotkin,Andrzej Wierzbicki,Ortrun Mittelsten Scheid	Andrzej Wierzbicki	Andrzej	male	0.98	50
+145	EMBOJ-2015-92853	Dumstrei, Karin	Revise and Re-Review - Border Line Reject	R. Keith Slotkin,Andrzej Wierzbicki,Ortrun Mittelsten Scheid	Ortrun Mittelsten Scheid	Ortrun Mittelsten	None	NA	NA
+146	EMBOJ-2015-93027	Dumstrei, Karin	Revise only	Michael Dustin,Doreen A. Cantrell	Michael Dustin	Michael	male	1	11094
+147	EMBOJ-2015-93027	Dumstrei, Karin	Revise only	Michael Dustin,Doreen A. Cantrell	Doreen A. Cantrell	Doreen A.	None	NA	NA
+148	EMBOJ-2015-93070	Dumstrei, Karin	Revise and Re-review	Mike Fainzilber,Giles Hardingham	Mike Fainzilber	Mike	male	1	5595
+149	EMBOJ-2015-93070	Dumstrei, Karin	Revise and Re-review	Mike Fainzilber,Giles Hardingham	Giles Hardingham	Giles	male	0.86	77
+150	EMBOJ-2015-93088	Dumstrei, Karin	Reject post review	Zhaoyu Li,David Wallach	Zhaoyu Li	Zhaoyu	male	1	1
+151	EMBOJ-2015-93088	Dumstrei, Karin	Reject post review	Zhaoyu Li,David Wallach	David Wallach	David	male	1	12593
+152	EMBOJ-2015-93098	Dumstrei, Karin	Reject post review	Stephen Moss,Antoine Triller,Beatriz Rico	Stephen Moss	Stephen	male	1	2608
+153	EMBOJ-2015-93098	Dumstrei, Karin	Reject post review	Stephen Moss,Antoine Triller,Beatriz Rico	Antoine Triller	Antoine	male	1	411
+154	EMBOJ-2015-93098	Dumstrei, Karin	Reject post review	Stephen Moss,Antoine Triller,Beatriz Rico	Beatriz Rico	Beatriz	female	1	829
+155	EMBOJ-2015-93193	Dumstrei, Karin	Reject post review	Alexey Ruzov,Federico Calegari	Alexey Ruzov	Alexey	male	1	45
+156	EMBOJ-2015-93193	Dumstrei, Karin	Reject post review	Alexey Ruzov,Federico Calegari	Federico Calegari	Federico	male	1	686
+157	EMBOJ-2015-93246	Dumstrei, Karin	Reject post review	Kenneth M. Murphy,Gioacchino Natoli,Slimane AIT-SI-ALI	Kenneth M. Murphy	Kenneth M.	None	NA	NA
+158	EMBOJ-2015-93246	Dumstrei, Karin	Reject post review	Kenneth M. Murphy,Gioacchino Natoli,Slimane AIT-SI-ALI	Gioacchino Natoli	Gioacchino	male	1	8
+159	EMBOJ-2015-93246	Dumstrei, Karin	Reject post review	Kenneth M. Murphy,Gioacchino Natoli,Slimane AIT-SI-ALI	Slimane AIT-SI-ALI	Slimane	male	1	7
+160	EMBOJ-2015-93262	Dumstrei, Karin	Reject post review	Domagoj Vucic,Kazuhiro Iwai,Daniel Krappmann	Domagoj Vucic	Domagoj	male	1	34
+161	EMBOJ-2015-93262	Dumstrei, Karin	Reject post review	Domagoj Vucic,Kazuhiro Iwai,Daniel Krappmann	Kazuhiro Iwai	Kazuhiro	male	1	9
+162	EMBOJ-2015-93262	Dumstrei, Karin	Reject post review	Domagoj Vucic,Kazuhiro Iwai,Daniel Krappmann	Daniel Krappmann	Daniel	male	1	8180
+163	EMBOJ-2015-93312	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Martin Kerschensteiner,Jae Lee	Martin Kerschensteiner	Martin	male	1	3568
+164	EMBOJ-2015-93312	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Martin Kerschensteiner,Jae Lee	Jae Lee	Jae	male	0.58	90
+165	EMBOJ-2015-93339	Dumstrei, Karin	Revise and Re-review	Nicolas Manel,Axel Roers,Andrew Bowie	Nicolas Manel	Nicolas	male	1	1953
+166	EMBOJ-2015-93339	Dumstrei, Karin	Revise and Re-review	Nicolas Manel,Axel Roers,Andrew Bowie	Axel Roers	Axel	male	0.98	283
+167	EMBOJ-2015-93339	Dumstrei, Karin	Revise and Re-review	Nicolas Manel,Axel Roers,Andrew Bowie	Andrew Bowie	Andrew	male	1	5168
+168	EMBOJ-2015-93350	Dumstrei, Karin	Revise and Re-review	Fen-Biao Gao,Luc Dupuis,Patrik Verstreken	Fen-Biao Gao	Fen-Biao	None	NA	NA
+169	EMBOJ-2015-93350	Dumstrei, Karin	Revise and Re-review	Fen-Biao Gao,Luc Dupuis,Patrik Verstreken	Luc Dupuis	Luc	male	0.97	258
+170	EMBOJ-2015-93350	Dumstrei, Karin	Revise and Re-review	Fen-Biao Gao,Luc Dupuis,Patrik Verstreken	Patrik Verstreken	Patrik	male	1	194
+171	EMBOJ-2015-93356	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Guillermina Lopez-Bendito,Haruhiko Bito	Guillermina Lopez-Bendito	Guillermina	female	1	54
+172	EMBOJ-2015-93356	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Guillermina Lopez-Bendito,Haruhiko Bito	Haruhiko Bito	Haruhiko	male	1	1
+173	EMBOJ-2015-93375	Dumstrei, Karin	Reject post review	Eric Huseby,Mark Daniels	Eric Huseby	Eric	male	1	4110
+174	EMBOJ-2015-93375	Dumstrei, Karin	Reject post review	Eric Huseby,Mark Daniels	Mark Daniels	Mark	male	1	6176
+175	EMBOJ-2015-93380	Dumstrei, Karin	Reject post review	Fernando Macian,Anant Parekh,Patrick Hogan	Fernando Macian	Fernando	male	1	2012
+176	EMBOJ-2015-93380	Dumstrei, Karin	Reject post review	Fernando Macian,Anant Parekh,Patrick Hogan	Anant Parekh	Anant	male	0.98	59
+177	EMBOJ-2015-93380	Dumstrei, Karin	Reject post review	Fernando Macian,Anant Parekh,Patrick Hogan	Patrick Hogan	Patrick	male	1	2877
+178	EMBOJ-2015-93409	Dumstrei, Karin	Revise and Re-review	Mark Shapiro,Mark Dell'Acqua	Mark Shapiro	Mark	male	1	6176
+179	EMBOJ-2015-93409	Dumstrei, Karin	Revise and Re-review	Mark Shapiro,Mark Dell'Acqua	Mark Dell'Acqua	Mark	male	1	6176
+180	EMBOJ-2015-93410	Dumstrei, Karin	Reject post review	Jayakrishna Ambati,Roman Giger	Jayakrishna Ambati	Jayakrishna	None	NA	NA
+181	EMBOJ-2015-93410	Dumstrei, Karin	Reject post review	Jayakrishna Ambati,Roman Giger	Roman Giger	Roman	male	1	449
+182	EMBOJ-2015-93458	Dumstrei, Karin	Revise and Re-review	Adolfo Garcia-Sastre,Andrew Jackson	Adolfo Garcia-Sastre	Adolfo	male	1	192
+183	EMBOJ-2015-93458	Dumstrei, Karin	Revise and Re-review	Adolfo Garcia-Sastre,Andrew Jackson	Andrew Jackson	Andrew	male	1	5168
+184	EMBOJ-2015-93460	Dumstrei, Karin	Revise and Re-review	Frank Bradke,Vance Lemmon	Frank Bradke	Frank	male	1	1565
+185	EMBOJ-2015-93460	Dumstrei, Karin	Revise and Re-review	Frank Bradke,Vance Lemmon	Vance Lemmon	Vance	male	1	35
+186	EMBOJ-2015-93462	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Inder Verma,Daniel Krappmann	Inder Verma	Inder	male	1	22
+187	EMBOJ-2015-93462	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Inder Verma,Daniel Krappmann	Daniel Krappmann	Daniel	male	1	8180
+188	EMBOJ-2015-93489	Dumstrei, Karin	Revise and Re-review	Conrad Weihl,David Holtzman,Susanne Wegmann	Conrad Weihl	Conrad	male	1	82
+189	EMBOJ-2015-93489	Dumstrei, Karin	Revise and Re-review	Conrad Weihl,David Holtzman,Susanne Wegmann	David Holtzman	David	male	1	12593
+190	EMBOJ-2015-93489	Dumstrei, Karin	Revise and Re-review	Conrad Weihl,David Holtzman,Susanne Wegmann	Susanne Wegmann	Susanne	female	1	558
+191	EMBOJ-2015-93003	Klimmeck, Daniel	Revise and Re-review	Alessandra Boletta,Michael Köttgen,Maureen M. Barr	Alessandra Boletta	Alessandra	female	1	669
+192	EMBOJ-2015-93003	Klimmeck, Daniel	Revise and Re-review	Alessandra Boletta,Michael Köttgen,Maureen M. Barr	Michael Köttgen	Michael	male	1	11094
+193	EMBOJ-2015-93003	Klimmeck, Daniel	Revise and Re-review	Alessandra Boletta,Michael Köttgen,Maureen M. Barr	Maureen M. Barr	Maureen M.	None	NA	NA
+194	EMBOJ-2015-93053	Klimmeck, Daniel	Reject post review	Manuel Serrano,Eric Vivier,Stephan Gasser	Manuel Serrano	Manuel	male	1	1954
+195	EMBOJ-2015-93053	Klimmeck, Daniel	Reject post review	Manuel Serrano,Eric Vivier,Stephan Gasser	Eric Vivier	Eric	male	1	4110
+196	EMBOJ-2015-93053	Klimmeck, Daniel	Reject post review	Manuel Serrano,Eric Vivier,Stephan Gasser	Stephan Gasser	Stephan	male	1	265
+197	EMBOJ-2015-93103	Klimmeck, Daniel	Revise and Re-review	Zuzana Storchova,Don W. Cleveland ,Rene Medema,Renata Basto	Zuzana Storchova	Zuzana	female	1	209
+198	EMBOJ-2015-93103	Klimmeck, Daniel	Revise and Re-review	Zuzana Storchova,Don W. Cleveland ,Rene Medema,Renata Basto	Don W. Cleveland 	Don W.	None	NA	NA
+199	EMBOJ-2015-93103	Klimmeck, Daniel	Revise and Re-review	Zuzana Storchova,Don W. Cleveland ,Rene Medema,Renata Basto	Rene Medema	Rene	male	0.81	522
+200	EMBOJ-2015-93103	Klimmeck, Daniel	Revise and Re-review	Zuzana Storchova,Don W. Cleveland ,Rene Medema,Renata Basto	Renata Basto	Renata	female	0.99	309
+201	EMBOJ-2015-93240	Klimmeck, Daniel	Reject post review	Iannis Talianidis,Gunnar Schotta,Theodore Welling,Charles Swanton	Iannis Talianidis	Iannis	male	1	2
+202	EMBOJ-2015-93240	Klimmeck, Daniel	Reject post review	Iannis Talianidis,Gunnar Schotta,Theodore Welling,Charles Swanton	Gunnar Schotta	Gunnar	male	1	127
+203	EMBOJ-2015-93240	Klimmeck, Daniel	Reject post review	Iannis Talianidis,Gunnar Schotta,Theodore Welling,Charles Swanton	Theodore Welling	Theodore	male	0.96	46
+204	EMBOJ-2015-93240	Klimmeck, Daniel	Reject post review	Iannis Talianidis,Gunnar Schotta,Theodore Welling,Charles Swanton	Charles Swanton	Charles	male	1	1798
+205	EMBOJ-2015-93285	Klimmeck, Daniel	Revise and Re-review	Dejian Ren,Osamu Nureki ,Olaf Pongs,Werner Kühlbrandt	Dejian Ren	Dejian	None	NA	NA
+206	EMBOJ-2015-93285	Klimmeck, Daniel	Revise and Re-review	Dejian Ren,Osamu Nureki ,Olaf Pongs,Werner Kühlbrandt	Osamu Nureki 	Osamu	male	1	3
+207	EMBOJ-2015-93285	Klimmeck, Daniel	Revise and Re-review	Dejian Ren,Osamu Nureki ,Olaf Pongs,Werner Kühlbrandt	Olaf Pongs	Olaf	male	1	65
+208	EMBOJ-2015-93285	Klimmeck, Daniel	Revise and Re-review	Dejian Ren,Osamu Nureki ,Olaf Pongs,Werner Kühlbrandt	Werner Kühlbrandt	Werner	male	1	80
+209	EMBOJ-2015-93353	Klimmeck, Daniel	Reject post review	Tim Formosa,Zhiguo Zhang,Karolin Luger	Tim Formosa	Tim	male	0.99	2949
+210	EMBOJ-2015-93353	Klimmeck, Daniel	Reject post review	Tim Formosa,Zhiguo Zhang,Karolin Luger	Zhiguo Zhang	Zhiguo	None	NA	NA
+211	EMBOJ-2015-93353	Klimmeck, Daniel	Reject post review	Tim Formosa,Zhiguo Zhang,Karolin Luger	Karolin Luger	Karolin	female	1	16
+212	EMBOJ-2015-93372	Klimmeck, Daniel	Reject post review	Hans Schöler,Andre Terzic,Michael Teitell	Hans Schöler	Hans	male	0.99	431
+213	EMBOJ-2015-93372	Klimmeck, Daniel	Reject post review	Hans Schöler,Andre Terzic,Michael Teitell	Andre Terzic	Andre	male	0.93	860
+214	EMBOJ-2015-93372	Klimmeck, Daniel	Reject post review	Hans Schöler,Andre Terzic,Michael Teitell	Michael Teitell	Michael	male	1	11094
+215	EMBOJ-2015-93454	Klimmeck, Daniel	Reject post review	Mineo Murokawa,Anna Bigas,David Traver	Mineo Murokawa	Mineo	None	NA	NA
+216	EMBOJ-2015-93454	Klimmeck, Daniel	Reject post review	Mineo Murokawa,Anna Bigas,David Traver	Anna Bigas	Anna	female	1	4755
+217	EMBOJ-2015-93454	Klimmeck, Daniel	Reject post review	Mineo Murokawa,Anna Bigas,David Traver	David Traver	David	male	1	12593
+218	EMBOJ-2015-93514	Klimmeck, Daniel	Reject post review	Jeff Rosen,Jane Visvader	Jeff Rosen	Jeff	male	1	2925
+219	EMBOJ-2015-93514	Klimmeck, Daniel	Reject post review	Jeff Rosen,Jane Visvader	Jane Visvader	Jane	female	0.99	1796
+220	EMBOJ-2014-90788	Leibfried, Andrea	Revise and Re-review	Sandra Schmid ,Matthias Krause,Marko Kaksonen	Sandra Schmid 	Sandra	female	1	4110
+221	EMBOJ-2014-90788	Leibfried, Andrea	Revise and Re-review	Sandra Schmid ,Matthias Krause,Marko Kaksonen	Matthias Krause	Matthias	male	1	257
+222	EMBOJ-2014-90788	Leibfried, Andrea	Revise and Re-review	Sandra Schmid ,Matthias Krause,Marko Kaksonen	Marko Kaksonen	Marko	male	0.99	377
+223	EMBOJ-2014-90790	Leibfried, Andrea	Reject post review	Pekka Katajisto,Estela Jacinto,Brendan Manning	Pekka Katajisto	Pekka	male	1	57
+224	EMBOJ-2014-90790	Leibfried, Andrea	Reject post review	Pekka Katajisto,Estela Jacinto,Brendan Manning	Estela Jacinto	Estela	female	1	138
+225	EMBOJ-2014-90790	Leibfried, Andrea	Reject post review	Pekka Katajisto,Estela Jacinto,Brendan Manning	Brendan Manning	Brendan	male	1	517
+226	EMBOJ-2014-90879	Leibfried, Andrea	Revise and Re-review	Maya Schuldiner,Vytas Bankaitis,Robbie Loewith	Maya Schuldiner	Maya	female	0.97	427
+227	EMBOJ-2014-90879	Leibfried, Andrea	Revise and Re-review	Maya Schuldiner,Vytas Bankaitis,Robbie Loewith	Vytas Bankaitis	Vytas	male	1	2
+228	EMBOJ-2014-90879	Leibfried, Andrea	Revise and Re-review	Maya Schuldiner,Vytas Bankaitis,Robbie Loewith	Robbie Loewith	Robbie	male	0.94	368
+229	EMBOJ-2014-90899	Leibfried, Andrea	Revise and Re-review	Arp Schnittger,Wilhelm Gruissem,James DeCaprio	Arp Schnittger	Arp	female	1	9
+230	EMBOJ-2014-90899	Leibfried, Andrea	Revise and Re-review	Arp Schnittger,Wilhelm Gruissem,James DeCaprio	Wilhelm Gruissem	Wilhelm	male	1	19
+231	EMBOJ-2014-90899	Leibfried, Andrea	Revise and Re-review	Arp Schnittger,Wilhelm Gruissem,James DeCaprio	James DeCaprio	James	male	0.99	6359
+232	EMBOJ-2015-90992	Leibfried, Andrea	Revise and Re-review	Harald Stenmark,Sharon Tooze,Li Yu 	Harald Stenmark	Harald	male	1	80
+233	EMBOJ-2015-90992	Leibfried, Andrea	Revise and Re-review	Harald Stenmark,Sharon Tooze,Li Yu 	Sharon Tooze	Sharon	female	0.99	2760
+234	EMBOJ-2015-90992	Leibfried, Andrea	Revise and Re-review	Harald Stenmark,Sharon Tooze,Li Yu 	Li Yu 	Li	female	0.66	274
+235	EMBOJ-2015-90988	Leibfried, Andrea	Reject post review	Jayanta Debnath,M. Celeste Simon,Francesco Cecconi	Jayanta Debnath	Jayanta	male	1	7
+236	EMBOJ-2015-90988	Leibfried, Andrea	Reject post review	Jayanta Debnath,M. Celeste Simon,Francesco Cecconi	M. Celeste Simon	M. Celeste	None	NA	NA
+237	EMBOJ-2015-90988	Leibfried, Andrea	Reject post review	Jayanta Debnath,M. Celeste Simon,Francesco Cecconi	Francesco Cecconi	Francesco	male	1	1093
+238	EMBOJ-2015-91041	Leibfried, Andrea	Revise only	Riekelt Houtkooper	Riekelt Houtkooper	Riekelt	None	NA	NA
+239	EMBOJ-2015-91056	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	J. Kevin Foskett,Eric Schon	J. Kevin Foskett	J. Kevin	None	NA	NA
+240	EMBOJ-2015-91056	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	J. Kevin Foskett,Eric Schon	Eric Schon	Eric	male	1	4110
+241	EMBOJ-2015-91090	Leibfried, Andrea	Reject post review	Henning Walczak,Simone Fulda,Ana Martin-Villalba	Henning Walczak	Henning	male	1	77
+242	EMBOJ-2015-91090	Leibfried, Andrea	Reject post review	Henning Walczak,Simone Fulda,Ana Martin-Villalba	Simone Fulda	Simone	female	0.55	1086
+243	EMBOJ-2015-91090	Leibfried, Andrea	Reject post review	Henning Walczak,Simone Fulda,Ana Martin-Villalba	Ana Martin-Villalba	Ana	female	0.99	3621
+244	EMBOJ-2015-91125	Leibfried, Andrea	Revise and Re-review	Victor Faundez,Nils Brose,Michael Marks	Victor Faundez	Victor	male	1	2234
+245	EMBOJ-2015-91125	Leibfried, Andrea	Revise and Re-review	Victor Faundez,Nils Brose,Michael Marks	Nils Brose	Nils	male	0.99	149
+246	EMBOJ-2015-91125	Leibfried, Andrea	Revise and Re-review	Victor Faundez,Nils Brose,Michael Marks	Michael Marks	Michael	male	1	11094
+247	EMBOJ-2015-91245	Leibfried, Andrea	Revise and Re-review	F. Ulrich Hartl,Pierre Goloubinoff,Elizabeth Craig	F. Ulrich Hartl	F. Ulrich	None	NA	NA
+248	EMBOJ-2015-91245	Leibfried, Andrea	Revise and Re-review	F. Ulrich Hartl,Pierre Goloubinoff,Elizabeth Craig	Pierre Goloubinoff	Pierre	male	0.99	852
+249	EMBOJ-2015-91245	Leibfried, Andrea	Revise and Re-review	F. Ulrich Hartl,Pierre Goloubinoff,Elizabeth Craig	Elizabeth Craig	Elizabeth	female	1	3508
+250	EMBOJ-2015-91440	Leibfried, Andrea	Revise and Re-review	Zvulun Elazar,Vytas Bankaitis	Zvulun Elazar	Zvulun	None	NA	NA
+251	EMBOJ-2015-91440	Leibfried, Andrea	Revise and Re-review	Zvulun Elazar,Vytas Bankaitis	Vytas Bankaitis	Vytas	male	1	2
+252	EMBOJ-2015-91518	Leibfried, Andrea	Revise and Re-review	Volker Haucke,Anjon Audhya	Volker Haucke	Volker	male	1	31
+253	EMBOJ-2015-91518	Leibfried, Andrea	Revise and Re-review	Volker Haucke,Anjon Audhya	Anjon Audhya	Anjon	None	NA	NA
+254	EMBOJ-2015-91552	Leibfried, Andrea	Revise and Re-review	Jean-Claude Martinou,Nico Tjandra,Frank Edlich	Jean-Claude Martinou	Jean-Claude	male	0.98	53
+255	EMBOJ-2015-91552	Leibfried, Andrea	Revise and Re-review	Jean-Claude Martinou,Nico Tjandra,Frank Edlich	Nico Tjandra	Nico	male	0.98	523
+256	EMBOJ-2015-91552	Leibfried, Andrea	Revise and Re-review	Jean-Claude Martinou,Nico Tjandra,Frank Edlich	Frank Edlich	Frank	male	1	1565
+257	EMBOJ-2015-91565	Leibfried, Andrea	Revise and Re-review	Indu Ambudkar,Silvio Rizzoli,Thomas Sollner	Indu Ambudkar	Indu	female	0.92	12
+258	EMBOJ-2015-91565	Leibfried, Andrea	Revise and Re-review	Indu Ambudkar,Silvio Rizzoli,Thomas Sollner	Silvio Rizzoli	Silvio	male	1	183
+259	EMBOJ-2015-91565	Leibfried, Andrea	Revise and Re-review	Indu Ambudkar,Silvio Rizzoli,Thomas Sollner	Thomas Sollner	Thomas	male	1	3753
+260	EMBOJ-2015-91575	Leibfried, Andrea	Reject post review	Orian Shirihai,Giampietro Schiavo,Alexander M. Van der Bliek	Orian Shirihai	Orian	female	0.9	10
+261	EMBOJ-2015-91575	Leibfried, Andrea	Reject post review	Orian Shirihai,Giampietro Schiavo,Alexander M. Van der Bliek	Giampietro Schiavo	Giampietro	male	1	4
+262	EMBOJ-2015-91575	Leibfried, Andrea	Reject post review	Orian Shirihai,Giampietro Schiavo,Alexander M. Van der Bliek	Alexander M. Van der Bliek	Alexander M. Van der	None	NA	NA
+263	EMBOJ-2015-91614	Leibfried, Andrea	Reject post review	Estela Jacinto,Joseph Avruch,Tony Hunter	Estela Jacinto	Estela	female	1	138
+264	EMBOJ-2015-91614	Leibfried, Andrea	Reject post review	Estela Jacinto,Joseph Avruch,Tony Hunter	Joseph Avruch	Joseph	male	0.99	2213
+265	EMBOJ-2015-91614	Leibfried, Andrea	Reject post review	Estela Jacinto,Joseph Avruch,Tony Hunter	Tony Hunter	Tony	male	1	3071
+266	EMBOJ-2015-91620	Leibfried, Andrea	Reject post review	Andreas Puschel,Christian Haass,Wim Annaert	Andreas Puschel	Andreas	male	1	1021
+267	EMBOJ-2015-91620	Leibfried, Andrea	Reject post review	Andreas Puschel,Christian Haass,Wim Annaert	Christian Haass	Christian	male	0.99	2548
+268	EMBOJ-2015-91620	Leibfried, Andrea	Reject post review	Andreas Puschel,Christian Haass,Wim Annaert	Wim Annaert	Wim	male	0.99	96
+269	EMBOJ-2015-91745	Leibfried, Andrea	Reject post review	Giovanni Blandino,Rik Derynck,Wim Declercq	Giovanni Blandino	Giovanni	male	1	722
+270	EMBOJ-2015-91745	Leibfried, Andrea	Reject post review	Giovanni Blandino,Rik Derynck,Wim Declercq	Rik Derynck	Rik	male	1	41
+271	EMBOJ-2015-91745	Leibfried, Andrea	Reject post review	Giovanni Blandino,Rik Derynck,Wim Declercq	Wim Declercq	Wim	male	0.99	96
+272	EMBOJ-2015-91746	Leibfried, Andrea	Reject post review	Leonard Neckers,Almut Schulze,William Kaelin	Leonard Neckers	Leonard	male	1	201
+273	EMBOJ-2015-91746	Leibfried, Andrea	Reject post review	Leonard Neckers,Almut Schulze,William Kaelin	Almut Schulze	Almut	female	1	8
+274	EMBOJ-2015-91746	Leibfried, Andrea	Reject post review	Leonard Neckers,Almut Schulze,William Kaelin	William Kaelin	William	male	1	2626
+275	EMBOJ-2015-91748	Leibfried, Andrea	Reject post review	John Stingl,Veronique Azuara	John Stingl	John	male	0.99	9931
+276	EMBOJ-2015-91748	Leibfried, Andrea	Reject post review	John Stingl,Veronique Azuara	Veronique Azuara	Veronique	female	1	431
+277	EMBOJ-2015-91784	Leibfried, Andrea	Reject post review	Xuemei Chen,Peter Brodersen,Martin Crespi	Xuemei Chen	Xuemei	female	1	1
+278	EMBOJ-2015-91784	Leibfried, Andrea	Reject post review	Xuemei Chen,Peter Brodersen,Martin Crespi	Peter Brodersen	Peter	male	1	4373
+279	EMBOJ-2015-91784	Leibfried, Andrea	Reject post review	Xuemei Chen,Peter Brodersen,Martin Crespi	Martin Crespi	Martin	male	1	3568
+280	EMBOJ-2015-91807	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Roger Innes,Jian-Min Zhou	Roger Innes	Roger	male	1	1220
+281	EMBOJ-2015-91807	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Roger Innes,Jian-Min Zhou	Jian-Min Zhou	Jian-Min	None	NA	NA
+282	EMBOJ-2015-91914	Leibfried, Andrea	Reject post review	Thomas Sommer,Roberto Sitia,Ramanujan Hegde	Thomas Sommer	Thomas	male	1	3753
+283	EMBOJ-2015-91914	Leibfried, Andrea	Reject post review	Thomas Sommer,Roberto Sitia,Ramanujan Hegde	Roberto Sitia	Roberto	male	1	1956
+284	EMBOJ-2015-91914	Leibfried, Andrea	Reject post review	Thomas Sommer,Roberto Sitia,Ramanujan Hegde	Ramanujan Hegde	Ramanujan	None	NA	NA
+285	EMBOJ-2015-91973	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Richard Anderson,Jacco van Rheenen,Philippe Chavrier	Richard Anderson	Richard	male	1	4381
+286	EMBOJ-2015-91973	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Richard Anderson,Jacco van Rheenen,Philippe Chavrier	Jacco van Rheenen	Jacco van	None	NA	NA
+287	EMBOJ-2015-91973	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Richard Anderson,Jacco van Rheenen,Philippe Chavrier	Philippe Chavrier	Philippe	male	0.99	605
+288	EMBOJ-2015-91991	Leibfried, Andrea	Reject post review	Priscille Brodin,Estela Jacinto,Andreas Strasser	Priscille Brodin	Priscille	female	1	5
+289	EMBOJ-2015-91991	Leibfried, Andrea	Reject post review	Priscille Brodin,Estela Jacinto,Andreas Strasser	Estela Jacinto	Estela	female	1	138
+290	EMBOJ-2015-91991	Leibfried, Andrea	Reject post review	Priscille Brodin,Estela Jacinto,Andreas Strasser	Andreas Strasser	Andreas	male	1	1021
+291	EMBOJ-2015-91998	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Carmine Settembre,Francisco Baralle,Michael N. Hall	Carmine Settembre	Carmine	male	0.98	100
+292	EMBOJ-2015-91998	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Carmine Settembre,Francisco Baralle,Michael N. Hall	Francisco Baralle	Francisco	male	1	1513
+293	EMBOJ-2015-91998	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Carmine Settembre,Francisco Baralle,Michael N. Hall	Michael N. Hall	Michael N.	None	NA	NA
+294	EMBOJ-2015-92055	Leibfried, Andrea	Reject post review	Anthony Futerman,Jayanta Debnath,Seamus Martin	Anthony Futerman	Anthony	male	1	3029
+295	EMBOJ-2015-92055	Leibfried, Andrea	Reject post review	Anthony Futerman,Jayanta Debnath,Seamus Martin	Jayanta Debnath	Jayanta	male	1	7
+296	EMBOJ-2015-92055	Leibfried, Andrea	Reject post review	Anthony Futerman,Jayanta Debnath,Seamus Martin	Seamus Martin	Seamus	male	1	27
+297	EMBOJ-2015-92097	Leibfried, Andrea	Revise and Re-review	Jorge Moscat,Manuela Baccarini	Jorge Moscat	Jorge	male	1	3183
+298	EMBOJ-2015-92097	Leibfried, Andrea	Revise and Re-review	Jorge Moscat,Manuela Baccarini	Manuela Baccarini	Manuela	female	1	460
+299	EMBOJ-2015-92134	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Volker Haucke,David L. Vaux	Volker Haucke	Volker	male	1	31
+300	EMBOJ-2015-92134	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Volker Haucke,David L. Vaux	David L. Vaux	David L.	None	NA	NA
+301	EMBOJ-2015-92174	Leibfried, Andrea	Reject post review	Pekka Katajisto,Roberto Zoncu	Pekka Katajisto	Pekka	male	1	57
+302	EMBOJ-2015-92174	Leibfried, Andrea	Reject post review	Pekka Katajisto,Roberto Zoncu	Roberto Zoncu	Roberto	male	1	1956
+303	EMBOJ-2015-92206	Leibfried, Andrea	Reject post review	ISSEI KOMURO,Pere Puigserver,Christine Blattner	ISSEI KOMURO	ISSEI	male	1	2
+304	EMBOJ-2015-92206	Leibfried, Andrea	Reject post review	ISSEI KOMURO,Pere Puigserver,Christine Blattner	Pere Puigserver	Pere	male	0.97	36
+305	EMBOJ-2015-92206	Leibfried, Andrea	Reject post review	ISSEI KOMURO,Pere Puigserver,Christine Blattner	Christine Blattner	Christine	female	1	3115
+306	EMBOJ-2015-92296	Leibfried, Andrea	Reject post review	Steve Kay,Matthias Tschöp,Pere Puigserver	Steve Kay	Steve	male	1	3965
+307	EMBOJ-2015-92296	Leibfried, Andrea	Reject post review	Steve Kay,Matthias Tschöp,Pere Puigserver	Matthias Tschöp	Matthias	male	1	257
+308	EMBOJ-2015-92296	Leibfried, Andrea	Reject post review	Steve Kay,Matthias Tschöp,Pere Puigserver	Pere Puigserver	Pere	male	0.97	36
+309	EMBOJ-2015-92394	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Claudio Hetz,David Barford,Linda Hendershot	Claudio Hetz	Claudio	male	1	854
+310	EMBOJ-2015-92394	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Claudio Hetz,David Barford,Linda Hendershot	David Barford	David	male	1	12593
+311	EMBOJ-2015-92394	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Claudio Hetz,David Barford,Linda Hendershot	Linda Hendershot	Linda	female	1	4323
+312	EMBOJ-2015-92422	Leibfried, Andrea	Reject post review	Judith Klumperman,Paul Saftig,Vytas Bankaitis	Judith Klumperman	Judith	female	1	750
+313	EMBOJ-2015-92422	Leibfried, Andrea	Reject post review	Judith Klumperman,Paul Saftig,Vytas Bankaitis	Paul Saftig	Paul	male	1	5931
+314	EMBOJ-2015-92422	Leibfried, Andrea	Reject post review	Judith Klumperman,Paul Saftig,Vytas Bankaitis	Vytas Bankaitis	Vytas	male	1	2
+315	EMBOJ-2015-92480	Leibfried, Andrea	Reject post review	Grant Dewson,Andreas Engel,Silvio Rizzoli	Grant Dewson	Grant	male	1	592
+316	EMBOJ-2015-92480	Leibfried, Andrea	Reject post review	Grant Dewson,Andreas Engel,Silvio Rizzoli	Andreas Engel	Andreas	male	1	1021
+317	EMBOJ-2015-92480	Leibfried, Andrea	Reject post review	Grant Dewson,Andreas Engel,Silvio Rizzoli	Silvio Rizzoli	Silvio	male	1	183
+318	EMBOJ-2015-92490	Leibfried, Andrea	Reject post review	Sascha Martens,Michael Marks	Sascha Martens	Sascha	female	0.51	158
+319	EMBOJ-2015-92490	Leibfried, Andrea	Reject post review	Sascha Martens,Michael Marks	Michael Marks	Michael	male	1	11094
+320	EMBOJ-2015-92493	Leibfried, Andrea	Reject post review	Aimee Edinger,Mary Munson,Anna Sablina	Aimee Edinger	Aimee	female	1	489
+321	EMBOJ-2015-92493	Leibfried, Andrea	Reject post review	Aimee Edinger,Mary Munson,Anna Sablina	Mary Munson	Mary	female	1	4440
+322	EMBOJ-2015-92493	Leibfried, Andrea	Reject post review	Aimee Edinger,Mary Munson,Anna Sablina	Anna Sablina	Anna	female	1	4755
+323	EMBOJ-2015-92521	Leibfried, Andrea	Reject post review	Michael Ryan,Marten Wikstrom	Michael Ryan	Michael	male	1	11094
+324	EMBOJ-2015-92521	Leibfried, Andrea	Reject post review	Michael Ryan,Marten Wikstrom	Marten Wikstrom	Marten	male	1	21
+325	EMBOJ-2015-92555	Leibfried, Andrea	Reject post review	Esben Lorentzen,Dusanka Deretic,Jacqueline Cherfils	Esben Lorentzen	Esben	male	1	27
+326	EMBOJ-2015-92555	Leibfried, Andrea	Reject post review	Esben Lorentzen,Dusanka Deretic,Jacqueline Cherfils	Dusanka Deretic	Dusanka	female	1	3
+327	EMBOJ-2015-92555	Leibfried, Andrea	Reject post review	Esben Lorentzen,Dusanka Deretic,Jacqueline Cherfils	Jacqueline Cherfils	Jacqueline	female	1	1016
+328	EMBOJ-2015-92561	Leibfried, Andrea	Reject Before Review with Editorial Board Advice	Michael N. Hall	Michael N. Hall	Michael N.	None	NA	NA
+329	EMBOJ-2015-92567	Leibfried, Andrea	Reject post review	Sebastian Amigorena,Jacques Neefjes	Sebastian Amigorena	Sebastian	male	1	1459
+330	EMBOJ-2015-92567	Leibfried, Andrea	Reject post review	Sebastian Amigorena,Jacques Neefjes	Jacques Neefjes	Jacques	male	0.99	280
+331	EMBOJ-2015-92570	Leibfried, Andrea	Reject post review	Anna Akhmanova,Victoria Allan,Thomas Schwarz	Anna Akhmanova	Anna	female	1	4755
+332	EMBOJ-2015-92570	Leibfried, Andrea	Reject post review	Anna Akhmanova,Victoria Allan,Thomas Schwarz	Victoria Allan	Victoria	female	1	1879
+333	EMBOJ-2015-92570	Leibfried, Andrea	Reject post review	Anna Akhmanova,Victoria Allan,Thomas Schwarz	Thomas Schwarz	Thomas	male	1	3753
+334	EMBOJ-2015-92591	Leibfried, Andrea	Reject post review	Markus Ruegg,Ana Maria Cuervo	Markus Ruegg	Markus	male	1	412
+335	EMBOJ-2015-92591	Leibfried, Andrea	Reject post review	Markus Ruegg,Ana Maria Cuervo	Ana Maria Cuervo	Ana Maria	female	1	333
+336	EMBOJ-2015-92593	Leibfried, Andrea	Revise and Re-review	Ortrun Mittelsten Scheid,Lars Hennig	Ortrun Mittelsten Scheid	Ortrun Mittelsten	None	NA	NA
+337	EMBOJ-2015-92593	Leibfried, Andrea	Revise and Re-review	Ortrun Mittelsten Scheid,Lars Hennig	Lars Hennig	Lars	male	1	450
+338	EMBOJ-2015-92609	Leibfried, Andrea	Reject post review	Thomas Südhof,Taisuke Tomita	Thomas Südhof	Thomas	male	1	3753
+339	EMBOJ-2015-92609	Leibfried, Andrea	Reject post review	Thomas Südhof,Taisuke Tomita	Taisuke Tomita	Taisuke	male	1	1
+340	EMBOJ-2015-92636	Leibfried, Andrea	Reject post review	Mark Hochstrasser,Dieter Wolf,Thorsten Hoppe	Mark Hochstrasser	Mark	male	1	6176
+341	EMBOJ-2015-92636	Leibfried, Andrea	Reject post review	Mark Hochstrasser,Dieter Wolf,Thorsten Hoppe	Dieter Wolf	Dieter	male	1	70
+342	EMBOJ-2015-92636	Leibfried, Andrea	Reject post review	Mark Hochstrasser,Dieter Wolf,Thorsten Hoppe	Thorsten Hoppe	Thorsten	male	1	32
+343	EMBOJ-2015-92640	Leibfried, Andrea	Reject post review	Carla Kim,Harold A. Chapman	Carla Kim	Carla	female	1	1583
+344	EMBOJ-2015-92640	Leibfried, Andrea	Reject post review	Carla Kim,Harold A. Chapman	Harold A. Chapman	Harold A.	None	NA	NA
+345	EMBOJ-2015-92695	Leibfried, Andrea	Revise and Re-review	Vojo Deretic,Harald Stenmark	Vojo Deretic	Vojo	male	1	3
+346	EMBOJ-2015-92695	Leibfried, Andrea	Revise and Re-review	Vojo Deretic,Harald Stenmark	Harald Stenmark	Harald	male	1	80
+347	EMBOJ-2015-92762	Leibfried, Andrea	Reject post review	Sharon Tooze,Ian Ganley	Sharon Tooze	Sharon	female	0.99	2760
+348	EMBOJ-2015-92762	Leibfried, Andrea	Reject post review	Sharon Tooze,Ian Ganley	Ian Ganley	Ian	male	0.99	2159
+349	EMBOJ-2015-92767	Leibfried, Andrea	Reject post review	Mary O'Riordan,Jean-Francois Trempe,Francesco Cecconi	Mary O'Riordan	Mary	female	1	4440
+350	EMBOJ-2015-92767	Leibfried, Andrea	Reject post review	Mary O'Riordan,Jean-Francois Trempe,Francesco Cecconi	Jean-Francois Trempe	Jean-Francois	male	1	253
+351	EMBOJ-2015-92767	Leibfried, Andrea	Reject post review	Mary O'Riordan,Jean-Francois Trempe,Francesco Cecconi	Francesco Cecconi	Francesco	male	1	1093
+352	EMBOJ-2015-92789	Leibfried, Andrea	Revise and Re-review	Grant Dewson,Jerker Widengren,Jean-Claude Martinou	Grant Dewson	Grant	male	1	592
+353	EMBOJ-2015-92789	Leibfried, Andrea	Revise and Re-review	Grant Dewson,Jerker Widengren,Jean-Claude Martinou	Jerker Widengren	Jerker	male	1	2
+354	EMBOJ-2015-92789	Leibfried, Andrea	Revise and Re-review	Grant Dewson,Jerker Widengren,Jean-Claude Martinou	Jean-Claude Martinou	Jean-Claude	male	0.98	53
+355	EMBOJ-2015-92862	Leibfried, Andrea	Revise and Re-review	Luca Scorrano,Jesus Gil,Paul Yaswen	Luca Scorrano	Luca	male	0.99	1075
+356	EMBOJ-2015-92862	Leibfried, Andrea	Revise and Re-review	Luca Scorrano,Jesus Gil,Paul Yaswen	Jesus Gil	Jesus	male	0.98	1071
+357	EMBOJ-2015-92862	Leibfried, Andrea	Revise and Re-review	Luca Scorrano,Jesus Gil,Paul Yaswen	Paul Yaswen	Paul	male	1	5931
+358	EMBOJ-2015-92864	Leibfried, Andrea	Revise and Re-review	Zhenyu Yue,Qing Zhong,Sascha Martens	Zhenyu Yue	Zhenyu	male	1	5
+359	EMBOJ-2015-92864	Leibfried, Andrea	Revise and Re-review	Zhenyu Yue,Qing Zhong,Sascha Martens	Qing Zhong	Qing	female	1	27
+360	EMBOJ-2015-92864	Leibfried, Andrea	Revise and Re-review	Zhenyu Yue,Qing Zhong,Sascha Martens	Sascha Martens	Sascha	female	0.51	158
+361	EMBOJ-2015-92873	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Vladimir Lupashin,Mark Stamnes,David Stephens	Vladimir Lupashin	Vladimir	male	1	299
+362	EMBOJ-2015-92873	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Vladimir Lupashin,Mark Stamnes,David Stephens	Mark Stamnes	Mark	male	1	6176
+363	EMBOJ-2015-92873	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Vladimir Lupashin,Mark Stamnes,David Stephens	David Stephens	David	male	1	12593
+364	EMBOJ-2015-92884	Leibfried, Andrea	Reject post review	Sharon Tooze,Zvulun Elazar	Sharon Tooze	Sharon	female	0.99	2760
+365	EMBOJ-2015-92884	Leibfried, Andrea	Reject post review	Sharon Tooze,Zvulun Elazar	Zvulun Elazar	Zvulun	None	NA	NA
+366	EMBOJ-2015-92900	Leibfried, Andrea	Reject post review	Heidi McBride,Jodi Nunnari	Heidi McBride	Heidi	female	1	1211
+367	EMBOJ-2015-92900	Leibfried, Andrea	Reject post review	Heidi McBride,Jodi Nunnari	Jodi Nunnari	Jodi	female	0.99	503
+368	EMBOJ-2015-92935	Leibfried, Andrea	Reject post review	Felix Randow,Thomas Melia,Fulvio Reggiori,Daniel Klionsky	Felix Randow	Felix	male	1	657
+369	EMBOJ-2015-92935	Leibfried, Andrea	Reject post review	Felix Randow,Thomas Melia,Fulvio Reggiori,Daniel Klionsky	Thomas Melia	Thomas	male	1	3753
+370	EMBOJ-2015-92935	Leibfried, Andrea	Reject post review	Felix Randow,Thomas Melia,Fulvio Reggiori,Daniel Klionsky	Fulvio Reggiori	Fulvio	male	1	31
+371	EMBOJ-2015-92935	Leibfried, Andrea	Reject post review	Felix Randow,Thomas Melia,Fulvio Reggiori,Daniel Klionsky	Daniel Klionsky	Daniel	male	1	8180
+372	EMBOJ-2015-92992	Leibfried, Andrea	Reject post review	Yusuke Saijo,Youssef Belkhadir,Libo Shan	Yusuke Saijo	Yusuke	male	1	28
+373	EMBOJ-2015-92992	Leibfried, Andrea	Reject post review	Yusuke Saijo,Youssef Belkhadir,Libo Shan	Youssef Belkhadir	Youssef	male	0.99	255
+374	EMBOJ-2015-92992	Leibfried, Andrea	Reject post review	Yusuke Saijo,Youssef Belkhadir,Libo Shan	Libo Shan	Libo	None	NA	NA
+375	EMBOJ-2015-93046	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Michael Sack,Erik Sahai,Johan Auwerx	Michael Sack	Michael	male	1	11094
+376	EMBOJ-2015-93046	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Michael Sack,Erik Sahai,Johan Auwerx	Erik Sahai	Erik	male	0.99	1072
+377	EMBOJ-2015-93046	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Michael Sack,Erik Sahai,Johan Auwerx	Johan Auwerx	Johan	male	1	1060
+378	EMBOJ-2015-93071	Leibfried, Andrea	Revise and Re-review	Thomas Surrey,Victoria Allan,Tarun Kapoor	Thomas Surrey	Thomas	male	1	3753
+379	EMBOJ-2015-93071	Leibfried, Andrea	Revise and Re-review	Thomas Surrey,Victoria Allan,Tarun Kapoor	Victoria Allan	Victoria	female	1	1879
+380	EMBOJ-2015-93071	Leibfried, Andrea	Revise and Re-review	Thomas Surrey,Victoria Allan,Tarun Kapoor	Tarun Kapoor	Tarun	male	1	67
+381	EMBOJ-2015-93084	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Marco Sandri ,Luca Scorrano,Chih-Hao Lee	Marco Sandri 	Marco	male	0.99	2493
+382	EMBOJ-2015-93084	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Marco Sandri ,Luca Scorrano,Chih-Hao Lee	Luca Scorrano	Luca	male	0.99	1075
+383	EMBOJ-2015-93084	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Marco Sandri ,Luca Scorrano,Chih-Hao Lee	Chih-Hao Lee	Chih-Hao	None	NA	NA
+384	EMBOJ-2015-93102	Leibfried, Andrea	Revise and Re-review	Noboru Mizushima,Alexander M. Van der Bliek,Heidi McBride	Noboru Mizushima	Noboru	male	1	11
+385	EMBOJ-2015-93102	Leibfried, Andrea	Revise and Re-review	Noboru Mizushima,Alexander M. Van der Bliek,Heidi McBride	Alexander M. Van der Bliek	Alexander M. Van der	None	NA	NA
+386	EMBOJ-2015-93102	Leibfried, Andrea	Revise and Re-review	Noboru Mizushima,Alexander M. Van der Bliek,Heidi McBride	Heidi McBride	Heidi	female	1	1211
+387	EMBOJ-2015-93106	Leibfried, Andrea	Revise and Re-review	Vytas Bankaitis,Ramanujan Hegde,Yihong Ye	Vytas Bankaitis	Vytas	male	1	2
+388	EMBOJ-2015-93106	Leibfried, Andrea	Revise and Re-review	Vytas Bankaitis,Ramanujan Hegde,Yihong Ye	Ramanujan Hegde	Ramanujan	None	NA	NA
+389	EMBOJ-2015-93106	Leibfried, Andrea	Revise and Re-review	Vytas Bankaitis,Ramanujan Hegde,Yihong Ye	Yihong Ye	Yihong	male	1	1
+390	EMBOJ-2015-93118	Leibfried, Andrea	Revise and Re-review	Alan Hinnebusch,Do-Hyung Kim,Michael N. Hall	Alan Hinnebusch	Alan	male	1	2079
+391	EMBOJ-2015-93118	Leibfried, Andrea	Revise and Re-review	Alan Hinnebusch,Do-Hyung Kim,Michael N. Hall	Do-Hyung Kim	Do-Hyung	None	NA	NA
+392	EMBOJ-2015-93118	Leibfried, Andrea	Revise and Re-review	Alan Hinnebusch,Do-Hyung Kim,Michael N. Hall	Michael N. Hall	Michael N.	None	NA	NA
+393	EMBOJ-2015-93148	Leibfried, Andrea	Revise and Re-review	Anne Simonsen,Qing Zhong,Antonella De Matteis	Anne Simonsen	Anne	female	1	2461
+394	EMBOJ-2015-93148	Leibfried, Andrea	Revise and Re-review	Anne Simonsen,Qing Zhong,Antonella De Matteis	Qing Zhong	Qing	female	1	27
+395	EMBOJ-2015-93148	Leibfried, Andrea	Revise and Re-review	Anne Simonsen,Qing Zhong,Antonella De Matteis	Antonella De Matteis	Antonella De	None	NA	NA
+396	EMBOJ-2015-93163	Leibfried, Andrea	Reject post review	Bruno Antonny,Richard Rachubinski,Vivek Malhotra	Bruno Antonny	Bruno	male	1	926
+397	EMBOJ-2015-93163	Leibfried, Andrea	Reject post review	Bruno Antonny,Richard Rachubinski,Vivek Malhotra	Richard Rachubinski	Richard	male	1	4381
+398	EMBOJ-2015-93163	Leibfried, Andrea	Reject post review	Bruno Antonny,Richard Rachubinski,Vivek Malhotra	Vivek Malhotra	Vivek	male	1	214
+399	EMBOJ-2015-93191	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Romeo Ricci,Zvulun Elazar,Vivek Malhotra	Romeo Ricci	Romeo	male	0.99	116
+400	EMBOJ-2015-93191	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Romeo Ricci,Zvulun Elazar,Vivek Malhotra	Zvulun Elazar	Zvulun	None	NA	NA
+401	EMBOJ-2015-93191	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Romeo Ricci,Zvulun Elazar,Vivek Malhotra	Vivek Malhotra	Vivek	male	1	214
+402	EMBOJ-2015-93228	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Pamela Stanley,David Rubinsztein	Pamela Stanley	Pamela	female	1	1468
+403	EMBOJ-2015-93228	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Pamela Stanley,David Rubinsztein	David Rubinsztein	David	male	1	12593
+404	EMBOJ-2015-93274	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Michael Dustin,Gillian Griffiths	Michael Dustin	Michael	male	1	11094
+405	EMBOJ-2015-93274	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Michael Dustin,Gillian Griffiths	Gillian Griffiths	Gillian	female	0.99	440
+406	EMBOJ-2015-93384	Leibfried, Andrea	Revise only	Silvio Rizzoli,Andreas Engel,Grant Dewson	Silvio Rizzoli	Silvio	male	1	183
+407	EMBOJ-2015-93384	Leibfried, Andrea	Revise only	Silvio Rizzoli,Andreas Engel,Grant Dewson	Andreas Engel	Andreas	male	1	1021
+408	EMBOJ-2015-93384	Leibfried, Andrea	Revise only	Silvio Rizzoli,Andreas Engel,Grant Dewson	Grant Dewson	Grant	male	1	592
+409	EMBOJ-2015-93424	Leibfried, Andrea	Reject post review	Tony Hunter,Konstanze Winklhofer,Mark I. Greene	Tony Hunter	Tony	male	1	3071
+410	EMBOJ-2015-93424	Leibfried, Andrea	Reject post review	Tony Hunter,Konstanze Winklhofer,Mark I. Greene	Konstanze Winklhofer	Konstanze	female	1	5
+411	EMBOJ-2015-93424	Leibfried, Andrea	Reject post review	Tony Hunter,Konstanze Winklhofer,Mark I. Greene	Mark I. Greene	Mark I.	None	NA	NA
+412	EMBOJ-2015-93450	Leibfried, Andrea	Reject post review	Deborah Fass,Lloyd Ruddock,Andreas Engel,Georg Fantner	Deborah Fass	Deborah	female	0.99	1275
+413	EMBOJ-2015-93450	Leibfried, Andrea	Reject post review	Deborah Fass,Lloyd Ruddock,Andreas Engel,Georg Fantner	Lloyd Ruddock	Lloyd	male	0.99	159
+414	EMBOJ-2015-93450	Leibfried, Andrea	Reject post review	Deborah Fass,Lloyd Ruddock,Andreas Engel,Georg Fantner	Andreas Engel	Andreas	male	1	1021
+415	EMBOJ-2015-93450	Leibfried, Andrea	Reject post review	Deborah Fass,Lloyd Ruddock,Andreas Engel,Georg Fantner	Georg Fantner	Georg	male	1	64
+416	EMBOJ-2015-93477	Leibfried, Andrea	Revise and Re-review	Oliver Daumke,Elizabeth Komives	Oliver Daumke	Oliver	male	0.99	750
+417	EMBOJ-2015-93477	Leibfried, Andrea	Revise and Re-review	Oliver Daumke,Elizabeth Komives	Elizabeth Komives	Elizabeth	female	1	3508
+418	EMBOJ-2015-93478	Leibfried, Andrea	Reject Post Review - 2 Reviewers	James H. Hurley,Sascha Martens,Christian Spahn	James H. Hurley	James H.	None	NA	NA
+419	EMBOJ-2015-93478	Leibfried, Andrea	Reject Post Review - 2 Reviewers	James H. Hurley,Sascha Martens,Christian Spahn	Sascha Martens	Sascha	female	0.51	158
+420	EMBOJ-2015-93478	Leibfried, Andrea	Reject Post Review - 2 Reviewers	James H. Hurley,Sascha Martens,Christian Spahn	Christian Spahn	Christian	male	0.99	2548
+421	EMBOJ-2015-93488	Leibfried, Andrea	Reject post review	Sharon Tooze,Ian Ganley	Sharon Tooze	Sharon	female	0.99	2760
+422	EMBOJ-2015-93488	Leibfried, Andrea	Reject post review	Sharon Tooze,Ian Ganley	Ian Ganley	Ian	male	0.99	2159
+423	EMBOJ-2015-93560	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Johanna Ivaska,Patrizia Agostinis	Johanna Ivaska	Johanna	female	1	1107
+424	EMBOJ-2015-93560	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Johanna Ivaska,Patrizia Agostinis	Patrizia Agostinis	Patrizia	female	1	233
+425	EMBOJ-2014-90518	Nielsen, Anne	Reject post review	Donal O'Carroll,Phillip Zamore,Toshie Kai	Donal O'Carroll	Donal	male	1	11
+426	EMBOJ-2014-90518	Nielsen, Anne	Reject post review	Donal O'Carroll,Phillip Zamore,Toshie Kai	Phillip Zamore	Phillip	male	1	463
+427	EMBOJ-2014-90518	Nielsen, Anne	Reject post review	Donal O'Carroll,Phillip Zamore,Toshie Kai	Toshie Kai	Toshie	female	1	3
+428	EMBOJ-2014-90643	Nielsen, Anne	Revise and Re-review	Richard Gregory,André Fischer ,Gunter Meister	Richard Gregory	Richard	male	1	4381
+429	EMBOJ-2014-90643	Nielsen, Anne	Revise and Re-review	Richard Gregory,André Fischer ,Gunter Meister	André Fischer 	André	male	0.99	350
+430	EMBOJ-2014-90643	Nielsen, Anne	Revise and Re-review	Richard Gregory,André Fischer ,Gunter Meister	Gunter Meister	Gunter	male	1	35
+431	EMBOJ-2014-90648	Nielsen, Anne	Revise only	Davor Solter,Bradley R. Cairns,Markus Landthaler	Davor Solter	Davor	male	1	53
+432	EMBOJ-2014-90648	Nielsen, Anne	Revise only	Davor Solter,Bradley R. Cairns,Markus Landthaler	Bradley R. Cairns	Bradley R.	None	NA	NA
+433	EMBOJ-2014-90648	Nielsen, Anne	Revise only	Davor Solter,Bradley R. Cairns,Markus Landthaler	Markus Landthaler	Markus	male	1	412
+434	EMBOJ-2014-90655	Nielsen, Anne	Revise and Re-review	Christian Muchardt,David L. Bentley	Christian Muchardt	Christian	male	0.99	2548
+435	EMBOJ-2014-90655	Nielsen, Anne	Revise and Re-review	Christian Muchardt,David L. Bentley	David L. Bentley	David L.	None	NA	NA
+436	EMBOJ-2014-90714	Nielsen, Anne	Reject post review	Grzegorz Kudla,Tobias von der Haar	Grzegorz Kudla	Grzegorz	male	0.98	56
+437	EMBOJ-2014-90714	Nielsen, Anne	Reject post review	Grzegorz Kudla,Tobias von der Haar	Tobias von der Haar	Tobias von der	None	NA	NA
+438	EMBOJ-2014-90812	Nielsen, Anne	Reject post review	Malcolm White,Hong Li	Malcolm White	Malcolm	male	1	227
+439	EMBOJ-2014-90812	Nielsen, Anne	Reject post review	Malcolm White,Hong Li	Hong Li	Hong	male	0.51	93
+440	EMBOJ-2014-90862	Nielsen, Anne	Reject post review	Bing Li,Jean-Christophe Andrau	Bing Li	Bing	female	0.62	37
+441	EMBOJ-2014-90862	Nielsen, Anne	Reject post review	Bing Li,Jean-Christophe Andrau	Jean-Christophe Andrau	Jean-Christophe	male	1	79
+442	EMBOJ-2015-90931	Nielsen, Anne	Revise and Re-review	Chris Norbury,Witold Filipowicz,Eric Lai	Chris Norbury	Chris	male	0.93	8631
+443	EMBOJ-2015-90931	Nielsen, Anne	Revise and Re-review	Chris Norbury,Witold Filipowicz,Eric Lai	Witold Filipowicz	Witold	male	1	7
+444	EMBOJ-2015-90931	Nielsen, Anne	Revise and Re-review	Chris Norbury,Witold Filipowicz,Eric Lai	Eric Lai	Eric	male	1	4110
+445	EMBOJ-2015-90959	Nielsen, Anne	Reject post review	Elmar Wahle,Raul Mendez,Elisa Izaurralde	Elmar Wahle	Elmar	male	0.94	17
+446	EMBOJ-2015-90959	Nielsen, Anne	Reject post review	Elmar Wahle,Raul Mendez,Elisa Izaurralde	Raul Mendez	Raul	male	1	821
+447	EMBOJ-2015-90959	Nielsen, Anne	Reject post review	Elmar Wahle,Raul Mendez,Elisa Izaurralde	Elisa Izaurralde	Elisa	female	0.99	805
+448	EMBOJ-2015-91006	Nielsen, Anne	Revise and Re-review	William E. Theurkauf,Rene Ketting	William E. Theurkauf	William E.	None	NA	NA
+449	EMBOJ-2015-91006	Nielsen, Anne	Revise and Re-review	William E. Theurkauf,Rene Ketting	Rene Ketting	Rene	male	0.81	522
+450	EMBOJ-2015-91143	Nielsen, Anne	Reject Post Review - 2 Reviewers	Laszlo Tora,Michiel Vermeulen	Laszlo Tora	Laszlo	male	1	15
+451	EMBOJ-2015-91143	Nielsen, Anne	Reject Post Review - 2 Reviewers	Laszlo Tora,Michiel Vermeulen	Michiel Vermeulen	Michiel	male	1	45
+452	EMBOJ-2015-91216	Nielsen, Anne	Reject post review	Anabelle Decottignies,Gunnar Schotta,Claus Azzalin	Anabelle Decottignies	Anabelle	female	1	25
+453	EMBOJ-2015-91216	Nielsen, Anne	Reject post review	Anabelle Decottignies,Gunnar Schotta,Claus Azzalin	Gunnar Schotta	Gunnar	male	1	127
+454	EMBOJ-2015-91216	Nielsen, Anne	Reject post review	Anabelle Decottignies,Gunnar Schotta,Claus Azzalin	Claus Azzalin	Claus	male	0.88	119
+455	EMBOJ-2015-91229	Nielsen, Anne	Reject post review	Daniel Wilson,Irina Artsimovitch,Jeffrey W. Roberts	Daniel Wilson	Daniel	male	1	8180
+456	EMBOJ-2015-91229	Nielsen, Anne	Reject post review	Daniel Wilson,Irina Artsimovitch,Jeffrey W. Roberts	Irina Artsimovitch	Irina	female	0.99	295
+457	EMBOJ-2015-91229	Nielsen, Anne	Reject post review	Daniel Wilson,Irina Artsimovitch,Jeffrey W. Roberts	Jeffrey W. Roberts	Jeffrey W.	None	NA	NA
+458	EMBOJ-2015-91270	Nielsen, Anne	Reject post review	Fred Winston,Henry L. Levin,Tom Owen-Hughes	Fred Winston	Fred	male	0.98	966
+459	EMBOJ-2015-91270	Nielsen, Anne	Reject post review	Fred Winston,Henry L. Levin,Tom Owen-Hughes	Henry L. Levin	Henry L.	None	NA	NA
+460	EMBOJ-2015-91270	Nielsen, Anne	Reject post review	Fred Winston,Henry L. Levin,Tom Owen-Hughes	Tom Owen-Hughes	Tom	male	1	3736
+461	EMBOJ-2015-91279	Nielsen, Anne	Revise and Re-review	Adrian Bracken,Wolfgang Fischle,Siavash Kurdistani	Adrian Bracken	Adrian	male	0.97	1515
+462	EMBOJ-2015-91279	Nielsen, Anne	Revise and Re-review	Adrian Bracken,Wolfgang Fischle,Siavash Kurdistani	Wolfgang Fischle	Wolfgang	male	1	95
+463	EMBOJ-2015-91279	Nielsen, Anne	Revise and Re-review	Adrian Bracken,Wolfgang Fischle,Siavash Kurdistani	Siavash Kurdistani	Siavash	male	1	7
+464	EMBOJ-2015-91320	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Andre Verdel,Genevieve Almouzni,Andrew Bannister	Andre Verdel	Andre	male	0.93	860
+465	EMBOJ-2015-91320	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Andre Verdel,Genevieve Almouzni,Andrew Bannister	Genevieve Almouzni	Genevieve	female	1	244
+466	EMBOJ-2015-91320	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Andre Verdel,Genevieve Almouzni,Andrew Bannister	Andrew Bannister	Andrew	male	1	5168
+467	EMBOJ-2015-91343	Nielsen, Anne	Reject post review	Paul Copeland,Venki Ramakrishnan,Christian Spahn,Rachel Green	Paul Copeland	Paul	male	1	5931
+468	EMBOJ-2015-91343	Nielsen, Anne	Reject post review	Paul Copeland,Venki Ramakrishnan,Christian Spahn,Rachel Green	Venki Ramakrishnan	Venki	male	1	1
+469	EMBOJ-2015-91343	Nielsen, Anne	Reject post review	Paul Copeland,Venki Ramakrishnan,Christian Spahn,Rachel Green	Christian Spahn	Christian	male	0.99	2548
+470	EMBOJ-2015-91343	Nielsen, Anne	Reject post review	Paul Copeland,Venki Ramakrishnan,Christian Spahn,Rachel Green	Rachel Green	Rachel	female	1	4021
+471	EMBOJ-2015-91382	Nielsen, Anne	Revise and Re-review	Berthold Gottgens,Marina Rodnina,Dieter Söll	Berthold Gottgens	Berthold	male	1	4
+472	EMBOJ-2015-91382	Nielsen, Anne	Revise and Re-review	Berthold Gottgens,Marina Rodnina,Dieter Söll	Marina Rodnina	Marina	female	0.99	1326
+473	EMBOJ-2015-91382	Nielsen, Anne	Revise and Re-review	Berthold Gottgens,Marina Rodnina,Dieter Söll	Dieter Söll	Dieter	male	1	70
+474	EMBOJ-2015-91385	Nielsen, Anne	Revise only	Michael N. Hall,Irene Miguel-Aliaga	Michael N. Hall	Michael N.	None	NA	NA
+475	EMBOJ-2015-91385	Nielsen, Anne	Revise only	Michael N. Hall,Irene Miguel-Aliaga	Irene Miguel-Aliaga	Irene	female	1	1300
+476	EMBOJ-2015-91406	Nielsen, Anne	Reject post review	Thierry Galli,Manfred Lindau,Reinhard Jahn	Thierry Galli	Thierry	male	0.99	310
+477	EMBOJ-2015-91406	Nielsen, Anne	Reject post review	Thierry Galli,Manfred Lindau,Reinhard Jahn	Manfred Lindau	Manfred	male	1	39
+478	EMBOJ-2015-91406	Nielsen, Anne	Reject post review	Thierry Galli,Manfred Lindau,Reinhard Jahn	Reinhard Jahn	Reinhard	male	1	22
+479	EMBOJ-2015-91458	Nielsen, Anne	Revise and Re-review	Maria Carmo-Fonseca,Miroslav Dundr,Jeffrey Wilusz	Maria Carmo-Fonseca	Maria	female	0.99	8402
+480	EMBOJ-2015-91458	Nielsen, Anne	Revise and Re-review	Maria Carmo-Fonseca,Miroslav Dundr,Jeffrey Wilusz	Miroslav Dundr	Miroslav	male	1	97
+481	EMBOJ-2015-91458	Nielsen, Anne	Revise and Re-review	Maria Carmo-Fonseca,Miroslav Dundr,Jeffrey Wilusz	Jeffrey Wilusz	Jeffrey	male	1	932
+482	EMBOJ-2015-91460	Nielsen, Anne	Reject post review	Christof Niehrs,Lasse Sinkkonen,Lawrence Stanton	Christof Niehrs	Christof	male	1	33
+483	EMBOJ-2015-91460	Nielsen, Anne	Reject post review	Christof Niehrs,Lasse Sinkkonen,Lawrence Stanton	Lasse Sinkkonen	Lasse	male	1	259
+484	EMBOJ-2015-91460	Nielsen, Anne	Reject post review	Christof Niehrs,Lasse Sinkkonen,Lawrence Stanton	Lawrence Stanton	Lawrence	male	1	393
+485	EMBOJ-2015-91473	Nielsen, Anne	Reject post review	Danesh Moazed,Steven Henikoff,Elizabeth Bayne	Danesh Moazed	Danesh	None	NA	NA
+486	EMBOJ-2015-91473	Nielsen, Anne	Reject post review	Danesh Moazed,Steven Henikoff,Elizabeth Bayne	Steven Henikoff	Steven	male	1	2600
+487	EMBOJ-2015-91473	Nielsen, Anne	Reject post review	Danesh Moazed,Steven Henikoff,Elizabeth Bayne	Elizabeth Bayne	Elizabeth	female	1	3508
+488	EMBOJ-2015-91569	Nielsen, Anne	Revise and Re-review	Hiroji Aiba,Ben Luisi,Bonnie Bassler	Hiroji Aiba	Hiroji	None	NA	NA
+489	EMBOJ-2015-91569	Nielsen, Anne	Revise and Re-review	Hiroji Aiba,Ben Luisi,Bonnie Bassler	Ben Luisi	Ben	male	0.99	3363
+490	EMBOJ-2015-91569	Nielsen, Anne	Revise and Re-review	Hiroji Aiba,Ben Luisi,Bonnie Bassler	Bonnie Bassler	Bonnie	female	0.99	784
+491	EMBOJ-2015-91610	Nielsen, Anne	Reject post review	Meritxell Huch,Luciano Di Croce	Meritxell Huch	Meritxell	female	1	40
+492	EMBOJ-2015-91610	Nielsen, Anne	Reject post review	Meritxell Huch,Luciano Di Croce	Luciano Di Croce	Luciano Di	None	NA	NA
+493	EMBOJ-2015-91635	Nielsen, Anne	Reject post review	Stepanka Vanacova,Ambro Van Hoof,William Marzluff	Stepanka Vanacova	Stepanka	None	NA	NA
+494	EMBOJ-2015-91635	Nielsen, Anne	Reject post review	Stepanka Vanacova,Ambro Van Hoof,William Marzluff	Ambro Van Hoof	Ambro Van	None	NA	NA
+495	EMBOJ-2015-91635	Nielsen, Anne	Reject post review	Stepanka Vanacova,Ambro Van Hoof,William Marzluff	William Marzluff	William	male	1	2626
+496	EMBOJ-2015-91711	Nielsen, Anne	Revise and Re-review	Ursula Jakob,Christopher Rongo,Antony Page	Ursula Jakob	Ursula	female	1	169
+497	EMBOJ-2015-91711	Nielsen, Anne	Revise and Re-review	Ursula Jakob,Christopher Rongo,Antony Page	Christopher Rongo	Christopher	male	1	2339
+498	EMBOJ-2015-91711	Nielsen, Anne	Revise and Re-review	Ursula Jakob,Christopher Rongo,Antony Page	Antony Page	Antony	male	1	249
+499	EMBOJ-2015-91747	Nielsen, Anne	Reject post review	Anton Gartner	Anton Gartner	Anton	male	1	537
+500	EMBOJ-2015-91803	Nielsen, Anne	Revise and Re-review	Reuven Agami,Stephan Herzig,Iannis Talianidis	Reuven Agami	Reuven	male	0.98	49
+501	EMBOJ-2015-91803	Nielsen, Anne	Revise and Re-review	Reuven Agami,Stephan Herzig,Iannis Talianidis	Stephan Herzig	Stephan	male	1	265
+502	EMBOJ-2015-91803	Nielsen, Anne	Revise and Re-review	Reuven Agami,Stephan Herzig,Iannis Talianidis	Iannis Talianidis	Iannis	male	1	2
+503	EMBOJ-2015-91867	Nielsen, Anne	Revise and Re-review	Ning Zheng,Matthew Petroski,Hemmo Meyer	Ning Zheng	Ning	female	0.8	45
+504	EMBOJ-2015-91867	Nielsen, Anne	Revise and Re-review	Ning Zheng,Matthew Petroski,Hemmo Meyer	Matthew Petroski	Matthew	male	1	3338
+505	EMBOJ-2015-91867	Nielsen, Anne	Revise and Re-review	Ning Zheng,Matthew Petroski,Hemmo Meyer	Hemmo Meyer	Hemmo	male	1	1
+506	EMBOJ-2015-91871	Nielsen, Anne	Reject post review	Georg Stoecklin,Bertrand Seraphin,Imed Gallouzi	Georg Stoecklin	Georg	male	1	64
+507	EMBOJ-2015-91871	Nielsen, Anne	Reject post review	Georg Stoecklin,Bertrand Seraphin,Imed Gallouzi	Bertrand Seraphin	Bertrand	male	0.97	117
+508	EMBOJ-2015-91871	Nielsen, Anne	Reject post review	Georg Stoecklin,Bertrand Seraphin,Imed Gallouzi	Imed Gallouzi	Imed	male	1	12
+509	EMBOJ-2015-91886	Nielsen, Anne	Reject post review	Ross Dalbey,Koreaki Ito,Anastassios Economou	Ross Dalbey	Ross	male	0.95	692
+510	EMBOJ-2015-91886	Nielsen, Anne	Reject post review	Ross Dalbey,Koreaki Ito,Anastassios Economou	Koreaki Ito	Koreaki	None	NA	NA
+511	EMBOJ-2015-91886	Nielsen, Anne	Reject post review	Ross Dalbey,Koreaki Ito,Anastassios Economou	Anastassios Economou	Anastassios	male	1	2
+512	EMBOJ-2015-91945	Nielsen, Anne	Reject post review	Laurie H. Glimcher,Gioacchino Natoli	Laurie H. Glimcher	Laurie H.	None	NA	NA
+513	EMBOJ-2015-91945	Nielsen, Anne	Reject post review	Laurie H. Glimcher,Gioacchino Natoli	Gioacchino Natoli	Gioacchino	male	1	8
+514	EMBOJ-2015-92022	Nielsen, Anne	Revise and Re-review	Kiyoshi Nagai,Christine Guthrie,Ian Eperon	Kiyoshi Nagai	Kiyoshi	male	0.89	9
+515	EMBOJ-2015-92022	Nielsen, Anne	Revise and Re-review	Kiyoshi Nagai,Christine Guthrie,Ian Eperon	Christine Guthrie	Christine	female	1	3115
+516	EMBOJ-2015-92022	Nielsen, Anne	Revise and Re-review	Kiyoshi Nagai,Christine Guthrie,Ian Eperon	Ian Eperon	Ian	male	0.99	2159
+517	EMBOJ-2015-92088	Nielsen, Anne	Reject post review	Reuven Agami,Joel R. Neilson,Domenico Libri	Reuven Agami	Reuven	male	0.98	49
+518	EMBOJ-2015-92088	Nielsen, Anne	Reject post review	Reuven Agami,Joel R. Neilson,Domenico Libri	Joel R. Neilson	Joel R.	None	NA	NA
+519	EMBOJ-2015-92088	Nielsen, Anne	Reject post review	Reuven Agami,Joel R. Neilson,Domenico Libri	Domenico Libri	Domenico	male	1	220
+520	EMBOJ-2015-92195	Nielsen, Anne	Reject post review	Elisa Izaurralde,Alain Jacquier,Lynne Maquat	Elisa Izaurralde	Elisa	female	0.99	805
+521	EMBOJ-2015-92195	Nielsen, Anne	Reject post review	Elisa Izaurralde,Alain Jacquier,Lynne Maquat	Alain Jacquier	Alain	male	1	482
+522	EMBOJ-2015-92195	Nielsen, Anne	Reject post review	Elisa Izaurralde,Alain Jacquier,Lynne Maquat	Lynne Maquat	Lynne	female	0.98	504
+523	EMBOJ-2015-92223	Nielsen, Anne	Reject post review	Vincenzo Costanzo,Vincent Geli,Benoît Le Tallec	Vincenzo Costanzo	Vincenzo	male	1	350
+524	EMBOJ-2015-92223	Nielsen, Anne	Reject post review	Vincenzo Costanzo,Vincent Geli,Benoît Le Tallec	Vincent Geli	Vincent	male	1	1424
+525	EMBOJ-2015-92223	Nielsen, Anne	Reject post review	Vincenzo Costanzo,Vincent Geli,Benoît Le Tallec	Benoît Le Tallec	Benoît Le	None	NA	NA
+526	EMBOJ-2015-92230	Nielsen, Anne	Reject post review	Alexander Buchberger,Stefan Mueller	Alexander Buchberger	Alexander	male	1	1645
+527	EMBOJ-2015-92230	Nielsen, Anne	Reject post review	Alexander Buchberger,Stefan Mueller	Stefan Mueller	Stefan	male	1	917
+528	EMBOJ-2015-92329	Nielsen, Anne	Reject post review	Iain Cheeseman,Genevieve Almouzni,Daniel Foltz	Iain Cheeseman	Iain	male	1	246
+529	EMBOJ-2015-92329	Nielsen, Anne	Reject post review	Iain Cheeseman,Genevieve Almouzni,Daniel Foltz	Genevieve Almouzni	Genevieve	female	1	244
+530	EMBOJ-2015-92329	Nielsen, Anne	Reject post review	Iain Cheeseman,Genevieve Almouzni,Daniel Foltz	Daniel Foltz	Daniel	male	1	8180
+531	EMBOJ-2015-92335	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Chih-Cheng Chen,John Wood,Olaf Pongs	Chih-Cheng Chen	Chih-Cheng	male	1	1
+532	EMBOJ-2015-92335	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Chih-Cheng Chen,John Wood,Olaf Pongs	John Wood	John	male	0.99	9931
+533	EMBOJ-2015-92335	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Chih-Cheng Chen,John Wood,Olaf Pongs	Olaf Pongs	Olaf	male	1	65
+534	EMBOJ-2015-92404	Nielsen, Anne	Revise and Re-review	Jorge Ferrer,Volker Ellenrieder,David Tuveson	Jorge Ferrer	Jorge	male	1	3183
+535	EMBOJ-2015-92404	Nielsen, Anne	Revise and Re-review	Jorge Ferrer,Volker Ellenrieder,David Tuveson	Volker Ellenrieder	Volker	male	1	31
+536	EMBOJ-2015-92404	Nielsen, Anne	Revise and Re-review	Jorge Ferrer,Volker Ellenrieder,David Tuveson	David Tuveson	David	male	1	12593
+537	EMBOJ-2015-92408	Nielsen, Anne	Reject post review	Saadi Khochbin,Bradley R. Cairns,Oliver J Rando	Saadi Khochbin	Saadi	male	0.86	7
+538	EMBOJ-2015-92408	Nielsen, Anne	Reject post review	Saadi Khochbin,Bradley R. Cairns,Oliver J Rando	Bradley R. Cairns	Bradley R.	None	NA	NA
+539	EMBOJ-2015-92408	Nielsen, Anne	Reject post review	Saadi Khochbin,Bradley R. Cairns,Oliver J Rando	Oliver J Rando	Oliver J	None	NA	NA
+540	EMBOJ-2015-92409	Nielsen, Anne	Revise and Re-review	H. Hartzell,Michel Lazdunski,Daniel Minor	H. Hartzell	H.	male	1	1
+541	EMBOJ-2015-92409	Nielsen, Anne	Revise and Re-review	H. Hartzell,Michel Lazdunski,Daniel Minor	Michel Lazdunski	Michel	male	0.96	729
+542	EMBOJ-2015-92409	Nielsen, Anne	Revise and Re-review	H. Hartzell,Michel Lazdunski,Daniel Minor	Daniel Minor	Daniel	male	1	8180
+543	EMBOJ-2015-92417	Nielsen, Anne	Reject post review	Craig Pikaard,R. Keith Slotkin,David Baulcombe	Craig Pikaard	Craig	male	1	1816
+544	EMBOJ-2015-92417	Nielsen, Anne	Reject post review	Craig Pikaard,R. Keith Slotkin,David Baulcombe	R. Keith Slotkin	R. Keith	None	NA	NA
+545	EMBOJ-2015-92417	Nielsen, Anne	Reject post review	Craig Pikaard,R. Keith Slotkin,David Baulcombe	David Baulcombe	David	male	1	12593
+546	EMBOJ-2015-92469	Nielsen, Anne	Revise and Re-review	Christopher Hellen,Marat Yusupov,Axel Innis	Christopher Hellen	Christopher	male	1	2339
+547	EMBOJ-2015-92469	Nielsen, Anne	Revise and Re-review	Christopher Hellen,Marat Yusupov,Axel Innis	Marat Yusupov	Marat	male	1	11
+548	EMBOJ-2015-92469	Nielsen, Anne	Revise and Re-review	Christopher Hellen,Marat Yusupov,Axel Innis	Axel Innis	Axel	male	0.98	283
+549	EMBOJ-2015-92481	Nielsen, Anne	Reject post review	Shmuel Muallem,J. Kevin Foskett	Shmuel Muallem	Shmuel	male	1	16
+550	EMBOJ-2015-92481	Nielsen, Anne	Reject post review	Shmuel Muallem,J. Kevin Foskett	J. Kevin Foskett	J. Kevin	None	NA	NA
+551	EMBOJ-2015-92486	Nielsen, Anne	Reject post review	Estela Jacinto,Kazutoshi Mori	Estela Jacinto	Estela	female	1	138
+552	EMBOJ-2015-92486	Nielsen, Anne	Reject post review	Estela Jacinto,Kazutoshi Mori	Kazutoshi Mori	Kazutoshi	None	NA	NA
+553	EMBOJ-2015-92660	Nielsen, Anne	Revise and Re-review	Yamini Dalal,Peter B. Becker,Tom Owen-Hughes	Yamini Dalal	Yamini	female	0.95	20
+554	EMBOJ-2015-92660	Nielsen, Anne	Revise and Re-review	Yamini Dalal,Peter B. Becker,Tom Owen-Hughes	Peter B. Becker	Peter B.	None	NA	NA
+555	EMBOJ-2015-92660	Nielsen, Anne	Revise and Re-review	Yamini Dalal,Peter B. Becker,Tom Owen-Hughes	Tom Owen-Hughes	Tom	male	1	3736
+556	EMBOJ-2015-92665	Nielsen, Anne	Reject post review	Walid Houry,Dmitry Vassylyev,Benoit Coulombe	Walid Houry	Walid	male	0.99	185
+557	EMBOJ-2015-92665	Nielsen, Anne	Reject post review	Walid Houry,Dmitry Vassylyev,Benoit Coulombe	Dmitry Vassylyev	Dmitry	male	1	73
+558	EMBOJ-2015-92665	Nielsen, Anne	Reject post review	Walid Houry,Dmitry Vassylyev,Benoit Coulombe	Benoit Coulombe	Benoit	male	1	389
+559	EMBOJ-2015-92678	Nielsen, Anne	Revise and Re-review	Nektarios Tavernarakis,James Shorter,Mark Hipp	Nektarios Tavernarakis	Nektarios	male	1	7
+560	EMBOJ-2015-92678	Nielsen, Anne	Revise and Re-review	Nektarios Tavernarakis,James Shorter,Mark Hipp	James Shorter	James	male	0.99	6359
+561	EMBOJ-2015-92678	Nielsen, Anne	Revise and Re-review	Nektarios Tavernarakis,James Shorter,Mark Hipp	Mark Hipp	Mark	male	1	6176
+562	EMBOJ-2015-92700	Nielsen, Anne	Reject post review	Balbino Alarcon,Hidde Ploegh,Adam Benham	Balbino Alarcon	Balbino	male	1	3
+563	EMBOJ-2015-92700	Nielsen, Anne	Reject post review	Balbino Alarcon,Hidde Ploegh,Adam Benham	Hidde Ploegh	Hidde	male	1	2
+564	EMBOJ-2015-92700	Nielsen, Anne	Reject post review	Balbino Alarcon,Hidde Ploegh,Adam Benham	Adam Benham	Adam	male	1	3957
+565	EMBOJ-2015-92751	Nielsen, Anne	Reject post review	V. Narry Kim,Marc Fabian,Christian Eckmann	V. Narry Kim	V. Narry	None	NA	NA
+566	EMBOJ-2015-92751	Nielsen, Anne	Reject post review	V. Narry Kim,Marc Fabian,Christian Eckmann	Marc Fabian	Marc	male	1	1555
+567	EMBOJ-2015-92751	Nielsen, Anne	Reject post review	V. Narry Kim,Marc Fabian,Christian Eckmann	Christian Eckmann	Christian	male	0.99	2548
+568	EMBOJ-2015-92759	Nielsen, Anne	Revise and Re-review	Igor Ulitsky,Alan Hinnebusch,Nicholas Ingolia	Igor Ulitsky	Igor	male	1	345
+569	EMBOJ-2015-92759	Nielsen, Anne	Revise and Re-review	Igor Ulitsky,Alan Hinnebusch,Nicholas Ingolia	Alan Hinnebusch	Alan	male	1	2079
+570	EMBOJ-2015-92759	Nielsen, Anne	Revise and Re-review	Igor Ulitsky,Alan Hinnebusch,Nicholas Ingolia	Nicholas Ingolia	Nicholas	male	1	1176
+571	EMBOJ-2015-92828	Nielsen, Anne	Reject post review	Georg Stoecklin,Poul Sorensen,Paul Anderson	Georg Stoecklin	Georg	male	1	64
+572	EMBOJ-2015-92828	Nielsen, Anne	Reject post review	Georg Stoecklin,Poul Sorensen,Paul Anderson	Poul Sorensen	Poul	male	1	30
+573	EMBOJ-2015-92828	Nielsen, Anne	Reject post review	Georg Stoecklin,Poul Sorensen,Paul Anderson	Paul Anderson	Paul	male	1	5931
+574	EMBOJ-2015-92901	Nielsen, Anne	Revise and Re-review	Helge Großhans,Marc Fabian,David Bartel	Helge Großhans	Helge	male	0.93	28
+575	EMBOJ-2015-92901	Nielsen, Anne	Revise and Re-review	Helge Großhans,Marc Fabian,David Bartel	Marc Fabian	Marc	male	1	1555
+576	EMBOJ-2015-92901	Nielsen, Anne	Revise and Re-review	Helge Großhans,Marc Fabian,David Bartel	David Bartel	David	male	1	12593
+577	EMBOJ-2015-92907	Nielsen, Anne	Reject post review	James Keck,Julian Sale	James Keck	James	male	0.99	6359
+578	EMBOJ-2015-92907	Nielsen, Anne	Reject post review	James Keck,Julian Sale	Julian Sale	Julian	male	1	1079
+579	EMBOJ-2015-93024	Nielsen, Anne	Reject post review	Stuart Calderwood,Susan Lindquist,Rockland Wiseman	Stuart Calderwood	Stuart	male	0.99	759
+580	EMBOJ-2015-93024	Nielsen, Anne	Reject post review	Stuart Calderwood,Susan Lindquist,Rockland Wiseman	Susan Lindquist	Susan	female	1	3203
+581	EMBOJ-2015-93024	Nielsen, Anne	Reject post review	Stuart Calderwood,Susan Lindquist,Rockland Wiseman	Rockland Wiseman	Rockland	male	1	1
+582	EMBOJ-2015-93113	Nielsen, Anne	Revise and Re-review	Chuan He,Ian Eperon,U. Thomas Meier	Chuan He	Chuan	female	0.64	22
+583	EMBOJ-2015-93113	Nielsen, Anne	Revise and Re-review	Chuan He,Ian Eperon,U. Thomas Meier	Ian Eperon	Ian	male	0.99	2159
+584	EMBOJ-2015-93113	Nielsen, Anne	Revise and Re-review	Chuan He,Ian Eperon,U. Thomas Meier	U. Thomas Meier	U. Thomas	None	NA	NA
+585	EMBOJ-2015-93159	Nielsen, Anne	Reject post review	Judith Frydman,Micheline Fromont-Racine,Oliver Muhlemann	Judith Frydman	Judith	female	1	750
+586	EMBOJ-2015-93159	Nielsen, Anne	Reject post review	Judith Frydman,Micheline Fromont-Racine,Oliver Muhlemann	Micheline Fromont-Racine	Micheline	female	0.98	40
+587	EMBOJ-2015-93159	Nielsen, Anne	Reject post review	Judith Frydman,Micheline Fromont-Racine,Oliver Muhlemann	Oliver Muhlemann	Oliver	male	0.99	750
+588	EMBOJ-2015-93235	Nielsen, Anne	Revise only	Christian Muchardt,François Fuks	Christian Muchardt	Christian	male	0.99	2548
+589	EMBOJ-2015-93235	Nielsen, Anne	Revise only	Christian Muchardt,François Fuks	François Fuks	François	male	0.99	371
+590	EMBOJ-2015-93260	Nielsen, Anne	Revise and Re-review	Diego Pasini,Pier Lorenzo Puri,Iannis Talianidis	Diego Pasini	Diego	male	1	2270
+591	EMBOJ-2015-93260	Nielsen, Anne	Revise and Re-review	Diego Pasini,Pier Lorenzo Puri,Iannis Talianidis	Pier Lorenzo Puri	Pier Lorenzo	None	NA	NA
+592	EMBOJ-2015-93260	Nielsen, Anne	Revise and Re-review	Diego Pasini,Pier Lorenzo Puri,Iannis Talianidis	Iannis Talianidis	Iannis	male	1	2
+593	EMBOJ-2015-93288	Nielsen, Anne	Reject post review	Myriam Gorospe,Tilmann Achsel,Thomas Hansen	Myriam Gorospe	Myriam	female	1	407
+594	EMBOJ-2015-93288	Nielsen, Anne	Reject post review	Myriam Gorospe,Tilmann Achsel,Thomas Hansen	Tilmann Achsel	Tilmann	male	1	1
+595	EMBOJ-2015-93288	Nielsen, Anne	Reject post review	Myriam Gorospe,Tilmann Achsel,Thomas Hansen	Thomas Hansen	Thomas	male	1	3753
+596	EMBOJ-2015-93344	Nielsen, Anne	Reject post review	Stephen Buratowski,Domenico Libri,Julien Gagneur	Stephen Buratowski	Stephen	male	1	2608
+597	EMBOJ-2015-93344	Nielsen, Anne	Reject post review	Stephen Buratowski,Domenico Libri,Julien Gagneur	Domenico Libri	Domenico	male	1	220
+598	EMBOJ-2015-93344	Nielsen, Anne	Reject post review	Stephen Buratowski,Domenico Libri,Julien Gagneur	Julien Gagneur	Julien	male	1	1062
+599	EMBOJ-2015-93378	Nielsen, Anne	Reject post review	Harm Kampinga,Rachel Klevit,Elizabeth Vierling	Harm Kampinga	Harm	male	1	7
+600	EMBOJ-2015-93378	Nielsen, Anne	Reject post review	Harm Kampinga,Rachel Klevit,Elizabeth Vierling	Rachel Klevit	Rachel	female	1	4021
+601	EMBOJ-2015-93378	Nielsen, Anne	Reject post review	Harm Kampinga,Rachel Klevit,Elizabeth Vierling	Elizabeth Vierling	Elizabeth	female	1	3508
+602	EMBOJ-2015-93428	Nielsen, Anne	Revise only	Estela Jacinto,Kazutoshi Mori	Estela Jacinto	Estela	female	1	138
+603	EMBOJ-2015-93428	Nielsen, Anne	Revise only	Estela Jacinto,Kazutoshi Mori	Kazutoshi Mori	Kazutoshi	None	NA	NA
+604	EMBOJ-2015-93443	Nielsen, Anne	Reject post review	Yamini Dalal,Genevieve Almouzni,Anja Groth	Yamini Dalal	Yamini	female	0.95	20
+605	EMBOJ-2015-93443	Nielsen, Anne	Reject post review	Yamini Dalal,Genevieve Almouzni,Anja Groth	Genevieve Almouzni	Genevieve	female	1	244
+606	EMBOJ-2015-93443	Nielsen, Anne	Reject post review	Yamini Dalal,Genevieve Almouzni,Anja Groth	Anja Groth	Anja	female	1	398
+607	EMBOJ-2015-93534	Nielsen, Anne	Revise and Re-review	Robert Martienssen,Vincent Colot,Justin Goodrich	Robert Martienssen	Robert	male	1	5222
+608	EMBOJ-2015-93534	Nielsen, Anne	Revise and Re-review	Robert Martienssen,Vincent Colot,Justin Goodrich	Vincent Colot	Vincent	male	1	1424
+609	EMBOJ-2015-93534	Nielsen, Anne	Revise and Re-review	Robert Martienssen,Vincent Colot,Justin Goodrich	Justin Goodrich	Justin	male	1	2871
+610	EMBOJ-2015-93551	Nielsen, Anne	Reject post review	Bertrand Seraphin,Imed Gallouzi,Georg Stoecklin	Bertrand Seraphin	Bertrand	male	0.97	117
+611	EMBOJ-2015-93551	Nielsen, Anne	Reject post review	Bertrand Seraphin,Imed Gallouzi,Georg Stoecklin	Imed Gallouzi	Imed	male	1	12
+612	EMBOJ-2015-93551	Nielsen, Anne	Reject post review	Bertrand Seraphin,Imed Gallouzi,Georg Stoecklin	Georg Stoecklin	Georg	male	1	64
+613	EMBOJ-2015-91974	Pulverer, Bernd	Reject Post Review - 2 Reviewers	Mark Hochstrasser,Titia Sixma	Mark Hochstrasser	Mark	male	1	6176
+614	EMBOJ-2015-91974	Pulverer, Bernd	Reject Post Review - 2 Reviewers	Mark Hochstrasser,Titia Sixma	Titia Sixma	Titia	female	1	8
+615	EMBOJ-2015-92043	Pulverer, Bernd	Revise and Re-Review - Border Line Reject	Wilhelm Krek,Tariq Enver,Derrick Rossi	Wilhelm Krek	Wilhelm	male	1	19
+616	EMBOJ-2015-92043	Pulverer, Bernd	Revise and Re-Review - Border Line Reject	Wilhelm Krek,Tariq Enver,Derrick Rossi	Tariq Enver	Tariq	male	1	149
+617	EMBOJ-2015-92043	Pulverer, Bernd	Revise and Re-Review - Border Line Reject	Wilhelm Krek,Tariq Enver,Derrick Rossi	Derrick Rossi	Derrick	male	1	360
+618	EMBOJ-2015-92044	Pulverer, Bernd	Reject post review	Thanos Halazonetis,Zhao-Qi Wang,Jiri Bartek	Thanos Halazonetis	Thanos	male	1	44
+619	EMBOJ-2015-92044	Pulverer, Bernd	Reject post review	Thanos Halazonetis,Zhao-Qi Wang,Jiri Bartek	Zhao-Qi Wang	Zhao-Qi	None	NA	NA
+620	EMBOJ-2015-92044	Pulverer, Bernd	Reject post review	Thanos Halazonetis,Zhao-Qi Wang,Jiri Bartek	Jiri Bartek	Jiri	male	1	20
+621	EMBOJ-2015-92203	Pulverer, Bernd	Revise and Re-review	Dimitar B. Nikolov,Amparo Acker-Palmer,Kim Jensen,Owen Sansom	Dimitar B. Nikolov	Dimitar B.	None	NA	NA
+622	EMBOJ-2015-92203	Pulverer, Bernd	Revise and Re-review	Dimitar B. Nikolov,Amparo Acker-Palmer,Kim Jensen,Owen Sansom	Amparo Acker-Palmer	Amparo	female	0.99	172
+623	EMBOJ-2015-92203	Pulverer, Bernd	Revise and Re-review	Dimitar B. Nikolov,Amparo Acker-Palmer,Kim Jensen,Owen Sansom	Kim Jensen	Kim	female	0.88	3561
+624	EMBOJ-2015-92203	Pulverer, Bernd	Revise and Re-review	Dimitar B. Nikolov,Amparo Acker-Palmer,Kim Jensen,Owen Sansom	Owen Sansom	Owen	male	0.99	240
+625	EMBOJ-2015-92252	Pulverer, Bernd	Revise and Re-Review - Border Line Reject	Jan Karlseder,Qi Zeng,Karl-Lenhard Rudolph	Jan Karlseder	Jan	male	0.6	1663
+626	EMBOJ-2015-92252	Pulverer, Bernd	Revise and Re-Review - Border Line Reject	Jan Karlseder,Qi Zeng,Karl-Lenhard Rudolph	Qi Zeng	Qi	male	0.6	30
+627	EMBOJ-2015-92252	Pulverer, Bernd	Revise and Re-Review - Border Line Reject	Jan Karlseder,Qi Zeng,Karl-Lenhard Rudolph	Karl-Lenhard Rudolph	Karl-Lenhard	None	NA	NA
+628	EMBOJ-2015-92276	Pulverer, Bernd	Reject Post Review - 2 Reviewers	Björn Schumacher,Helle Ulrich	Björn Schumacher	Björn	male	1	194
+629	EMBOJ-2015-92276	Pulverer, Bernd	Reject Post Review - 2 Reviewers	Björn Schumacher,Helle Ulrich	Helle Ulrich	Helle	female	1	170
+630	EMBOJ-2015-92462	Pulverer, Bernd	Revise and Re-Review - Border Line Reject	Antony Oliver,R Williams	Antony Oliver	Antony	male	1	249
+631	EMBOJ-2015-92462	Pulverer, Bernd	Revise and Re-Review - Border Line Reject	Antony Oliver,R Williams	R Williams	R	male	0.79	42
+632	EMBOJ-2015-92532	Pulverer, Bernd	Revise and Re-review	Prasad Jallepalli,Rolf Jessberger,Yoshinori Watanabe	Prasad Jallepalli	Prasad	male	1	72
+633	EMBOJ-2015-92532	Pulverer, Bernd	Revise and Re-review	Prasad Jallepalli,Rolf Jessberger,Yoshinori Watanabe	Rolf Jessberger	Rolf	male	1	114
+634	EMBOJ-2015-92532	Pulverer, Bernd	Revise and Re-review	Prasad Jallepalli,Rolf Jessberger,Yoshinori Watanabe	Yoshinori Watanabe	Yoshinori	male	1	12
+635	EMBOJ-2015-92600	Pulverer, Bernd	Reject post review	J. Keith Joung,David Weiss,Rodolphe Barrangou	J. Keith Joung	J. Keith	None	NA	NA
+636	EMBOJ-2015-92600	Pulverer, Bernd	Reject post review	J. Keith Joung,David Weiss,Rodolphe Barrangou	David Weiss	David	male	1	12593
+637	EMBOJ-2015-92600	Pulverer, Bernd	Reject post review	J. Keith Joung,David Weiss,Rodolphe Barrangou	Rodolphe Barrangou	Rodolphe	male	1	32
+638	EMBOJ-2015-92903	Pulverer, Bernd	Revise and Re-Review - Border Line Reject	Patrick Collombat,Klaus Kaestner,Harry Heimberg	Patrick Collombat	Patrick	male	1	2877
+639	EMBOJ-2015-92903	Pulverer, Bernd	Revise and Re-Review - Border Line Reject	Patrick Collombat,Klaus Kaestner,Harry Heimberg	Klaus Kaestner	Klaus	male	0.98	177
+640	EMBOJ-2015-92903	Pulverer, Bernd	Revise and Re-Review - Border Line Reject	Patrick Collombat,Klaus Kaestner,Harry Heimberg	Harry Heimberg	Harry	male	0.99	844
+641	EMBOJ-2015-92934	Pulverer, Bernd	Revise and Re-review	Antony Oliver,R Williams,Roland Kanaar	Antony Oliver	Antony	male	1	249
+642	EMBOJ-2015-92934	Pulverer, Bernd	Revise and Re-review	Antony Oliver,R Williams,Roland Kanaar	R Williams	R	male	0.79	42
+643	EMBOJ-2015-92934	Pulverer, Bernd	Revise and Re-review	Antony Oliver,R Williams,Roland Kanaar	Roland Kanaar	Roland	male	1	255
+644	EMBOJ-2015-92994	Pulverer, Bernd	Revise and Re-review	Robert Lightowlers	Robert Lightowlers	Robert	male	1	5222
+645	EMBOJ-2014-90819	Schwarz-Romond, Thomas	Revise and Re-review	Dieter Egli,Meritxell Huch	Dieter Egli	Dieter	male	1	70
+646	EMBOJ-2014-90819	Schwarz-Romond, Thomas	Revise and Re-review	Dieter Egli,Meritxell Huch	Meritxell Huch	Meritxell	female	1	40
+647	EMBOJ-2014-90822	Schwarz-Romond, Thomas	Reject post review	Hector Peinado,Akiko Hata,Stefanie Dimmeler	Hector Peinado	Hector	male	1	390
+648	EMBOJ-2014-90822	Schwarz-Romond, Thomas	Reject post review	Hector Peinado,Akiko Hata,Stefanie Dimmeler	Akiko Hata	Akiko	female	1	71
+649	EMBOJ-2014-90822	Schwarz-Romond, Thomas	Reject post review	Hector Peinado,Akiko Hata,Stefanie Dimmeler	Stefanie Dimmeler	Stefanie	female	1	463
+650	EMBOJ-2014-90881	Schwarz-Romond, Thomas	Revise only	Bruce Edgar	Bruce Edgar	Bruce	male	1	800
+651	EMBOJ-2014-90901	Schwarz-Romond, Thomas	Reject post review	Alexander Pfeifer,Shingo Kajimura	Alexander Pfeifer	Alexander	male	1	1645
+652	EMBOJ-2014-90901	Schwarz-Romond, Thomas	Reject post review	Alexander Pfeifer,Shingo Kajimura	Shingo Kajimura	Shingo	male	1	14
+653	EMBOJ-2015-90975	Schwarz-Romond, Thomas	Reject post review	Thomas Fazzio,Luciano Di Croce,Jesus Gil	Thomas Fazzio	Thomas	male	1	3753
+654	EMBOJ-2015-90975	Schwarz-Romond, Thomas	Reject post review	Thomas Fazzio,Luciano Di Croce,Jesus Gil	Luciano Di Croce	Luciano Di	None	NA	NA
+655	EMBOJ-2015-90975	Schwarz-Romond, Thomas	Reject post review	Thomas Fazzio,Luciano Di Croce,Jesus Gil	Jesus Gil	Jesus	male	0.98	1071
+656	EMBOJ-2015-91058	Schwarz-Romond, Thomas	Revise and Re-review	Harry Heimberg,Francesca Spagnoli	Harry Heimberg	Harry	male	0.99	844
+657	EMBOJ-2015-91058	Schwarz-Romond, Thomas	Revise and Re-review	Harry Heimberg,Francesca Spagnoli	Francesca Spagnoli	Francesca	female	1	1122
+658	EMBOJ-2015-91077	Schwarz-Romond, Thomas	Reject post review	Philipp Scherer,Shizuo Akira,Jerrold Olefsky	Philipp Scherer	Philipp	male	1	205
+659	EMBOJ-2015-91077	Schwarz-Romond, Thomas	Reject post review	Philipp Scherer,Shizuo Akira,Jerrold Olefsky	Shizuo Akira	Shizuo	None	NA	NA
+660	EMBOJ-2015-91077	Schwarz-Romond, Thomas	Reject post review	Philipp Scherer,Shizuo Akira,Jerrold Olefsky	Jerrold Olefsky	Jerrold	male	1	1
+661	EMBOJ-2015-91088	Schwarz-Romond, Thomas	Reject post review	Stephen Cohen,Duncan Odom,Eisuke Nishida	Stephen Cohen	Stephen	male	1	2608
+662	EMBOJ-2015-91088	Schwarz-Romond, Thomas	Reject post review	Stephen Cohen,Duncan Odom,Eisuke Nishida	Duncan Odom	Duncan	male	1	261
+663	EMBOJ-2015-91088	Schwarz-Romond, Thomas	Reject post review	Stephen Cohen,Duncan Odom,Eisuke Nishida	Eisuke Nishida	Eisuke	female	0.5	2
+664	EMBOJ-2015-91130	Schwarz-Romond, Thomas	Reject post review	Christina Lo Celso,Tsvee Lapidot	Christina Lo Celso	Christina Lo	None	NA	NA
+665	EMBOJ-2015-91130	Schwarz-Romond, Thomas	Reject post review	Christina Lo Celso,Tsvee Lapidot	Tsvee Lapidot	Tsvee	None	NA	NA
+666	EMBOJ-2015-91180	Schwarz-Romond, Thomas	Reject post review	Valerie Horsley,Richard Grose,Markus Schober	Valerie Horsley	Valerie	female	1	889
+667	EMBOJ-2015-91180	Schwarz-Romond, Thomas	Reject post review	Valerie Horsley,Richard Grose,Markus Schober	Richard Grose	Richard	male	1	4381
+668	EMBOJ-2015-91180	Schwarz-Romond, Thomas	Reject post review	Valerie Horsley,Richard Grose,Markus Schober	Markus Schober	Markus	male	1	412
+669	EMBOJ-2015-91298	Schwarz-Romond, Thomas	Reject Post Review - 2 Reviewers	Tamas Horvath,Yasuhiko Minokoshi	Tamas Horvath	Tamas	male	1	6
+670	EMBOJ-2015-91298	Schwarz-Romond, Thomas	Reject Post Review - 2 Reviewers	Tamas Horvath,Yasuhiko Minokoshi	Yasuhiko Minokoshi	Yasuhiko	male	1	1
+671	EMBOJ-2015-91329	Schwarz-Romond, Thomas	Reject post review	Peter Dirks,Uri Ben-David	Peter Dirks	Peter	male	1	4373
+672	EMBOJ-2015-91329	Schwarz-Romond, Thomas	Reject post review	Peter Dirks,Uri Ben-David	Uri Ben-David	Uri	male	0.86	28
+673	EMBOJ-2015-91360	Schwarz-Romond, Thomas	Reject Post Review - 2 Reviewers	Alan Hinnebusch,Ian Chambers	Alan Hinnebusch	Alan	male	1	2079
+674	EMBOJ-2015-91360	Schwarz-Romond, Thomas	Reject Post Review - 2 Reviewers	Alan Hinnebusch,Ian Chambers	Ian Chambers	Ian	male	0.99	2159
+675	EMBOJ-2015-91486	Schwarz-Romond, Thomas	Reject post review	François Fuks,Natalia Tapia	François Fuks	François	male	0.99	371
+676	EMBOJ-2015-91486	Schwarz-Romond, Thomas	Reject post review	François Fuks,Natalia Tapia	Natalia Tapia	Natalia	female	1	1370
+677	EMBOJ-2014-90683	Vodermaier, Hartmut	Reject post review	Sudha Shenoy,Ivan Dikic,Alexander Sorkin	Sudha Shenoy	Sudha	female	1	36
+678	EMBOJ-2014-90683	Vodermaier, Hartmut	Reject post review	Sudha Shenoy,Ivan Dikic,Alexander Sorkin	Ivan Dikic	Ivan	male	1	1905
+679	EMBOJ-2014-90683	Vodermaier, Hartmut	Reject post review	Sudha Shenoy,Ivan Dikic,Alexander Sorkin	Alexander Sorkin	Alexander	male	1	1645
+680	EMBOJ-2014-90773	Vodermaier, Hartmut	Revise and Re-review	Kazunori Tomita,Agnel Sfeir,F. Brad Johnson	Kazunori Tomita	Kazunori	male	1	1
+681	EMBOJ-2014-90773	Vodermaier, Hartmut	Revise and Re-review	Kazunori Tomita,Agnel Sfeir,F. Brad Johnson	Agnel Sfeir	Agnel	male	1	1
+682	EMBOJ-2014-90773	Vodermaier, Hartmut	Revise and Re-review	Kazunori Tomita,Agnel Sfeir,F. Brad Johnson	F. Brad Johnson	F. Brad	None	NA	NA
+683	EMBOJ-2014-90834	Vodermaier, Hartmut	Revise and Re-review	Antony Oliver,Stephen Jackson,Pierre-Henri Gaillard	Antony Oliver	Antony	male	1	249
+684	EMBOJ-2014-90834	Vodermaier, Hartmut	Revise and Re-review	Antony Oliver,Stephen Jackson,Pierre-Henri Gaillard	Stephen Jackson	Stephen	male	1	2608
+685	EMBOJ-2014-90834	Vodermaier, Hartmut	Revise and Re-review	Antony Oliver,Stephen Jackson,Pierre-Henri Gaillard	Pierre-Henri Gaillard	Pierre-Henri	male	1	10
+686	EMBOJ-2014-90868	Vodermaier, Hartmut	Revise and Re-review	Francesca Storici,Andrés Aguilera,Sue Jinks-Robertson	Francesca Storici	Francesca	female	1	1122
+687	EMBOJ-2014-90868	Vodermaier, Hartmut	Revise and Re-review	Francesca Storici,Andrés Aguilera,Sue Jinks-Robertson	Andrés Aguilera	Andrés	male	1	36
+688	EMBOJ-2014-90868	Vodermaier, Hartmut	Revise and Re-review	Francesca Storici,Andrés Aguilera,Sue Jinks-Robertson	Sue Jinks-Robertson	Sue	female	1	1825
+689	EMBOJ-2014-90878	Vodermaier, Hartmut	Revise and Re-review	Angelos Constantinou,Roger Woodgate,Julian Sale	Angelos Constantinou	Angelos	male	1	23
+690	EMBOJ-2014-90878	Vodermaier, Hartmut	Revise and Re-review	Angelos Constantinou,Roger Woodgate,Julian Sale	Roger Woodgate	Roger	male	1	1220
+691	EMBOJ-2014-90878	Vodermaier, Hartmut	Revise and Re-review	Angelos Constantinou,Roger Woodgate,Julian Sale	Julian Sale	Julian	male	1	1079
+692	EMBOJ-2014-90880	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Joachim Lingner,Reuven Agami,Eros Lazzerini Denchi	Joachim Lingner	Joachim	male	1	137
+693	EMBOJ-2014-90880	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Joachim Lingner,Reuven Agami,Eros Lazzerini Denchi	Reuven Agami	Reuven	male	0.98	49
+694	EMBOJ-2014-90880	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Joachim Lingner,Reuven Agami,Eros Lazzerini Denchi	Eros Lazzerini Denchi	Eros Lazzerini	None	NA	NA
+695	EMBOJ-2015-90973	Vodermaier, Hartmut	Revise and Re-review	Petr Cejka,Sang Eun Lee,Tanya Paull	Petr Cejka	Petr	male	1	172
+696	EMBOJ-2015-90973	Vodermaier, Hartmut	Revise and Re-review	Petr Cejka,Sang Eun Lee,Tanya Paull	Sang Eun Lee	Sang Eun	female	1	1
+697	EMBOJ-2015-90973	Vodermaier, Hartmut	Revise and Re-review	Petr Cejka,Sang Eun Lee,Tanya Paull	Tanya Paull	Tanya	female	1	960
+698	EMBOJ-2015-91018	Vodermaier, Hartmut	Reject post review	Karim Labib,Anja Groth,Genevieve Almouzni	Karim Labib	Karim	male	0.92	474
+699	EMBOJ-2015-91018	Vodermaier, Hartmut	Reject post review	Karim Labib,Anja Groth,Genevieve Almouzni	Anja Groth	Anja	female	1	398
+700	EMBOJ-2015-91018	Vodermaier, Hartmut	Reject post review	Karim Labib,Anja Groth,Genevieve Almouzni	Genevieve Almouzni	Genevieve	female	1	244
+701	EMBOJ-2015-91029	Vodermaier, Hartmut	Reject post review	Nico P. Dantuma,Thanos Halazonetis,Zhenkun Lou	Nico P. Dantuma	Nico P.	None	NA	NA
+702	EMBOJ-2015-91029	Vodermaier, Hartmut	Reject post review	Nico P. Dantuma,Thanos Halazonetis,Zhenkun Lou	Thanos Halazonetis	Thanos	male	1	44
+703	EMBOJ-2015-91029	Vodermaier, Hartmut	Reject post review	Nico P. Dantuma,Thanos Halazonetis,Zhenkun Lou	Zhenkun Lou	Zhenkun	male	1	1
+704	EMBOJ-2015-91067	Vodermaier, Hartmut	Reject post review	Christopher Hill,Mark Hochstrasser,Michael Groll	Christopher Hill	Christopher	male	1	2339
+705	EMBOJ-2015-91067	Vodermaier, Hartmut	Reject post review	Christopher Hill,Mark Hochstrasser,Michael Groll	Mark Hochstrasser	Mark	male	1	6176
+706	EMBOJ-2015-91067	Vodermaier, Hartmut	Reject post review	Christopher Hill,Mark Hochstrasser,Michael Groll	Michael Groll	Michael	male	1	11094
+707	EMBOJ-2015-91082	Vodermaier, Hartmut	Reject post review	David Chen,Alan Tomkinson,Vincenzo Costanzo	David Chen	David	male	1	12593
+708	EMBOJ-2015-91082	Vodermaier, Hartmut	Reject post review	David Chen,Alan Tomkinson,Vincenzo Costanzo	Alan Tomkinson	Alan	male	1	2079
+709	EMBOJ-2015-91082	Vodermaier, Hartmut	Reject post review	David Chen,Alan Tomkinson,Vincenzo Costanzo	Vincenzo Costanzo	Vincenzo	male	1	350
+710	EMBOJ-2015-91144	Vodermaier, Hartmut	Reject post review	Thomas Helleday,Patrick Sung,Andre Nussenzweig	Thomas Helleday	Thomas	male	1	3753
+711	EMBOJ-2015-91144	Vodermaier, Hartmut	Reject post review	Thomas Helleday,Patrick Sung,Andre Nussenzweig	Patrick Sung	Patrick	male	1	2877
+712	EMBOJ-2015-91144	Vodermaier, Hartmut	Reject post review	Thomas Helleday,Patrick Sung,Andre Nussenzweig	Andre Nussenzweig	Andre	male	0.93	860
+713	EMBOJ-2015-91173	Vodermaier, Hartmut	By author	Yaoqin Gong,Ronald Kuehnlein,Thimo Kurz,Rana Gupta	Yaoqin Gong	Yaoqin	None	NA	NA
+714	EMBOJ-2015-91173	Vodermaier, Hartmut	By author	Yaoqin Gong,Ronald Kuehnlein,Thimo Kurz,Rana Gupta	Ronald Kuehnlein	Ronald	male	1	755
+715	EMBOJ-2015-91173	Vodermaier, Hartmut	By author	Yaoqin Gong,Ronald Kuehnlein,Thimo Kurz,Rana Gupta	Thimo Kurz	Thimo	male	1	2
+716	EMBOJ-2015-91173	Vodermaier, Hartmut	By author	Yaoqin Gong,Ronald Kuehnlein,Thimo Kurz,Rana Gupta	Rana Gupta	Rana	female	0.81	289
+717	EMBOJ-2015-91190	Vodermaier, Hartmut	Revise and Re-review	Philippe Pasero,Pierre-Henri Gaillard,Marco Muzi-Falconi	Philippe Pasero	Philippe	male	0.99	605
+718	EMBOJ-2015-91190	Vodermaier, Hartmut	Revise and Re-review	Philippe Pasero,Pierre-Henri Gaillard,Marco Muzi-Falconi	Pierre-Henri Gaillard	Pierre-Henri	male	1	10
+719	EMBOJ-2015-91190	Vodermaier, Hartmut	Revise and Re-review	Philippe Pasero,Pierre-Henri Gaillard,Marco Muzi-Falconi	Marco Muzi-Falconi	Marco	male	0.99	2493
+720	EMBOJ-2015-91194	Vodermaier, Hartmut	Reject post review	Nynke Dekker,Jeff Errington,Kiyoshi Mizuuchi,Joseph Loparo	Nynke Dekker	Nynke	female	1	13
+721	EMBOJ-2015-91194	Vodermaier, Hartmut	Reject post review	Nynke Dekker,Jeff Errington,Kiyoshi Mizuuchi,Joseph Loparo	Jeff Errington	Jeff	male	1	2925
+722	EMBOJ-2015-91194	Vodermaier, Hartmut	Reject post review	Nynke Dekker,Jeff Errington,Kiyoshi Mizuuchi,Joseph Loparo	Kiyoshi Mizuuchi	Kiyoshi	male	0.89	9
+723	EMBOJ-2015-91194	Vodermaier, Hartmut	Reject post review	Nynke Dekker,Jeff Errington,Kiyoshi Mizuuchi,Joseph Loparo	Joseph Loparo	Joseph	male	0.99	2213
+724	EMBOJ-2015-91271	Vodermaier, Hartmut	Revise and Re-review	Matthew Hirschey,Shimin Zhao,David Lombard,Hanno Steen	Matthew Hirschey	Matthew	male	1	3338
+725	EMBOJ-2015-91271	Vodermaier, Hartmut	Revise and Re-review	Matthew Hirschey,Shimin Zhao,David Lombard,Hanno Steen	Shimin Zhao	Shimin	female	1	3
+726	EMBOJ-2015-91271	Vodermaier, Hartmut	Revise and Re-review	Matthew Hirschey,Shimin Zhao,David Lombard,Hanno Steen	David Lombard	David	male	1	12593
+727	EMBOJ-2015-91271	Vodermaier, Hartmut	Revise and Re-review	Matthew Hirschey,Shimin Zhao,David Lombard,Hanno Steen	Hanno Steen	Hanno	male	1	5
+728	EMBOJ-2015-91293	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Zhiguo Zhang,David MacAlpine,Marcel Mechali	Zhiguo Zhang	Zhiguo	None	NA	NA
+729	EMBOJ-2015-91293	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Zhiguo Zhang,David MacAlpine,Marcel Mechali	David MacAlpine	David	male	1	12593
+730	EMBOJ-2015-91293	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Zhiguo Zhang,David MacAlpine,Marcel Mechali	Marcel Mechali	Marcel	male	0.96	403
+731	EMBOJ-2015-91294	Vodermaier, Hartmut	Reject post review	Keir Neuman,N. Patrick Higgins,Anthony Maxwell,Tao-Shih Hsieh	Keir Neuman	Keir	male	0.91	11
+732	EMBOJ-2015-91294	Vodermaier, Hartmut	Reject post review	Keir Neuman,N. Patrick Higgins,Anthony Maxwell,Tao-Shih Hsieh	N. Patrick Higgins	N. Patrick	None	NA	NA
+733	EMBOJ-2015-91294	Vodermaier, Hartmut	Reject post review	Keir Neuman,N. Patrick Higgins,Anthony Maxwell,Tao-Shih Hsieh	Anthony Maxwell	Anthony	male	1	3029
+734	EMBOJ-2015-91294	Vodermaier, Hartmut	Reject post review	Keir Neuman,N. Patrick Higgins,Anthony Maxwell,Tao-Shih Hsieh	Tao-Shih Hsieh	Tao-Shih	None	NA	NA
+735	EMBOJ-2015-91363	Vodermaier, Hartmut	Revise and Re-review	David Wilson III,Martin Lavin,Grant Stewart	David Wilson III	David Wilson	male	1	8
+736	EMBOJ-2015-91363	Vodermaier, Hartmut	Revise and Re-review	David Wilson III,Martin Lavin,Grant Stewart	Martin Lavin	Martin	male	1	3568
+737	EMBOJ-2015-91363	Vodermaier, Hartmut	Revise and Re-review	David Wilson III,Martin Lavin,Grant Stewart	Grant Stewart	Grant	male	1	592
+738	EMBOJ-2015-91455	Vodermaier, Hartmut	Reject post review	Claire Walczak,Helfrid Hochegger,Patricia Wadsworth	Claire Walczak	Claire	female	1	2587
+739	EMBOJ-2015-91455	Vodermaier, Hartmut	Reject post review	Claire Walczak,Helfrid Hochegger,Patricia Wadsworth	Helfrid Hochegger	Helfrid	None	NA	NA
+740	EMBOJ-2015-91455	Vodermaier, Hartmut	Reject post review	Claire Walczak,Helfrid Hochegger,Patricia Wadsworth	Patricia Wadsworth	Patricia	female	1	3488
+741	EMBOJ-2015-91469	Vodermaier, Hartmut	Reject post review	Lorenz Poellinger,Edurne Berra	Lorenz Poellinger	Lorenz	male	1	20
+742	EMBOJ-2015-91469	Vodermaier, Hartmut	Reject post review	Lorenz Poellinger,Edurne Berra	Edurne Berra	Edurne	female	1	21
+743	EMBOJ-2015-91520	Vodermaier, Hartmut	Revise and Re-review	Thomas Kunkel,Daniel F. Bogenhagen,Wei Yang,Sylvie Doublie	Thomas Kunkel	Thomas	male	1	3753
+744	EMBOJ-2015-91520	Vodermaier, Hartmut	Revise and Re-review	Thomas Kunkel,Daniel F. Bogenhagen,Wei Yang,Sylvie Doublie	Daniel F. Bogenhagen	Daniel F.	None	NA	NA
+745	EMBOJ-2015-91520	Vodermaier, Hartmut	Revise and Re-review	Thomas Kunkel,Daniel F. Bogenhagen,Wei Yang,Sylvie Doublie	Wei Yang	Wei	female	0.54	203
+746	EMBOJ-2015-91520	Vodermaier, Hartmut	Revise and Re-review	Thomas Kunkel,Daniel F. Bogenhagen,Wei Yang,Sylvie Doublie	Sylvie Doublie	Sylvie	female	1	582
+747	EMBOJ-2015-91549	Vodermaier, Hartmut	Reject post review	Donald Jarvis,Evan Powers,Mark R. Wormald	Donald Jarvis	Donald	male	1	493
+748	EMBOJ-2015-91549	Vodermaier, Hartmut	Reject post review	Donald Jarvis,Evan Powers,Mark R. Wormald	Evan Powers	Evan	male	0.97	657
+749	EMBOJ-2015-91549	Vodermaier, Hartmut	Reject post review	Donald Jarvis,Evan Powers,Mark R. Wormald	Mark R. Wormald	Mark R.	None	NA	NA
+750	EMBOJ-2015-91644	Vodermaier, Hartmut	Reject post review	Joseph Bonventre,Michael Rape,Yue Xiong	Joseph Bonventre	Joseph	male	0.99	2213
+751	EMBOJ-2015-91644	Vodermaier, Hartmut	Reject post review	Joseph Bonventre,Michael Rape,Yue Xiong	Michael Rape	Michael	male	1	11094
+752	EMBOJ-2015-91644	Vodermaier, Hartmut	Reject post review	Joseph Bonventre,Michael Rape,Yue Xiong	Yue Xiong	Yue	female	0.59	56
+753	EMBOJ-2015-91875	Vodermaier, Hartmut	Reject post review	Puck Knipscheer,John Rouse,Orlando Scharer	Puck Knipscheer	Puck	male	0.67	3
+754	EMBOJ-2015-91875	Vodermaier, Hartmut	Reject post review	Puck Knipscheer,John Rouse,Orlando Scharer	John Rouse	John	male	0.99	9931
+755	EMBOJ-2015-91875	Vodermaier, Hartmut	Reject post review	Puck Knipscheer,John Rouse,Orlando Scharer	Orlando Scharer	Orlando	male	0.99	364
+756	EMBOJ-2015-92426	Vodermaier, Hartmut	Reject post review	Marco Muzi-Falconi,Hannah Klein,Francesca Storici	Marco Muzi-Falconi	Marco	male	0.99	2493
+757	EMBOJ-2015-92426	Vodermaier, Hartmut	Reject post review	Marco Muzi-Falconi,Hannah Klein,Francesca Storici	Hannah Klein	Hannah	female	1	1949
+758	EMBOJ-2015-92426	Vodermaier, Hartmut	Reject post review	Marco Muzi-Falconi,Hannah Klein,Francesca Storici	Francesca Storici	Francesca	female	1	1122
+759	EMBOJ-2015-92737	Vodermaier, Hartmut	Reject post review	John Tainer,Katsunori Sugimoto,Stephen Jackson	John Tainer	John	male	0.99	9931
+760	EMBOJ-2015-92737	Vodermaier, Hartmut	Reject post review	John Tainer,Katsunori Sugimoto,Stephen Jackson	Katsunori Sugimoto	Katsunori	None	NA	NA
+761	EMBOJ-2015-92737	Vodermaier, Hartmut	Reject post review	John Tainer,Katsunori Sugimoto,Stephen Jackson	Stephen Jackson	Stephen	male	1	2608
+762	EMBOJ-2015-92781	Vodermaier, Hartmut	Reject post review	John Rouse,Pierre-Henri Gaillard	John Rouse	John	male	0.99	9931
+763	EMBOJ-2015-92781	Vodermaier, Hartmut	Reject post review	John Rouse,Pierre-Henri Gaillard	Pierre-Henri Gaillard	Pierre-Henri	male	1	10
+764	EMBOJ-2015-92795	Vodermaier, Hartmut	Reject post review	Christian Haering,Ana Losada,Susannah Rankin	Christian Haering	Christian	male	0.99	2548
+765	EMBOJ-2015-92795	Vodermaier, Hartmut	Reject post review	Christian Haering,Ana Losada,Susannah Rankin	Ana Losada	Ana	female	0.99	3621
+766	EMBOJ-2015-92795	Vodermaier, Hartmut	Reject post review	Christian Haering,Ana Losada,Susannah Rankin	Susannah Rankin	Susannah	female	1	32
+767	EMBOJ-2015-92815	Vodermaier, Hartmut	Reject post review	Mitch McVey,Jeremy Stark,Xiaohua Wu	Mitch McVey	Mitch	male	0.93	358
+768	EMBOJ-2015-92815	Vodermaier, Hartmut	Reject post review	Mitch McVey,Jeremy Stark,Xiaohua Wu	Jeremy Stark	Jeremy	male	0.99	1840
+769	EMBOJ-2015-92815	Vodermaier, Hartmut	Reject post review	Mitch McVey,Jeremy Stark,Xiaohua Wu	Xiaohua Wu	Xiaohua	female	1	1
+770	EMBOJ-2015-92849	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Frank Uhlmann,Francisco Antequera,Damien Hudson	Frank Uhlmann	Frank	male	1	1565
+771	EMBOJ-2015-92849	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Frank Uhlmann,Francisco Antequera,Damien Hudson	Francisco Antequera	Francisco	male	1	1513
+772	EMBOJ-2015-92849	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Frank Uhlmann,Francisco Antequera,Damien Hudson	Damien Hudson	Damien	male	1	567
+773	EMBOJ-2015-92870	Vodermaier, Hartmut	Reject post review	Aaron Severson,Alberto Pendas,Eva Hoffmann	Aaron Severson	Aaron	male	1	2280
+774	EMBOJ-2015-92870	Vodermaier, Hartmut	Reject post review	Aaron Severson,Alberto Pendas,Eva Hoffmann	Alberto Pendas	Alberto	male	1	1530
+775	EMBOJ-2015-92870	Vodermaier, Hartmut	Reject post review	Aaron Severson,Alberto Pendas,Eva Hoffmann	Eva Hoffmann	Eva	female	1	1715
+776	EMBOJ-2015-92955	Vodermaier, Hartmut	Reject post review	Anne Britt,Holger Puchta	Anne Britt	Anne	female	1	2461
+777	EMBOJ-2015-92955	Vodermaier, Hartmut	Reject post review	Anne Britt,Holger Puchta	Holger Puchta	Holger	male	1	44
+778	EMBOJ-2015-93034	Vodermaier, Hartmut	Reject post review	Hongtao Yu,Martin Singleton,Stephan Gruber	Hongtao Yu	Hongtao	male	1	1
+779	EMBOJ-2015-93034	Vodermaier, Hartmut	Reject post review	Hongtao Yu,Martin Singleton,Stephan Gruber	Martin Singleton	Martin	male	1	3568
+780	EMBOJ-2015-93034	Vodermaier, Hartmut	Reject post review	Hongtao Yu,Martin Singleton,Stephan Gruber	Stephan Gruber	Stephan	male	1	265
+781	EMBOJ-2015-93083	Vodermaier, Hartmut	Revise and Re-review	Avraham A. Levy,Crisanto Gutierrez,Karel Riha	Avraham A. Levy	Avraham A.	None	NA	NA
+782	EMBOJ-2015-93083	Vodermaier, Hartmut	Revise and Re-review	Avraham A. Levy,Crisanto Gutierrez,Karel Riha	Crisanto Gutierrez	Crisanto	male	1	3
+783	EMBOJ-2015-93083	Vodermaier, Hartmut	Revise and Re-review	Avraham A. Levy,Crisanto Gutierrez,Karel Riha	Karel Riha	Karel	male	0.92	90
+784	EMBOJ-2015-93132	Vodermaier, Hartmut	Reject post review	Marcus Smolka,Fumiko Esashi,John Rouse	Marcus Smolka	Marcus	male	1	970
+785	EMBOJ-2015-93132	Vodermaier, Hartmut	Reject post review	Marcus Smolka,Fumiko Esashi,John Rouse	Fumiko Esashi	Fumiko	female	1	5
+786	EMBOJ-2015-93132	Vodermaier, Hartmut	Reject post review	Marcus Smolka,Fumiko Esashi,John Rouse	John Rouse	John	male	0.99	9931
+787	EMBOJ-2015-93147	Vodermaier, Hartmut	Revise and Re-review	Keiji Tanaka,Kylie Walters,Gali Prag	Keiji Tanaka	Keiji	male	1	3
+788	EMBOJ-2015-93147	Vodermaier, Hartmut	Revise and Re-review	Keiji Tanaka,Kylie Walters,Gali Prag	Kylie Walters	Kylie	female	1	441
+789	EMBOJ-2015-93147	Vodermaier, Hartmut	Revise and Re-review	Keiji Tanaka,Kylie Walters,Gali Prag	Gali Prag	Gali	female	0.94	16
+790	EMBOJ-2015-93169	Vodermaier, Hartmut	Revise and Re-review	Andrew Baldwin,Yue Xiong,Miroslav Dundr	Andrew Baldwin	Andrew	male	1	5168
+791	EMBOJ-2015-93169	Vodermaier, Hartmut	Revise and Re-review	Andrew Baldwin,Yue Xiong,Miroslav Dundr	Yue Xiong	Yue	female	0.59	56
+792	EMBOJ-2015-93169	Vodermaier, Hartmut	Revise and Re-review	Andrew Baldwin,Yue Xiong,Miroslav Dundr	Miroslav Dundr	Miroslav	male	1	97
+793	EMBOJ-2015-93177	Vodermaier, Hartmut	Reject post review	R. Scott Hawley,Philip Jordan,Yoshinori Watanabe	R. Scott Hawley	R. Scott	None	NA	NA
+794	EMBOJ-2015-93177	Vodermaier, Hartmut	Reject post review	R. Scott Hawley,Philip Jordan,Yoshinori Watanabe	Philip Jordan	Philip	male	1	1097
+795	EMBOJ-2015-93177	Vodermaier, Hartmut	Reject post review	R. Scott Hawley,Philip Jordan,Yoshinori Watanabe	Yoshinori Watanabe	Yoshinori	male	1	12
+796	EMBOJ-2015-93254	Vodermaier, Hartmut	Reject post review	Julie Maupin-Furlow,Christopher Lima	Julie Maupin-Furlow	Julie	female	1	4260
+797	EMBOJ-2015-93254	Vodermaier, Hartmut	Reject post review	Julie Maupin-Furlow,Christopher Lima	Christopher Lima	Christopher	male	1	2339
+798	EMBOJ-2015-93265	Vodermaier, Hartmut	Revise and Re-review	Dana Branzei,Massimo Lopes,Philippe Pasero	Dana Branzei	Dana	female	0.92	1154
+799	EMBOJ-2015-93265	Vodermaier, Hartmut	Revise and Re-review	Dana Branzei,Massimo Lopes,Philippe Pasero	Massimo Lopes	Massimo	male	1	492
+800	EMBOJ-2015-93265	Vodermaier, Hartmut	Revise and Re-review	Dana Branzei,Massimo Lopes,Philippe Pasero	Philippe Pasero	Philippe	male	0.99	605
+801	EMBOJ-2015-93397	Vodermaier, Hartmut	Reject post review	Alan Tomkinson,Ronald Hay,Nico P. Dantuma	Alan Tomkinson	Alan	male	1	2079
+802	EMBOJ-2015-93397	Vodermaier, Hartmut	Reject post review	Alan Tomkinson,Ronald Hay,Nico P. Dantuma	Ronald Hay	Ronald	male	1	755
+803	EMBOJ-2015-93397	Vodermaier, Hartmut	Reject post review	Alan Tomkinson,Ronald Hay,Nico P. Dantuma	Nico P. Dantuma	Nico P.	None	NA	NA
+804	EMBOJ-2015-93404	Vodermaier, Hartmut	Revise and Re-review	Michel Toledano,Martin Lavin,Jing Yi	Michel Toledano	Michel	male	0.96	729
+805	EMBOJ-2015-93404	Vodermaier, Hartmut	Revise and Re-review	Michel Toledano,Martin Lavin,Jing Yi	Martin Lavin	Martin	male	1	3568
+806	EMBOJ-2015-93404	Vodermaier, Hartmut	Revise and Re-review	Michel Toledano,Martin Lavin,Jing Yi	Jing Yi	Jing	female	0.72	126
+807	EMBOJ-2015-93433	Vodermaier, Hartmut	Reject post review	Patrick Sung,Lorraine S. Symington,F. Brad Johnson	Patrick Sung	Patrick	male	1	2877
+808	EMBOJ-2015-93433	Vodermaier, Hartmut	Reject post review	Patrick Sung,Lorraine S. Symington,F. Brad Johnson	Lorraine S. Symington	Lorraine S.	None	NA	NA
+809	EMBOJ-2015-93433	Vodermaier, Hartmut	Reject post review	Patrick Sung,Lorraine S. Symington,F. Brad Johnson	F. Brad Johnson	F. Brad	None	NA	NA
+810	EMBOJ-2015-93452	Vodermaier, Hartmut	Reject post review	Sylvia Erhardt,Iain Cheeseman,Tatsuo Fukagawa	Sylvia Erhardt	Sylvia	female	1	786
+811	EMBOJ-2015-93452	Vodermaier, Hartmut	Reject post review	Sylvia Erhardt,Iain Cheeseman,Tatsuo Fukagawa	Iain Cheeseman	Iain	male	1	246
+812	EMBOJ-2015-93452	Vodermaier, Hartmut	Reject post review	Sylvia Erhardt,Iain Cheeseman,Tatsuo Fukagawa	Tatsuo Fukagawa	Tatsuo	None	NA	NA
+813	EMBOJ-2015-93479	Vodermaier, Hartmut	Reject post review	Alessandro Vindigni,Grzegorz Ira,Karim Labib	Alessandro Vindigni	Alessandro	male	1	1025
+814	EMBOJ-2015-93479	Vodermaier, Hartmut	Reject post review	Alessandro Vindigni,Grzegorz Ira,Karim Labib	Grzegorz Ira	Grzegorz	male	0.98	56
+815	EMBOJ-2015-93479	Vodermaier, Hartmut	Reject post review	Alessandro Vindigni,Grzegorz Ira,Karim Labib	Karim Labib	Karim	male	0.92	474
+816	EMBOJ-2015-93497	Vodermaier, Hartmut	Reject post review	David Morgan,Silke Hauf	David Morgan	David	male	1	12593
+817	EMBOJ-2015-93497	Vodermaier, Hartmut	Reject post review	David Morgan,Silke Hauf	Silke Hauf	Silke	female	1	131
+818	EMBOJ-2015-93499	Vodermaier, Hartmut	Revise and Re-review	Oscar Fernandez-Capetillo,Thanos Halazonetis,Katrin Chua,Raul Mostoslavsky	Oscar Fernandez-Capetillo	Oscar	male	0.99	1650
+819	EMBOJ-2015-93499	Vodermaier, Hartmut	Revise and Re-review	Oscar Fernandez-Capetillo,Thanos Halazonetis,Katrin Chua,Raul Mostoslavsky	Thanos Halazonetis	Thanos	male	1	44
+820	EMBOJ-2015-93499	Vodermaier, Hartmut	Revise and Re-review	Oscar Fernandez-Capetillo,Thanos Halazonetis,Katrin Chua,Raul Mostoslavsky	Katrin Chua	Katrin	female	1	193
+821	EMBOJ-2015-93499	Vodermaier, Hartmut	Revise and Re-review	Oscar Fernandez-Capetillo,Thanos Halazonetis,Katrin Chua,Raul Mostoslavsky	Raul Mostoslavsky	Raul	male	1	821
+822	EMBOJ-2015-93510	Vodermaier, Hartmut	Reject post review	Michael Laub,Nancy Kleckner,Camilla Sjögren	Michael Laub	Michael	male	1	11094
+823	EMBOJ-2015-93510	Vodermaier, Hartmut	Reject post review	Michael Laub,Nancy Kleckner,Camilla Sjögren	Nancy Kleckner	Nancy	female	1	2716
+824	EMBOJ-2015-93510	Vodermaier, Hartmut	Reject post review	Michael Laub,Nancy Kleckner,Camilla Sjögren	Camilla Sjögren	Camilla	female	1	665
+825	EMBOJ-2015-93552	Vodermaier, Hartmut	Revise and Re-review	Hiroyuki Araki,Hisao Masukata,Stephen P Bell	Hiroyuki Araki	Hiroyuki	male	1	29
+826	EMBOJ-2015-93552	Vodermaier, Hartmut	Revise and Re-review	Hiroyuki Araki,Hisao Masukata,Stephen P Bell	Hisao Masukata	Hisao	None	NA	NA
+827	EMBOJ-2015-93552	Vodermaier, Hartmut	Revise and Re-review	Hiroyuki Araki,Hisao Masukata,Stephen P Bell	Stephen P Bell	Stephen P	None	NA	NA
+828	EMBOJ-2014-90711	del Alamo, David	Reject post review	Thomas Brand,Pier Lorenzo Puri,Bernard Weissman	Thomas Brand	Thomas	male	1	3753
+829	EMBOJ-2014-90711	del Alamo, David	Reject post review	Thomas Brand,Pier Lorenzo Puri,Bernard Weissman	Pier Lorenzo Puri	Pier Lorenzo	None	NA	NA
+830	EMBOJ-2014-90711	del Alamo, David	Reject post review	Thomas Brand,Pier Lorenzo Puri,Bernard Weissman	Bernard Weissman	Bernard	male	1	397
+831	EMBOJ-2014-90730	del Alamo, David	Revise and Re-review	Dirk-Jan Scheffers,Joe Lutkenhaus,Patrick Viollier	Dirk-Jan Scheffers	Dirk-Jan	male	1	1
+832	EMBOJ-2014-90730	del Alamo, David	Revise and Re-review	Dirk-Jan Scheffers,Joe Lutkenhaus,Patrick Viollier	Joe Lutkenhaus	Joe	male	0.99	3679
+833	EMBOJ-2014-90730	del Alamo, David	Revise and Re-review	Dirk-Jan Scheffers,Joe Lutkenhaus,Patrick Viollier	Patrick Viollier	Patrick	male	1	2877
+834	EMBOJ-2014-90823	del Alamo, David	Reject Post Review - 2 Reviewers	Mitchell Lazar,Frédéric Gachon	Mitchell Lazar	Mitchell	male	0.99	345
+835	EMBOJ-2014-90823	del Alamo, David	Reject Post Review - 2 Reviewers	Mitchell Lazar,Frédéric Gachon	Frédéric Gachon	Frédéric	male	0.99	440
+836	EMBOJ-2014-90910	del Alamo, David	Reject Post Review - 2 Reviewers	Nobutaka Hirokawa,Niels Galjart	Nobutaka Hirokawa	Nobutaka	None	NA	NA
+837	EMBOJ-2014-90910	del Alamo, David	Reject Post Review - 2 Reviewers	Nobutaka Hirokawa,Niels Galjart	Niels Galjart	Niels	male	0.95	210
+838	EMBOJ-2015-90937	del Alamo, David	Reject post review	Christopher Barratt,Craig Montell,Thomas Gudermann,U. Kaupp	Christopher Barratt	Christopher	male	1	2339
+839	EMBOJ-2015-90937	del Alamo, David	Reject post review	Christopher Barratt,Craig Montell,Thomas Gudermann,U. Kaupp	Craig Montell	Craig	male	1	1816
+840	EMBOJ-2015-90937	del Alamo, David	Reject post review	Christopher Barratt,Craig Montell,Thomas Gudermann,U. Kaupp	Thomas Gudermann	Thomas	male	1	3753
+841	EMBOJ-2015-90937	del Alamo, David	Reject post review	Christopher Barratt,Craig Montell,Thomas Gudermann,U. Kaupp	U. Kaupp	U.	None	NA	NA
+842	EMBOJ-2015-90960	del Alamo, David	Revise and Re-review	Anne Moscona,Ron Fouchier	Anne Moscona	Anne	female	1	2461
+843	EMBOJ-2015-90960	del Alamo, David	Revise and Re-review	Anne Moscona,Ron Fouchier	Ron Fouchier	Ron	male	0.98	1014
+844	EMBOJ-2015-91114	del Alamo, David	Reject post review	Keiji Miyazawa,Carlos Fernandez-Hernando,Stephen Chan	Keiji Miyazawa	Keiji	male	1	3
+845	EMBOJ-2015-91114	del Alamo, David	Reject post review	Keiji Miyazawa,Carlos Fernandez-Hernando,Stephen Chan	Carlos Fernandez-Hernando	Carlos	male	1	5149
+846	EMBOJ-2015-91114	del Alamo, David	Reject post review	Keiji Miyazawa,Carlos Fernandez-Hernando,Stephen Chan	Stephen Chan	Stephen	male	1	2608
+847	EMBOJ-2015-91132	del Alamo, David	Reject Post Review - 2 Reviewers	Masaki Noda,Laurie H. Glimcher	Masaki Noda	Masaki	male	1	12
+848	EMBOJ-2015-91132	del Alamo, David	Reject Post Review - 2 Reviewers	Masaki Noda,Laurie H. Glimcher	Laurie H. Glimcher	Laurie H.	None	NA	NA
+849	EMBOJ-2015-91163	del Alamo, David	Revise and Re-review	Marek Basler,Melanie Blokesch,Peggy Cotter	Marek Basler	Marek	male	1	229
+850	EMBOJ-2015-91163	del Alamo, David	Revise and Re-review	Marek Basler,Melanie Blokesch,Peggy Cotter	Melanie Blokesch	Melanie	female	1	2137
+851	EMBOJ-2015-91163	del Alamo, David	Revise and Re-review	Marek Basler,Melanie Blokesch,Peggy Cotter	Peggy Cotter	Peggy	female	1	639
+852	EMBOJ-2015-91166	del Alamo, David	Reject Post Review - 2 Reviewers	Suzan Rooijakkers	Suzan Rooijakkers	Suzan	female	0.95	127
+853	EMBOJ-2015-91566	del Alamo, David	Reject post review	Liliana Attisano,Andreas Wodarz,Volker Hartenstein	Liliana Attisano	Liliana	female	0.99	748
+854	EMBOJ-2015-91566	del Alamo, David	Reject post review	Liliana Attisano,Andreas Wodarz,Volker Hartenstein	Andreas Wodarz	Andreas	male	1	1021
+855	EMBOJ-2015-91566	del Alamo, David	Reject post review	Liliana Attisano,Andreas Wodarz,Volker Hartenstein	Volker Hartenstein	Volker	male	1	31
+856	EMBOJ-2015-91712	del Alamo, David	Reject Post Review - 2 Reviewers	Gary R. Whittaker,Judith M. White	Gary R. Whittaker	Gary R.	None	NA	NA
+857	EMBOJ-2015-91712	del Alamo, David	Reject Post Review - 2 Reviewers	Gary R. Whittaker,Judith M. White	Judith M. White	Judith M.	None	NA	NA
+858	EMBOJ-2015-91724	del Alamo, David	Reject post review	Christina Lo Celso	Christina Lo Celso	Christina Lo	None	NA	NA
+859	EMBOJ-2015-91739	del Alamo, David	Revise only	Marian Waterman	Marian Waterman	Marian	female	0.82	404
+860	EMBOJ-2015-91857	del Alamo, David	Revise and Re-Review - Border Line Reject	Steven Ley,Bernd Schnabl,Bart Staels	Steven Ley	Steven	male	1	2600
+861	EMBOJ-2015-91857	del Alamo, David	Revise and Re-Review - Border Line Reject	Steven Ley,Bernd Schnabl,Bart Staels	Bernd Schnabl	Bernd	male	1	34
+862	EMBOJ-2015-91857	del Alamo, David	Revise and Re-Review - Border Line Reject	Steven Ley,Bernd Schnabl,Bart Staels	Bart Staels	Bart	male	0.99	242
+863	EMBOJ-2015-91858	del Alamo, David	Reject post review	Christopher Barratt,U. Kaupp	Christopher Barratt	Christopher	male	1	2339
+864	EMBOJ-2015-91858	del Alamo, David	Reject post review	Christopher Barratt,U. Kaupp	U. Kaupp	U.	None	NA	NA
+865	EMBOJ-2015-91872	del Alamo, David	Reject Post Review - 2 Reviewers	Leendert Hamoen,Jaan Mannik	Leendert Hamoen	Leendert	male	1	1
+866	EMBOJ-2015-91872	del Alamo, David	Reject Post Review - 2 Reviewers	Leendert Hamoen,Jaan Mannik	Jaan Mannik	Jaan	male	0.92	12
+867	EMBOJ-2015-92014	del Alamo, David	Reject Post Review - 2 Reviewers	Rajat Rohatgi,Giulio Draetta	Rajat Rohatgi	Rajat	male	0.97	39
+868	EMBOJ-2015-92014	del Alamo, David	Reject Post Review - 2 Reviewers	Rajat Rohatgi,Giulio Draetta	Giulio Draetta	Giulio	male	0.99	130
+869	EMBOJ-2015-92249	del Alamo, David	Reject post review	David Tarlinton,Juergen Wienands,Beiyan Zhou,Lars Nitschke	David Tarlinton	David	male	1	12593
+870	EMBOJ-2015-92249	del Alamo, David	Reject post review	David Tarlinton,Juergen Wienands,Beiyan Zhou,Lars Nitschke	Juergen Wienands	Juergen	male	1	13
+871	EMBOJ-2015-92249	del Alamo, David	Reject post review	David Tarlinton,Juergen Wienands,Beiyan Zhou,Lars Nitschke	Beiyan Zhou	Beiyan	None	NA	NA
+872	EMBOJ-2015-92249	del Alamo, David	Reject post review	David Tarlinton,Juergen Wienands,Beiyan Zhou,Lars Nitschke	Lars Nitschke	Lars	male	1	450
+873	EMBOJ-2015-92373	del Alamo, David	Reject Post Review - 2 Reviewers	Ali Brivanlou,Mario Pende	Ali Brivanlou	Ali	male	0.85	3351
+874	EMBOJ-2015-92373	del Alamo, David	Reject Post Review - 2 Reviewers	Ali Brivanlou,Mario Pende	Mario Pende	Mario	male	0.99	2026
+875	EMBOJ-2015-92374	del Alamo, David	Revise and Re-review	Jennifer Zallen,Carl-Philipp Heisenberg	Jennifer Zallen	Jennifer	female	1	6717
+876	EMBOJ-2015-92374	del Alamo, David	Revise and Re-review	Jennifer Zallen,Carl-Philipp Heisenberg	Carl-Philipp Heisenberg	Carl-Philipp	None	NA	NA
+877	EMBOJ-2015-92586	del Alamo, David	Revise and Re-review	Dimitris Xirodimas,Martin Schlee,David Levy	Dimitris Xirodimas	Dimitris	male	1	287
+878	EMBOJ-2015-92586	del Alamo, David	Revise and Re-review	Dimitris Xirodimas,Martin Schlee,David Levy	Martin Schlee	Martin	male	1	3568
+879	EMBOJ-2015-92586	del Alamo, David	Revise and Re-review	Dimitris Xirodimas,Martin Schlee,David Levy	David Levy	David	male	1	12593
+880	EMBOJ-2015-92775	del Alamo, David	Revise and Re-review	Richard Bruick,Alfons Lawen,Amato Giaccia	Richard Bruick	Richard	male	1	4381
+881	EMBOJ-2015-92775	del Alamo, David	Revise and Re-review	Richard Bruick,Alfons Lawen,Amato Giaccia	Alfons Lawen	Alfons	male	1	11
+882	EMBOJ-2015-92775	del Alamo, David	Revise and Re-review	Richard Bruick,Alfons Lawen,Amato Giaccia	Amato Giaccia	Amato	male	0.67	3
+883	EMBOJ-2015-92810	del Alamo, David	Revise and Re-review	Christof Niehrs,Owen Sansom	Christof Niehrs	Christof	male	1	33
+884	EMBOJ-2015-92810	del Alamo, David	Revise and Re-review	Christof Niehrs,Owen Sansom	Owen Sansom	Owen	male	0.99	240
+885	EMBOJ-2015-92821	del Alamo, David	Revise and Re-review	Nathalie Spassky,Brian Mitchell,Chad G Pearson,Tim Stearns	Nathalie Spassky	Nathalie	female	1	1096
+886	EMBOJ-2015-92821	del Alamo, David	Revise and Re-review	Nathalie Spassky,Brian Mitchell,Chad G Pearson,Tim Stearns	Brian Mitchell	Brian	male	1	4600
+887	EMBOJ-2015-92821	del Alamo, David	Revise and Re-review	Nathalie Spassky,Brian Mitchell,Chad G Pearson,Tim Stearns	Chad G Pearson	Chad G	None	NA	NA
+888	EMBOJ-2015-92821	del Alamo, David	Revise and Re-review	Nathalie Spassky,Brian Mitchell,Chad G Pearson,Tim Stearns	Tim Stearns	Tim	male	0.99	2949
+889	EMBOJ-2015-92888	del Alamo, David	Reject Post Review - 2 Reviewers	Leendert Hamoen,Jaan Mannik	Leendert Hamoen	Leendert	male	1	1
+890	EMBOJ-2015-92888	del Alamo, David	Reject Post Review - 2 Reviewers	Leendert Hamoen,Jaan Mannik	Jaan Mannik	Jaan	male	0.92	12
+891	EMBOJ-2015-92904	del Alamo, David	Reject post review	Sebastian Arnold,Jarema Malicki,Fubito Nakatsu	Sebastian Arnold	Sebastian	male	1	1459
+892	EMBOJ-2015-92904	del Alamo, David	Reject post review	Sebastian Arnold,Jarema Malicki,Fubito Nakatsu	Jarema Malicki	Jarema	None	NA	NA
+893	EMBOJ-2015-92904	del Alamo, David	Reject post review	Sebastian Arnold,Jarema Malicki,Fubito Nakatsu	Fubito Nakatsu	Fubito	None	NA	NA
+894	EMBOJ-2015-92929	del Alamo, David	Revise and Re-review	Peter Baas,Scott Brady	Peter Baas	Peter	male	1	4373
+895	EMBOJ-2015-92929	del Alamo, David	Revise and Re-review	Peter Baas,Scott Brady	Scott Brady	Scott	male	1	3450
+896	EMBOJ-2015-93164	del Alamo, David	Revise and Re-review	Jonathan Scholey,Shehab Ismail,William Snell	Jonathan Scholey	Jonathan	male	1	3702
+897	EMBOJ-2015-93164	del Alamo, David	Revise and Re-review	Jonathan Scholey,Shehab Ismail,William Snell	Shehab Ismail	Shehab	male	1	14
+898	EMBOJ-2015-93164	del Alamo, David	Revise and Re-review	Jonathan Scholey,Shehab Ismail,William Snell	William Snell	William	male	1	2626

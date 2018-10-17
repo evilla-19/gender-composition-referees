@@ -1,0 +1,976 @@
+unique_id	Manuscript	Editor	Final.Decision.Type	referees_clean	indiv_referees	name	gender	probability	count
+1	EMBOJ-2016-96198	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Julian Lescar,Rolf Hilgenfeld	Julian Lescar	Julian	male	1	1079
+2	EMBOJ-2016-96198	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Julian Lescar,Rolf Hilgenfeld	Rolf Hilgenfeld	Rolf	male	1	114
+3	EMBOJ-2016-96202	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Stephen Harrison,Yoshihiro Kawaoka	Stephen Harrison	Stephen	male	1	2608
+4	EMBOJ-2016-96202	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Stephen Harrison,Yoshihiro Kawaoka	Yoshihiro Kawaoka	Yoshihiro	male	1	7
+5	EMBOJ-2016-96241	Dumstrei, Karin	Revise and Re-review	Rolf Hilgenfeld,Julian Lescar	Rolf Hilgenfeld	Rolf	male	1	114
+6	EMBOJ-2016-96241	Dumstrei, Karin	Revise and Re-review	Rolf Hilgenfeld,Julian Lescar	Julian Lescar	Julian	male	1	1079
+7	EMBOJ-2016-96273	Dumstrei, Karin	Revise and Re-review	John Hiscott,Anne op de Beeck,Michael Gale Jr.	John Hiscott	John	male	0.99	9931
+8	EMBOJ-2016-96273	Dumstrei, Karin	Revise and Re-review	John Hiscott,Anne op de Beeck,Michael Gale Jr.	Anne op de Beeck	Anne op de	None	NA	NA
+9	EMBOJ-2016-96273	Dumstrei, Karin	Revise and Re-review	John Hiscott,Anne op de Beeck,Michael Gale Jr.	Michael Gale Jr.	Michael Gale	None	NA	NA
+10	EMBOJ-2016-96296	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Anthony Sadler,Jiyan Ma,Michael Lee	Anthony Sadler	Anthony	male	1	3029
+11	EMBOJ-2016-96296	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Anthony Sadler,Jiyan Ma,Michael Lee	Jiyan Ma	Jiyan	female	1	1
+12	EMBOJ-2016-96296	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Anthony Sadler,Jiyan Ma,Michael Lee	Michael Lee	Michael	male	1	11094
+13	EMBOJ-2016-96317	Dumstrei, Karin	Reject post review	Russell Wallis,Gregers Andersen,Alain Beck	Russell Wallis	Russell	male	1	513
+14	EMBOJ-2016-96317	Dumstrei, Karin	Reject post review	Russell Wallis,Gregers Andersen,Alain Beck	Gregers Andersen	Gregers	male	1	1
+15	EMBOJ-2016-96317	Dumstrei, Karin	Reject post review	Russell Wallis,Gregers Andersen,Alain Beck	Alain Beck	Alain	male	1	482
+16	EMBOJ-2016-96369	Dumstrei, Karin	Revise and Re-review	Vadim Bolshakov,Makoto Tominaga,Wolfgang Liedtke	Vadim Bolshakov	Vadim	male	1	58
+17	EMBOJ-2016-96369	Dumstrei, Karin	Revise and Re-review	Vadim Bolshakov,Makoto Tominaga,Wolfgang Liedtke	Makoto Tominaga	Makoto	male	1	28
+18	EMBOJ-2016-96369	Dumstrei, Karin	Revise and Re-review	Vadim Bolshakov,Makoto Tominaga,Wolfgang Liedtke	Wolfgang Liedtke	Wolfgang	male	1	95
+19	EMBOJ-2016-96388	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Yishi Jin,Joel Meyer	Yishi Jin	Yishi	None	NA	NA
+20	EMBOJ-2016-96388	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Yishi Jin,Joel Meyer	Joel Meyer	Joel	male	0.99	1468
+21	EMBOJ-2016-96394	Dumstrei, Karin	Revise and Re-review	Dorothee Dormann,Tanja Mittag,James Shorter	Dorothee Dormann	Dorothee	female	1	36
+22	EMBOJ-2016-96394	Dumstrei, Karin	Revise and Re-review	Dorothee Dormann,Tanja Mittag,James Shorter	Tanja Mittag	Tanja	female	0.99	365
+23	EMBOJ-2016-96394	Dumstrei, Karin	Revise and Re-review	Dorothee Dormann,Tanja Mittag,James Shorter	James Shorter	James	male	0.99	6359
+24	EMBOJ-2017-96476	Dumstrei, Karin	Revise and Re-review	Henning Walczak,Søren Paludan,Veit Hornung	Henning Walczak	Henning	male	1	77
+25	EMBOJ-2017-96476	Dumstrei, Karin	Revise and Re-review	Henning Walczak,Søren Paludan,Veit Hornung	Søren Paludan	Søren	male	1	148
+26	EMBOJ-2017-96476	Dumstrei, Karin	Revise and Re-review	Henning Walczak,Søren Paludan,Veit Hornung	Veit Hornung	Veit	male	1	3
+27	EMBOJ-2017-96477	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Jorge Alvarez,Dorian McGavern	Jorge Alvarez	Jorge	male	1	3183
+28	EMBOJ-2017-96477	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Jorge Alvarez,Dorian McGavern	Dorian McGavern	Dorian	male	0.87	78
+29	EMBOJ-2017-96484	Dumstrei, Karin	Revise and Re-review	Nils Brose,Frederick M. Hughson	Nils Brose	Nils	male	0.99	149
+30	EMBOJ-2017-96484	Dumstrei, Karin	Revise and Re-review	Nils Brose,Frederick M. Hughson	Frederick M. Hughson	Frederick M.	None	NA	NA
+31	EMBOJ-2017-96500	Dumstrei, Karin	Reject post review	Stephen Hedrick,Grégory Verdeil	Stephen Hedrick	Stephen	male	1	2608
+32	EMBOJ-2017-96500	Dumstrei, Karin	Reject post review	Stephen Hedrick,Grégory Verdeil	Grégory Verdeil	Grégory	male	1	1
+33	EMBOJ-2017-96516	Dumstrei, Karin	Revise only	Tony Wyss-Coray,Bruce Lamb,Guojun Bu	Tony Wyss-Coray	Tony	male	1	3071
+34	EMBOJ-2017-96516	Dumstrei, Karin	Revise only	Tony Wyss-Coray,Bruce Lamb,Guojun Bu	Bruce Lamb	Bruce	male	1	800
+35	EMBOJ-2017-96516	Dumstrei, Karin	Revise only	Tony Wyss-Coray,Bruce Lamb,Guojun Bu	Guojun Bu	Guojun	None	NA	NA
+36	EMBOJ-2017-96821	Dumstrei, Karin	Revise and Re-review	Kerry Ressler,Sukwoo Choi,Johannes Graeff	Kerry Ressler	Kerry	female	0.88	943
+37	EMBOJ-2017-96821	Dumstrei, Karin	Revise and Re-review	Kerry Ressler,Sukwoo Choi,Johannes Graeff	Sukwoo Choi	Sukwoo	None	NA	NA
+38	EMBOJ-2017-96821	Dumstrei, Karin	Revise and Re-review	Kerry Ressler,Sukwoo Choi,Johannes Graeff	Johannes Graeff	Johannes	male	1	198
+39	EMBOJ-2017-96881	Dumstrei, Karin	Revise and Re-review	Leszek Ignatowicz,Alexander Rudensky,Paul E. Love	Leszek Ignatowicz	Leszek	male	1	9
+40	EMBOJ-2017-96881	Dumstrei, Karin	Revise and Re-review	Leszek Ignatowicz,Alexander Rudensky,Paul E. Love	Alexander Rudensky	Alexander	male	1	1645
+41	EMBOJ-2017-96881	Dumstrei, Karin	Revise and Re-review	Leszek Ignatowicz,Alexander Rudensky,Paul E. Love	Paul E. Love	Paul E.	None	NA	NA
+42	EMBOJ-2017-96985	Dumstrei, Karin	Reject post review	Timothy Palzkill,Jed Fisher,Julian E. Davies	Timothy Palzkill	Timothy	male	1	809
+43	EMBOJ-2017-96985	Dumstrei, Karin	Reject post review	Timothy Palzkill,Jed Fisher,Julian E. Davies	Jed Fisher	Jed	male	0.93	100
+44	EMBOJ-2017-96985	Dumstrei, Karin	Reject post review	Timothy Palzkill,Jed Fisher,Julian E. Davies	Julian E. Davies	Julian E.	None	NA	NA
+45	EMBOJ-2017-97021	Dumstrei, Karin	Revise and Re-review	Gerd Kempermann,Todd Golde,Sangram Sisodia	Gerd Kempermann	Gerd	female	0.52	54
+46	EMBOJ-2017-97021	Dumstrei, Karin	Revise and Re-review	Gerd Kempermann,Todd Golde,Sangram Sisodia	Todd Golde	Todd	male	1	847
+47	EMBOJ-2017-97021	Dumstrei, Karin	Revise and Re-review	Gerd Kempermann,Todd Golde,Sangram Sisodia	Sangram Sisodia	Sangram	male	1	1
+48	EMBOJ-2017-97072	Dumstrei, Karin	Revise and Re-review	Andreas Villunger,Lisa Bouchier-Hayes,Krishnaraj Rajalingam	Andreas Villunger	Andreas	male	1	1021
+49	EMBOJ-2017-97072	Dumstrei, Karin	Revise and Re-review	Andreas Villunger,Lisa Bouchier-Hayes,Krishnaraj Rajalingam	Lisa Bouchier-Hayes	Lisa	female	1	6394
+50	EMBOJ-2017-97072	Dumstrei, Karin	Revise and Re-review	Andreas Villunger,Lisa Bouchier-Hayes,Krishnaraj Rajalingam	Krishnaraj Rajalingam	Krishnaraj	male	1	2
+51	EMBOJ-2017-97105	Dumstrei, Karin	Revise and Re-review	Hans-Reimer Rodewald,Charlotta Böiers	Hans-Reimer Rodewald	Hans-Reimer	None	NA	NA
+52	EMBOJ-2017-97105	Dumstrei, Karin	Revise and Re-review	Hans-Reimer Rodewald,Charlotta Böiers	Charlotta Böiers	Charlotta	female	1	20
+53	EMBOJ-2017-97147	Dumstrei, Karin	Reject post review	Paul Anderson,Tetsuro Hirose,Marc-David Ruepp	Paul Anderson	Paul	male	1	5931
+54	EMBOJ-2017-97147	Dumstrei, Karin	Reject post review	Paul Anderson,Tetsuro Hirose,Marc-David Ruepp	Tetsuro Hirose	Tetsuro	male	1	2
+55	EMBOJ-2017-97147	Dumstrei, Karin	Reject post review	Paul Anderson,Tetsuro Hirose,Marc-David Ruepp	Marc-David Ruepp	Marc-David	None	NA	NA
+56	EMBOJ-2017-97155	Dumstrei, Karin	Revise and Re-review	Michaela Kuhn,Marie-Christine Broillet,Ivan Rodriguez	Michaela Kuhn	Michaela	female	1	525
+57	EMBOJ-2017-97155	Dumstrei, Karin	Revise and Re-review	Michaela Kuhn,Marie-Christine Broillet,Ivan Rodriguez	Marie-Christine Broillet	Marie-Christine	female	0.97	32
+58	EMBOJ-2017-97155	Dumstrei, Karin	Revise and Re-review	Michaela Kuhn,Marie-Christine Broillet,Ivan Rodriguez	Ivan Rodriguez	Ivan	male	1	1905
+59	EMBOJ-2017-97183	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Walther Mothes,Eric. O. Freed	Walther Mothes	Walther	male	1	48
+60	EMBOJ-2017-97183	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Walther Mothes,Eric. O. Freed	Eric. O. Freed	Eric. O.	None	NA	NA
+61	EMBOJ-2017-97224	Dumstrei, Karin	Reject post review	Eric Miska,Anthony Hannan,Larry Feig	Eric Miska	Eric	male	1	4110
+62	EMBOJ-2017-97224	Dumstrei, Karin	Reject post review	Eric Miska,Anthony Hannan,Larry Feig	Anthony Hannan	Anthony	male	1	3029
+63	EMBOJ-2017-97224	Dumstrei, Karin	Reject post review	Eric Miska,Anthony Hannan,Larry Feig	Larry Feig	Larry	male	1	972
+64	EMBOJ-2017-97289	Dumstrei, Karin	Reject post review	Nicholas Ryba	Nicholas Ryba	Nicholas	male	1	1176
+65	EMBOJ-2017-97349	Dumstrei, Karin	Revise and Re-review	Nikita Gamper,Peter Reeh,Wolfgang Liedtke	Nikita Gamper	Nikita	female	0.85	123
+66	EMBOJ-2017-97349	Dumstrei, Karin	Revise and Re-review	Nikita Gamper,Peter Reeh,Wolfgang Liedtke	Peter Reeh	Peter	male	1	4373
+67	EMBOJ-2017-97349	Dumstrei, Karin	Revise and Re-review	Nikita Gamper,Peter Reeh,Wolfgang Liedtke	Wolfgang Liedtke	Wolfgang	male	1	95
+68	EMBOJ-2017-97368	Dumstrei, Karin	Revise and Re-review	Daniela Mauceri,Sebastian Jessberger,Peter Carmeliet	Daniela Mauceri	Daniela	female	0.99	2105
+69	EMBOJ-2017-97368	Dumstrei, Karin	Revise and Re-review	Daniela Mauceri,Sebastian Jessberger,Peter Carmeliet	Sebastian Jessberger	Sebastian	male	1	1459
+70	EMBOJ-2017-97368	Dumstrei, Karin	Revise and Re-review	Daniela Mauceri,Sebastian Jessberger,Peter Carmeliet	Peter Carmeliet	Peter	male	1	4373
+71	EMBOJ-2017-97374	Dumstrei, Karin	Revise and Re-review	Fred Gage,Alexei Aravin,John Moran	Fred Gage	Fred	male	0.98	966
+72	EMBOJ-2017-97374	Dumstrei, Karin	Revise and Re-review	Fred Gage,Alexei Aravin,John Moran	Alexei Aravin	Alexei	male	1	29
+73	EMBOJ-2017-97374	Dumstrei, Karin	Revise and Re-review	Fred Gage,Alexei Aravin,John Moran	John Moran	John	male	0.99	9931
+74	EMBOJ-2017-97390	Dumstrei, Karin	Revise and Re-review	Christopher Deppmann,Dies Meijer,Peter J. Brophy	Christopher Deppmann	Christopher	male	1	2339
+75	EMBOJ-2017-97390	Dumstrei, Karin	Revise and Re-review	Christopher Deppmann,Dies Meijer,Peter J. Brophy	Dies Meijer	Dies	female	1	1
+76	EMBOJ-2017-97390	Dumstrei, Karin	Revise and Re-review	Christopher Deppmann,Dies Meijer,Peter J. Brophy	Peter J. Brophy	Peter J.	None	NA	NA
+77	EMBOJ-2017-97408	Dumstrei, Karin	Reject post review	David Tarlinton,Axel Kallies,Tomohiro Kurosaki	David Tarlinton	David	male	1	12593
+78	EMBOJ-2017-97408	Dumstrei, Karin	Reject post review	David Tarlinton,Axel Kallies,Tomohiro Kurosaki	Axel Kallies	Axel	male	0.98	283
+79	EMBOJ-2017-97408	Dumstrei, Karin	Reject post review	David Tarlinton,Axel Kallies,Tomohiro Kurosaki	Tomohiro Kurosaki	Tomohiro	male	1	11
+80	EMBOJ-2017-97452	Dumstrei, Karin	Revise and Re-review	Francisco Baralle,Andrew Baldwin	Francisco Baralle	Francisco	male	1	1513
+81	EMBOJ-2017-97452	Dumstrei, Karin	Revise and Re-review	Francisco Baralle,Andrew Baldwin	Andrew Baldwin	Andrew	male	1	5168
+82	EMBOJ-2017-97479	Dumstrei, Karin	Revise and Re-review	Jean-Luc Imler,Joseph Luna,Gunther Hartmann	Jean-Luc Imler	Jean-Luc	male	1	105
+83	EMBOJ-2017-97479	Dumstrei, Karin	Revise and Re-review	Jean-Luc Imler,Joseph Luna,Gunther Hartmann	Joseph Luna	Joseph	male	0.99	2213
+84	EMBOJ-2017-97479	Dumstrei, Karin	Revise and Re-review	Jean-Luc Imler,Joseph Luna,Gunther Hartmann	Gunther Hartmann	Gunther	male	1	23
+85	EMBOJ-2017-97537	Dumstrei, Karin	Revise and Re-review	Vincenzo Cerundolo,Thierry Mallevaey,Richard Blumberg	Vincenzo Cerundolo	Vincenzo	male	1	350
+86	EMBOJ-2017-97537	Dumstrei, Karin	Revise and Re-review	Vincenzo Cerundolo,Thierry Mallevaey,Richard Blumberg	Thierry Mallevaey	Thierry	male	0.99	310
+87	EMBOJ-2017-97537	Dumstrei, Karin	Revise and Re-review	Vincenzo Cerundolo,Thierry Mallevaey,Richard Blumberg	Richard Blumberg	Richard	male	1	4381
+88	EMBOJ-2017-97626	Dumstrei, Karin	Reject post review	Gary E. Landreth,Xiaofen Chen,Gregers Andersen	Gary E. Landreth	Gary E.	None	NA	NA
+89	EMBOJ-2017-97626	Dumstrei, Karin	Reject post review	Gary E. Landreth,Xiaofen Chen,Gregers Andersen	Xiaofen Chen	Xiaofen	None	NA	NA
+90	EMBOJ-2017-97626	Dumstrei, Karin	Reject post review	Gary E. Landreth,Xiaofen Chen,Gregers Andersen	Gregers Andersen	Gregers	male	1	1
+91	EMBOJ-2017-97674	Dumstrei, Karin	Revise and Re-review	Yusuf Hannun,Steven Walkley	Yusuf Hannun	Yusuf	male	0.99	592
+92	EMBOJ-2017-97674	Dumstrei, Karin	Revise and Re-review	Yusuf Hannun,Steven Walkley	Steven Walkley	Steven	male	1	2600
+93	EMBOJ-2017-97724	Dumstrei, Karin	Revise only	Christian Haass	Christian Haass	Christian	male	0.99	2548
+94	EMBOJ-2017-97786	Dumstrei, Karin	Revise and Re-review	Arndt Siekmann,Benjamin Hogan,Holger Gerhardt	Arndt Siekmann	Arndt	male	1	4
+95	EMBOJ-2017-97786	Dumstrei, Karin	Revise and Re-review	Arndt Siekmann,Benjamin Hogan,Holger Gerhardt	Benjamin Hogan	Benjamin	male	1	1475
+96	EMBOJ-2017-97786	Dumstrei, Karin	Revise and Re-review	Arndt Siekmann,Benjamin Hogan,Holger Gerhardt	Holger Gerhardt	Holger	male	1	44
+97	EMBOJ-2017-97943	Dumstrei, Karin	Revise and Re-review	Gerhard Schratt,Dan Wang,Gunter Meister	Gerhard Schratt	Gerhard	male	1	49
+98	EMBOJ-2017-97943	Dumstrei, Karin	Revise and Re-review	Gerhard Schratt,Dan Wang,Gunter Meister	Dan Wang	Dan	male	0.98	3240
+99	EMBOJ-2017-97943	Dumstrei, Karin	Revise and Re-review	Gerhard Schratt,Dan Wang,Gunter Meister	Gunter Meister	Gunter	male	1	35
+100	EMBOJ-2017-97980	Dumstrei, Karin	Revise and Re-review	Eric Meffre,Stefano Casola,Ari Waisman	Eric Meffre	Eric	male	1	4110
+101	EMBOJ-2017-97980	Dumstrei, Karin	Revise and Re-review	Eric Meffre,Stefano Casola,Ari Waisman	Stefano Casola	Stefano	male	1	732
+102	EMBOJ-2017-97980	Dumstrei, Karin	Revise and Re-review	Eric Meffre,Stefano Casola,Ari Waisman	Ari Waisman	Ari	male	0.76	308
+103	EMBOJ-2017-98044	Dumstrei, Karin	Reject post review	Matthijs Verhage,Noam Ziv	Matthijs Verhage	Matthijs	male	1	12
+104	EMBOJ-2017-98044	Dumstrei, Karin	Reject post review	Matthijs Verhage,Noam Ziv	Noam Ziv	Noam	male	0.8	41
+105	EMBOJ-2017-98049	Dumstrei, Karin	Revise and Re-review	Nicolas Fawzi,Jurgen Gotz	Nicolas Fawzi	Nicolas	male	1	1953
+106	EMBOJ-2017-98049	Dumstrei, Karin	Revise and Re-review	Nicolas Fawzi,Jurgen Gotz	Jurgen Gotz	Jurgen	male	0.97	36
+107	EMBOJ-2017-98072	Dumstrei, Karin	Reject post review	Takeshi Iwatsubo,Mark Cookson	Takeshi Iwatsubo	Takeshi	male	1	20
+108	EMBOJ-2017-98072	Dumstrei, Karin	Reject post review	Takeshi Iwatsubo,Mark Cookson	Mark Cookson	Mark	male	1	6176
+109	EMBOJ-2017-98086	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Doreen A. Cantrell,Andrew Chan	Doreen A. Cantrell	Doreen A.	None	NA	NA
+110	EMBOJ-2017-98086	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Doreen A. Cantrell,Andrew Chan	Andrew Chan	Andrew	male	1	5168
+111	EMBOJ-2017-98089	Dumstrei, Karin	Revise and Re-review	Clare Bryant,Feng Shao	Clare Bryant	Clare	female	1	554
+112	EMBOJ-2017-98089	Dumstrei, Karin	Revise and Re-review	Clare Bryant,Feng Shao	Feng Shao	Feng	male	0.52	31
+113	EMBOJ-2017-98120	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Laurence Eisenlohr,Marian Burr	Laurence Eisenlohr	Laurence	female	0.75	400
+114	EMBOJ-2017-98120	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Laurence Eisenlohr,Marian Burr	Marian Burr	Marian	female	0.82	404
+115	EMBOJ-2017-98163	Dumstrei, Karin	Revise and Re-review	Bassem Hassan,Bing Ye	Bassem Hassan	Bassem	male	1	48
+116	EMBOJ-2017-98163	Dumstrei, Karin	Revise and Re-review	Bassem Hassan,Bing Ye	Bing Ye	Bing	female	0.62	37
+117	EMBOJ-2017-98215	Dumstrei, Karin	Reject post review	Susan Kaech,Jonathan D. Powell,Richard Flavell	Susan Kaech	Susan	female	1	3203
+118	EMBOJ-2017-98215	Dumstrei, Karin	Reject post review	Susan Kaech,Jonathan D. Powell,Richard Flavell	Jonathan D. Powell	Jonathan D.	None	NA	NA
+119	EMBOJ-2017-98215	Dumstrei, Karin	Reject post review	Susan Kaech,Jonathan D. Powell,Richard Flavell	Richard Flavell	Richard	male	1	4381
+120	EMBOJ-2017-98247	Dumstrei, Karin	Reject post review	Joseph Luna,Jean-Luc Imler	Joseph Luna	Joseph	male	0.99	2213
+121	EMBOJ-2017-98247	Dumstrei, Karin	Reject post review	Joseph Luna,Jean-Luc Imler	Jean-Luc Imler	Jean-Luc	male	1	105
+122	EMBOJ-2017-98335	Dumstrei, Karin	Revise and Re-review	Todd Golde,Robert Vassar,Jurgen Gotz	Todd Golde	Todd	male	1	847
+123	EMBOJ-2017-98335	Dumstrei, Karin	Revise and Re-review	Todd Golde,Robert Vassar,Jurgen Gotz	Robert Vassar	Robert	male	1	5222
+124	EMBOJ-2017-98335	Dumstrei, Karin	Revise and Re-review	Todd Golde,Robert Vassar,Jurgen Gotz	Jurgen Gotz	Jurgen	male	0.97	36
+125	EMBOJ-2017-98506	Dumstrei, Karin	Revise and Re-review	Alysson Muotri,Thomas Kunkel,Robert Crouch	Alysson Muotri	Alysson	male	0.57	7
+126	EMBOJ-2017-98506	Dumstrei, Karin	Revise and Re-review	Alysson Muotri,Thomas Kunkel,Robert Crouch	Thomas Kunkel	Thomas	male	1	3753
+127	EMBOJ-2017-98506	Dumstrei, Karin	Revise and Re-review	Alysson Muotri,Thomas Kunkel,Robert Crouch	Robert Crouch	Robert	male	1	5222
+128	EMBOJ-2017-98518	Dumstrei, Karin	Revise and Re-review	Steve C. Jameson,Stephen Hedrick,Pedro Romero	Steve C. Jameson	Steve C.	None	NA	NA
+129	EMBOJ-2017-98518	Dumstrei, Karin	Revise and Re-review	Steve C. Jameson,Stephen Hedrick,Pedro Romero	Stephen Hedrick	Stephen	male	1	2608
+130	EMBOJ-2017-98518	Dumstrei, Karin	Revise and Re-review	Steve C. Jameson,Stephen Hedrick,Pedro Romero	Pedro Romero	Pedro	male	0.99	1631
+131	EMBOJ-2017-98529	Dumstrei, Karin	Revise and Re-Review - Border Line Reject	Serge Mostowy,Erich Gulbins,Marc Erhardt	Serge Mostowy	Serge	male	1	213
+132	EMBOJ-2017-98529	Dumstrei, Karin	Revise and Re-Review - Border Line Reject	Serge Mostowy,Erich Gulbins,Marc Erhardt	Erich Gulbins	Erich	male	1	72
+133	EMBOJ-2017-98529	Dumstrei, Karin	Revise and Re-Review - Border Line Reject	Serge Mostowy,Erich Gulbins,Marc Erhardt	Marc Erhardt	Marc	male	1	1555
+134	EMBOJ-2017-98585	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Eisuke Nishida,Nektarios Tavernarakis	Eisuke Nishida	Eisuke	female	0.5	2
+135	EMBOJ-2017-98585	Dumstrei, Karin	Reject Post Review - 2 Reviewers	Eisuke Nishida,Nektarios Tavernarakis	Nektarios Tavernarakis	Nektarios	male	1	7
+136	EMBOJ-2017-98697	Dumstrei, Karin	Revise and Re-review	Marco Prinz,David Rowitch	Marco Prinz	Marco	male	0.99	2493
+137	EMBOJ-2017-98697	Dumstrei, Karin	Revise and Re-review	Marco Prinz,David Rowitch	David Rowitch	David	male	1	12593
+138	EMBOJ-2016-96043	Gailite, Ieva	Reject post review	Kenneth Chien,Michaela Kuhn,Jeson Sangaralingham	Kenneth Chien	Kenneth	male	1	1020
+139	EMBOJ-2016-96043	Gailite, Ieva	Reject post review	Kenneth Chien,Michaela Kuhn,Jeson Sangaralingham	Michaela Kuhn	Michaela	female	1	525
+140	EMBOJ-2016-96043	Gailite, Ieva	Reject post review	Kenneth Chien,Michaela Kuhn,Jeson Sangaralingham	Jeson Sangaralingham	Jeson	male	1	2
+141	EMBOJ-2016-96182	Gailite, Ieva	Reject post review	Stephen R. Farmer,Deborah Clegg	Stephen R. Farmer	Stephen R.	None	NA	NA
+142	EMBOJ-2016-96182	Gailite, Ieva	Reject post review	Stephen R. Farmer,Deborah Clegg	Deborah Clegg	Deborah	female	0.99	1275
+143	EMBOJ-2016-96235	Gailite, Ieva	Revise and Re-review	Jan Lowe,Joe Lutkenhaus,William Margolin	Jan Lowe	Jan	male	0.6	1663
+144	EMBOJ-2016-96235	Gailite, Ieva	Revise and Re-review	Jan Lowe,Joe Lutkenhaus,William Margolin	Joe Lutkenhaus	Joe	male	0.99	3679
+145	EMBOJ-2016-96235	Gailite, Ieva	Revise and Re-review	Jan Lowe,Joe Lutkenhaus,William Margolin	William Margolin	William	male	1	2626
+146	EMBOJ-2016-96240	Gailite, Ieva	Reject post review	Daniel Needleman,Tarun Kapoor,Iva Tolic	Daniel Needleman	Daniel	male	1	8180
+147	EMBOJ-2016-96240	Gailite, Ieva	Reject post review	Daniel Needleman,Tarun Kapoor,Iva Tolic	Tarun Kapoor	Tarun	male	1	67
+148	EMBOJ-2016-96240	Gailite, Ieva	Reject post review	Daniel Needleman,Tarun Kapoor,Iva Tolic	Iva Tolic	Iva	female	0.98	135
+149	EMBOJ-2016-96264	Gailite, Ieva	Reject post review	Morgan Huse,Eric Long,Kerry Campbell	Morgan Huse	Morgan	female	0.64	847
+150	EMBOJ-2016-96264	Gailite, Ieva	Reject post review	Morgan Huse,Eric Long,Kerry Campbell	Eric Long	Eric	male	1	4110
+151	EMBOJ-2016-96264	Gailite, Ieva	Reject post review	Morgan Huse,Eric Long,Kerry Campbell	Kerry Campbell	Kerry	female	0.88	943
+152	EMBOJ-2016-96271	Gailite, Ieva	By author	Antonio J. Giraldez,Antoine Peters	Antonio J. Giraldez	Antonio J.	male	1	2
+153	EMBOJ-2016-96271	Gailite, Ieva	By author	Antonio J. Giraldez,Antoine Peters	Antoine Peters	Antoine	male	1	411
+154	EMBOJ-2016-96272	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Shmuel Muallem,Hubert Hilbi,John Brumell	Shmuel Muallem	Shmuel	male	1	16
+155	EMBOJ-2016-96272	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Shmuel Muallem,Hubert Hilbi,John Brumell	Hubert Hilbi	Hubert	male	0.99	78
+156	EMBOJ-2016-96272	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Shmuel Muallem,Hubert Hilbi,John Brumell	John Brumell	John	male	0.99	9931
+157	EMBOJ-2016-96290	Gailite, Ieva	Revise and Re-review	Wouter Moolenaar,David Brindley	Wouter Moolenaar	Wouter	male	1	108
+158	EMBOJ-2016-96290	Gailite, Ieva	Revise and Re-review	Wouter Moolenaar,David Brindley	David Brindley	David	male	1	12593
+159	EMBOJ-2016-96294	Gailite, Ieva	Reject post review	Robert Grosse	Robert Grosse	Robert	male	1	5222
+160	EMBOJ-2016-96380	Gailite, Ieva	Revise and Re-review	Gianluca Gallo,Zu-Hang Sheng,Erika Holzbaur	Gianluca Gallo	Gianluca	male	1	308
+161	EMBOJ-2016-96380	Gailite, Ieva	Revise and Re-review	Gianluca Gallo,Zu-Hang Sheng,Erika Holzbaur	Zu-Hang Sheng	Zu-Hang	None	NA	NA
+162	EMBOJ-2016-96380	Gailite, Ieva	Revise and Re-review	Gianluca Gallo,Zu-Hang Sheng,Erika Holzbaur	Erika Holzbaur	Erika	female	0.99	1544
+163	EMBOJ-2017-96434	Gailite, Ieva	Reject post review	Lalita Ramakrishnan,Robert Modlin,Priscille Brodin	Lalita Ramakrishnan	Lalita	female	1	13
+164	EMBOJ-2017-96434	Gailite, Ieva	Reject post review	Lalita Ramakrishnan,Robert Modlin,Priscille Brodin	Robert Modlin	Robert	male	1	5222
+165	EMBOJ-2017-96434	Gailite, Ieva	Reject post review	Lalita Ramakrishnan,Robert Modlin,Priscille Brodin	Priscille Brodin	Priscille	female	1	5
+166	EMBOJ-2017-96525	Gailite, Ieva	Revise and Re-review	Jon Aster,G.Paolo Dotto,James Posakony,Stephen Blacklow	Jon Aster	Jon	male	1	1790
+167	EMBOJ-2017-96525	Gailite, Ieva	Revise and Re-review	Jon Aster,G.Paolo Dotto,James Posakony,Stephen Blacklow	G.Paolo Dotto	G.Paolo	male	1	1
+168	EMBOJ-2017-96525	Gailite, Ieva	Revise and Re-review	Jon Aster,G.Paolo Dotto,James Posakony,Stephen Blacklow	James Posakony	James	male	0.99	6359
+169	EMBOJ-2017-96525	Gailite, Ieva	Revise and Re-review	Jon Aster,G.Paolo Dotto,James Posakony,Stephen Blacklow	Stephen Blacklow	Stephen	male	1	2608
+170	EMBOJ-2017-96531	Gailite, Ieva	Reject Post Review - 2 Reviewers	Angel Barco,Herwig Baier	Angel Barco	Angel	male	0.61	1668
+171	EMBOJ-2017-96531	Gailite, Ieva	Reject Post Review - 2 Reviewers	Angel Barco,Herwig Baier	Herwig Baier	Herwig	male	1	2
+172	EMBOJ-2017-96574	Gailite, Ieva	Reject post review	Matthias Krause,Francisco Sanchez-Madrid,Clare Waterman	Matthias Krause	Matthias	male	1	257
+173	EMBOJ-2017-96574	Gailite, Ieva	Reject post review	Matthias Krause,Francisco Sanchez-Madrid,Clare Waterman	Francisco Sanchez-Madrid	Francisco	male	1	1513
+174	EMBOJ-2017-96574	Gailite, Ieva	Reject post review	Matthias Krause,Francisco Sanchez-Madrid,Clare Waterman	Clare Waterman	Clare	female	1	554
+175	EMBOJ-2017-96629	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Peter J. Christie,Jeremy Derrick,Eric Cascales	Peter J. Christie	Peter J.	None	NA	NA
+176	EMBOJ-2017-96629	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Peter J. Christie,Jeremy Derrick,Eric Cascales	Jeremy Derrick	Jeremy	male	0.99	1840
+177	EMBOJ-2017-96629	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Peter J. Christie,Jeremy Derrick,Eric Cascales	Eric Cascales	Eric	male	1	4110
+178	EMBOJ-2017-96632	Gailite, Ieva	Revise and Re-review	Francois Schweisguth,Rhett Kovall	Francois Schweisguth	Francois	male	1	290
+179	EMBOJ-2017-96632	Gailite, Ieva	Revise and Re-review	Francois Schweisguth,Rhett Kovall	Rhett Kovall	Rhett	male	1	28
+180	EMBOJ-2017-96705	Gailite, Ieva	Reject post review	Michael N. Hall,Jacques Pouyssegur,Estela Jacinto	Michael N. Hall	Michael N.	None	NA	NA
+181	EMBOJ-2017-96705	Gailite, Ieva	Reject post review	Michael N. Hall,Jacques Pouyssegur,Estela Jacinto	Jacques Pouyssegur	Jacques	male	0.99	280
+182	EMBOJ-2017-96705	Gailite, Ieva	Reject post review	Michael N. Hall,Jacques Pouyssegur,Estela Jacinto	Estela Jacinto	Estela	female	1	138
+183	EMBOJ-2017-96772	Gailite, Ieva	Reject Post Review - 2 Reviewers	Stephen C. Winans,Paul Williams	Stephen C. Winans	Stephen C.	None	NA	NA
+184	EMBOJ-2017-96772	Gailite, Ieva	Reject Post Review - 2 Reviewers	Stephen C. Winans,Paul Williams	Paul Williams	Paul	male	1	5931
+185	EMBOJ-2017-96773	Gailite, Ieva	Reject Post Review - 2 Reviewers	Paul Williams,Neal Silverman	Paul Williams	Paul	male	1	5931
+186	EMBOJ-2017-96773	Gailite, Ieva	Reject Post Review - 2 Reviewers	Paul Williams,Neal Silverman	Neal Silverman	Neal	male	1	210
+187	EMBOJ-2017-96785	Gailite, Ieva	Reject post review	Florence Janody,Richard Fehon	Florence Janody	Florence	female	1	538
+188	EMBOJ-2017-96785	Gailite, Ieva	Reject post review	Florence Janody,Richard Fehon	Richard Fehon	Richard	male	1	4381
+189	EMBOJ-2017-96788	Gailite, Ieva	Reject post review	Florence Janody,Richard Fehon	Florence Janody	Florence	female	1	538
+190	EMBOJ-2017-96788	Gailite, Ieva	Reject post review	Florence Janody,Richard Fehon	Richard Fehon	Richard	male	1	4381
+191	EMBOJ-2017-96794	Gailite, Ieva	Revise and Re-review	David Baker,Sebastian Lourido,Paul Gilson	David Baker	David	male	1	12593
+192	EMBOJ-2017-96794	Gailite, Ieva	Revise and Re-review	David Baker,Sebastian Lourido,Paul Gilson	Sebastian Lourido	Sebastian	male	1	1459
+193	EMBOJ-2017-96794	Gailite, Ieva	Revise and Re-review	David Baker,Sebastian Lourido,Paul Gilson	Paul Gilson	Paul	male	1	5931
+194	EMBOJ-2017-96823	Gailite, Ieva	Reject post review	Staffan Persson,Francis J McNally	Staffan Persson	Staffan	male	1	20
+195	EMBOJ-2017-96823	Gailite, Ieva	Reject post review	Staffan Persson,Francis J McNally	Francis J McNally	Francis J	None	NA	NA
+196	EMBOJ-2017-96832	Gailite, Ieva	Reject post review	Markus Babst,Adam Frost,Robert Piper	Markus Babst	Markus	male	1	412
+197	EMBOJ-2017-96832	Gailite, Ieva	Reject post review	Markus Babst,Adam Frost,Robert Piper	Adam Frost	Adam	male	1	3957
+198	EMBOJ-2017-96832	Gailite, Ieva	Reject post review	Markus Babst,Adam Frost,Robert Piper	Robert Piper	Robert	male	1	5222
+199	EMBOJ-2017-96883	Gailite, Ieva	Revise and Re-review	Meng-Fu Bryan Tsou,Brian Dynlacht,Fanni Gergely	Meng-Fu Bryan Tsou	Meng-Fu Bryan	None	NA	NA
+200	EMBOJ-2017-96883	Gailite, Ieva	Revise and Re-review	Meng-Fu Bryan Tsou,Brian Dynlacht,Fanni Gergely	Brian Dynlacht	Brian	male	1	4600
+201	EMBOJ-2017-96883	Gailite, Ieva	Revise and Re-review	Meng-Fu Bryan Tsou,Brian Dynlacht,Fanni Gergely	Fanni Gergely	Fanni	female	0.89	9
+202	EMBOJ-2017-96977	Gailite, Ieva	Revise and Re-review	Anne Blanc-Potard,Vanessa Sperandio,Clare Bryant	Anne Blanc-Potard	Anne	female	1	2461
+203	EMBOJ-2017-96977	Gailite, Ieva	Revise and Re-review	Anne Blanc-Potard,Vanessa Sperandio,Clare Bryant	Vanessa Sperandio	Vanessa	female	1	2704
+204	EMBOJ-2017-96977	Gailite, Ieva	Revise and Re-review	Anne Blanc-Potard,Vanessa Sperandio,Clare Bryant	Clare Bryant	Clare	female	1	554
+205	EMBOJ-2017-96980	Gailite, Ieva	Reject post review	Barry Thompson,Kenneth Irvine,Barry M. Gumbiner	Barry Thompson	Barry	male	0.98	635
+206	EMBOJ-2017-96980	Gailite, Ieva	Reject post review	Barry Thompson,Kenneth Irvine,Barry M. Gumbiner	Kenneth Irvine	Kenneth	male	1	1020
+207	EMBOJ-2017-96980	Gailite, Ieva	Reject post review	Barry Thompson,Kenneth Irvine,Barry M. Gumbiner	Barry M. Gumbiner	Barry M.	None	NA	NA
+208	EMBOJ-2017-96988	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Oleg Igoshin,Jonathan Dworkin,Nathalie Questembert-Balaban	Oleg Igoshin	Oleg	male	0.99	86
+209	EMBOJ-2017-96988	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Oleg Igoshin,Jonathan Dworkin,Nathalie Questembert-Balaban	Jonathan Dworkin	Jonathan	male	1	3702
+210	EMBOJ-2017-96988	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Oleg Igoshin,Jonathan Dworkin,Nathalie Questembert-Balaban	Nathalie Questembert-Balaban	Nathalie	female	1	1096
+211	EMBOJ-2017-97026	Gailite, Ieva	Reject post review	Paola Bovolenta,Timothy Gershon,Martine Roussel	Paola Bovolenta	Paola	female	0.98	1453
+212	EMBOJ-2017-97026	Gailite, Ieva	Reject post review	Paola Bovolenta,Timothy Gershon,Martine Roussel	Timothy Gershon	Timothy	male	1	809
+213	EMBOJ-2017-97026	Gailite, Ieva	Reject post review	Paola Bovolenta,Timothy Gershon,Martine Roussel	Martine Roussel	Martine	female	0.99	346
+214	EMBOJ-2017-97039	Gailite, Ieva	Revise and Re-review	Roberto Dominguez,Guillaume Romet-Lemonne,Michael Rosen	Roberto Dominguez	Roberto	male	1	1956
+215	EMBOJ-2017-97039	Gailite, Ieva	Revise and Re-review	Roberto Dominguez,Guillaume Romet-Lemonne,Michael Rosen	Guillaume Romet-Lemonne	Guillaume	male	1	779
+216	EMBOJ-2017-97039	Gailite, Ieva	Revise and Re-review	Roberto Dominguez,Guillaume Romet-Lemonne,Michael Rosen	Michael Rosen	Michael	male	1	11094
+217	EMBOJ-2017-97054	Gailite, Ieva	Reject post review	Lawrence Stanton,Helge Großhans,Bing Lim	Lawrence Stanton	Lawrence	male	1	393
+218	EMBOJ-2017-97054	Gailite, Ieva	Reject post review	Lawrence Stanton,Helge Großhans,Bing Lim	Helge Großhans	Helge	male	0.93	28
+219	EMBOJ-2017-97054	Gailite, Ieva	Reject post review	Lawrence Stanton,Helge Großhans,Bing Lim	Bing Lim	Bing	female	0.62	37
+220	EMBOJ-2017-97075	Gailite, Ieva	Reject post review	Harm Kampinga,Alain Filloux,Wolfgang Voos	Harm Kampinga	Harm	male	1	7
+221	EMBOJ-2017-97075	Gailite, Ieva	Reject post review	Harm Kampinga,Alain Filloux,Wolfgang Voos	Alain Filloux	Alain	male	1	482
+222	EMBOJ-2017-97075	Gailite, Ieva	Reject post review	Harm Kampinga,Alain Filloux,Wolfgang Voos	Wolfgang Voos	Wolfgang	male	1	95
+223	EMBOJ-2017-97103	Gailite, Ieva	Revise and Re-review	Petr Leiman,Z. Hong Zhou,Alan Davidson	Petr Leiman	Petr	male	1	172
+224	EMBOJ-2017-97103	Gailite, Ieva	Revise and Re-review	Petr Leiman,Z. Hong Zhou,Alan Davidson	Z. Hong Zhou	Z. Hong	None	NA	NA
+225	EMBOJ-2017-97103	Gailite, Ieva	Revise and Re-review	Petr Leiman,Z. Hong Zhou,Alan Davidson	Alan Davidson	Alan	male	1	2079
+226	EMBOJ-2017-97115	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Shi-Yuan Cheng,Carla Boccaccio,Giuliana Pelicci	Shi-Yuan Cheng	Shi-Yuan	None	NA	NA
+227	EMBOJ-2017-97115	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Shi-Yuan Cheng,Carla Boccaccio,Giuliana Pelicci	Carla Boccaccio	Carla	female	1	1583
+228	EMBOJ-2017-97115	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Shi-Yuan Cheng,Carla Boccaccio,Giuliana Pelicci	Giuliana Pelicci	Giuliana	female	0.97	89
+229	EMBOJ-2017-97136	Gailite, Ieva	Reject Post Review - 2 Reviewers	Michael Simons,Elisabetta Dejana	Michael Simons	Michael	male	1	11094
+230	EMBOJ-2017-97136	Gailite, Ieva	Reject Post Review - 2 Reviewers	Michael Simons,Elisabetta Dejana	Elisabetta Dejana	Elisabetta	female	1	160
+231	EMBOJ-2017-97142	Gailite, Ieva	Reject Post Review - 2 Reviewers	Brian Mitchell,Jeffrey D. Axelrod	Brian Mitchell	Brian	male	1	4600
+232	EMBOJ-2017-97142	Gailite, Ieva	Reject Post Review - 2 Reviewers	Brian Mitchell,Jeffrey D. Axelrod	Jeffrey D. Axelrod	Jeffrey D.	None	NA	NA
+233	EMBOJ-2017-97188	Gailite, Ieva	Reject post review	Rodrigo Fernandez-Gonzalez,Christian Dahmann,Laurent BLANCHOIN	Rodrigo Fernandez-Gonzalez	Rodrigo	male	1	1277
+234	EMBOJ-2017-97188	Gailite, Ieva	Reject post review	Rodrigo Fernandez-Gonzalez,Christian Dahmann,Laurent BLANCHOIN	Christian Dahmann	Christian	male	0.99	2548
+235	EMBOJ-2017-97188	Gailite, Ieva	Reject post review	Rodrigo Fernandez-Gonzalez,Christian Dahmann,Laurent BLANCHOIN	Laurent BLANCHOIN	Laurent	male	0.99	571
+236	EMBOJ-2017-97278	Gailite, Ieva	Revise and Re-review	Raimund Dutzler,Poul Nissen,Yihua Huang	Raimund Dutzler	Raimund	male	1	6
+237	EMBOJ-2017-97278	Gailite, Ieva	Revise and Re-review	Raimund Dutzler,Poul Nissen,Yihua Huang	Poul Nissen	Poul	male	1	30
+238	EMBOJ-2017-97278	Gailite, Ieva	Revise and Re-review	Raimund Dutzler,Poul Nissen,Yihua Huang	Yihua Huang	Yihua	male	1	2
+239	EMBOJ-2017-97311	Gailite, Ieva	Revise and Re-review	Hendrik Korswagen,Paul Lehner,Shinji Takada	Hendrik Korswagen	Hendrik	male	1	84
+240	EMBOJ-2017-97311	Gailite, Ieva	Revise and Re-review	Hendrik Korswagen,Paul Lehner,Shinji Takada	Paul Lehner	Paul	male	1	5931
+241	EMBOJ-2017-97311	Gailite, Ieva	Revise and Re-review	Hendrik Korswagen,Paul Lehner,Shinji Takada	Shinji Takada	Shinji	male	0.88	8
+242	EMBOJ-2017-97324	Gailite, Ieva	Reject post review	Frédéric Barras,Patricia J. Kiley,Christine Szymanski	Frédéric Barras	Frédéric	male	0.99	440
+243	EMBOJ-2017-97324	Gailite, Ieva	Reject post review	Frédéric Barras,Patricia J. Kiley,Christine Szymanski	Patricia J. Kiley	Patricia J.	None	NA	NA
+244	EMBOJ-2017-97324	Gailite, Ieva	Reject post review	Frédéric Barras,Patricia J. Kiley,Christine Szymanski	Christine Szymanski	Christine	female	1	3115
+245	EMBOJ-2017-97345	Gailite, Ieva	Revise and Re-review	Eugene Tulchinsky,Ilaria Malanchi	Eugene Tulchinsky	Eugene	male	0.98	319
+246	EMBOJ-2017-97345	Gailite, Ieva	Revise and Re-review	Eugene Tulchinsky,Ilaria Malanchi	Ilaria Malanchi	Ilaria	female	0.99	278
+247	EMBOJ-2017-97404	Gailite, Ieva	Revise and Re-review	David J Solecki,Peter Baas,Fanny Mann	David J Solecki	David J	male	1	2
+248	EMBOJ-2017-97404	Gailite, Ieva	Revise and Re-review	David J Solecki,Peter Baas,Fanny Mann	Peter Baas	Peter	male	1	4373
+249	EMBOJ-2017-97404	Gailite, Ieva	Revise and Re-review	David J Solecki,Peter Baas,Fanny Mann	Fanny Mann	Fanny	female	0.99	593
+250	EMBOJ-2017-97499	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Jürgen Kleine-Vehn,Yka Helariutta,Teva Vernoux	Jürgen Kleine-Vehn	Jürgen	male	1	48
+251	EMBOJ-2017-97499	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Jürgen Kleine-Vehn,Yka Helariutta,Teva Vernoux	Yka Helariutta	Yka	female	1	1
+252	EMBOJ-2017-97499	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Jürgen Kleine-Vehn,Yka Helariutta,Teva Vernoux	Teva Vernoux	Teva	male	0.6	5
+253	EMBOJ-2017-97515	Gailite, Ieva	Revise and Re-review	Tohru Minamino,Jun Liu,Vassilis Koronakis	Tohru Minamino	Tohru	female	1	1
+254	EMBOJ-2017-97515	Gailite, Ieva	Revise and Re-review	Tohru Minamino,Jun Liu,Vassilis Koronakis	Jun Liu	Jun	male	0.94	189
+255	EMBOJ-2017-97515	Gailite, Ieva	Revise and Re-review	Tohru Minamino,Jun Liu,Vassilis Koronakis	Vassilis Koronakis	Vassilis	male	1	20
+256	EMBOJ-2017-97584	Gailite, Ieva	Reject Post Review - 2 Reviewers	Marcia Goldberg,Matthias Mayer	Marcia Goldberg	Marcia	female	1	370
+257	EMBOJ-2017-97584	Gailite, Ieva	Reject Post Review - 2 Reviewers	Marcia Goldberg,Matthias Mayer	Matthias Mayer	Matthias	male	1	257
+258	EMBOJ-2017-97597	Gailite, Ieva	Revise and Re-review	Shmuel Muallem,Jonathan Soboloff	Shmuel Muallem	Shmuel	male	1	16
+259	EMBOJ-2017-97597	Gailite, Ieva	Revise and Re-review	Shmuel Muallem,Jonathan Soboloff	Jonathan Soboloff	Jonathan	male	1	3702
+260	EMBOJ-2017-97609	Gailite, Ieva	Revise and Re-review	Wu Xu,Marian Waterman,Lin Zhang	Wu Xu	Wu	male	0.58	48
+261	EMBOJ-2017-97609	Gailite, Ieva	Revise and Re-review	Wu Xu,Marian Waterman,Lin Zhang	Marian Waterman	Marian	female	0.82	404
+262	EMBOJ-2017-97609	Gailite, Ieva	Revise and Re-review	Wu Xu,Marian Waterman,Lin Zhang	Lin Zhang	Lin	female	0.74	192
+263	EMBOJ-2017-97654	Gailite, Ieva	Reject post review	Eric Cascales,Petr Leiman,Rémi Fronzes	Eric Cascales	Eric	male	1	4110
+264	EMBOJ-2017-97654	Gailite, Ieva	Reject post review	Eric Cascales,Petr Leiman,Rémi Fronzes	Petr Leiman	Petr	male	1	172
+265	EMBOJ-2017-97654	Gailite, Ieva	Reject post review	Eric Cascales,Petr Leiman,Rémi Fronzes	Rémi Fronzes	Rémi	male	0.98	142
+266	EMBOJ-2017-97728	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Kenji Matsuno,Asrar Malik ,Erina Kuranaga	Kenji Matsuno	Kenji	male	0.96	51
+267	EMBOJ-2017-97728	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Kenji Matsuno,Asrar Malik ,Erina Kuranaga	Asrar Malik 	Asrar	female	0.67	3
+268	EMBOJ-2017-97728	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Kenji Matsuno,Asrar Malik ,Erina Kuranaga	Erina Kuranaga	Erina	female	1	13
+269	EMBOJ-2017-97791	Gailite, Ieva	Revise and Re-review	Oliver Blacque,Bernhard Schermer,Colin Johnson	Oliver Blacque	Oliver	male	0.99	750
+270	EMBOJ-2017-97791	Gailite, Ieva	Revise and Re-review	Oliver Blacque,Bernhard Schermer,Colin Johnson	Bernhard Schermer	Bernhard	male	1	47
+271	EMBOJ-2017-97791	Gailite, Ieva	Revise and Re-review	Oliver Blacque,Bernhard Schermer,Colin Johnson	Colin Johnson	Colin	male	0.99	954
+272	EMBOJ-2017-97825	Gailite, Ieva	Revise and Re-review	Michael Galperin,Jean-François Collet,Mark Gomelsky	Michael Galperin	Michael	male	1	11094
+273	EMBOJ-2017-97825	Gailite, Ieva	Revise and Re-review	Michael Galperin,Jean-François Collet,Mark Gomelsky	Jean-François Collet	Jean-François	male	1	2
+274	EMBOJ-2017-97825	Gailite, Ieva	Revise and Re-review	Michael Galperin,Jean-François Collet,Mark Gomelsky	Mark Gomelsky	Mark	male	1	6176
+275	EMBOJ-2017-97883	Gailite, Ieva	Revise and Re-review	Se-Jin Lee,Andrew Hinck,Jay Groppe	Se-Jin Lee	Se-Jin	None	NA	NA
+276	EMBOJ-2017-97883	Gailite, Ieva	Revise and Re-review	Se-Jin Lee,Andrew Hinck,Jay Groppe	Andrew Hinck	Andrew	male	1	5168
+277	EMBOJ-2017-97883	Gailite, Ieva	Revise and Re-review	Se-Jin Lee,Andrew Hinck,Jay Groppe	Jay Groppe	Jay	male	0.9	1882
+278	EMBOJ-2017-97931	Gailite, Ieva	Revise and Re-review	Se-Jin Lee,Andrew Hinck,Jay Groppe	Se-Jin Lee	Se-Jin	None	NA	NA
+279	EMBOJ-2017-97931	Gailite, Ieva	Revise and Re-review	Se-Jin Lee,Andrew Hinck,Jay Groppe	Andrew Hinck	Andrew	male	1	5168
+280	EMBOJ-2017-97931	Gailite, Ieva	Revise and Re-review	Se-Jin Lee,Andrew Hinck,Jay Groppe	Jay Groppe	Jay	male	0.9	1882
+281	EMBOJ-2017-98026	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Kim Lewis,Jan Michiels,Celia Goulding	Kim Lewis	Kim	female	0.88	3561
+282	EMBOJ-2017-98026	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Kim Lewis,Jan Michiels,Celia Goulding	Jan Michiels	Jan	male	0.6	1663
+283	EMBOJ-2017-98026	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Kim Lewis,Jan Michiels,Celia Goulding	Celia Goulding	Celia	female	1	349
+284	EMBOJ-2017-98047	Gailite, Ieva	Revise and Re-Review - Border Line Reject	David Fidock,Elizabeth Winzeler	David Fidock	David	male	1	12593
+285	EMBOJ-2017-98047	Gailite, Ieva	Revise and Re-Review - Border Line Reject	David Fidock,Elizabeth Winzeler	Elizabeth Winzeler	Elizabeth	female	1	3508
+286	EMBOJ-2017-98115	Gailite, Ieva	Reject Post Review - 2 Reviewers	Isabel Bäurle,Claudia Köhler	Isabel Bäurle	Isabel	female	1	1094
+287	EMBOJ-2017-98115	Gailite, Ieva	Reject Post Review - 2 Reviewers	Isabel Bäurle,Claudia Köhler	Claudia Köhler	Claudia	female	1	3051
+288	EMBOJ-2017-98133	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Patrick Seale,Paul Riley,Eric Small	Patrick Seale	Patrick	male	1	2877
+289	EMBOJ-2017-98133	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Patrick Seale,Paul Riley,Eric Small	Paul Riley	Paul	male	1	5931
+290	EMBOJ-2017-98133	Gailite, Ieva	Revise and Re-Review - Border Line Reject	Patrick Seale,Paul Riley,Eric Small	Eric Small	Eric	male	1	4110
+291	EMBOJ-2017-98173	Gailite, Ieva	Reject post review	Zhenyu Yue,Francesco Cecconi,Sascha Martens	Zhenyu Yue	Zhenyu	male	1	5
+292	EMBOJ-2017-98173	Gailite, Ieva	Reject post review	Zhenyu Yue,Francesco Cecconi,Sascha Martens	Francesco Cecconi	Francesco	male	1	1093
+293	EMBOJ-2017-98173	Gailite, Ieva	Reject post review	Zhenyu Yue,Francesco Cecconi,Sascha Martens	Sascha Martens	Sascha	female	0.51	158
+294	EMBOJ-2017-98228	Gailite, Ieva	Revise and Re-review	Jianhua Zhu,Julio Salinas,Jian Hua	Jianhua Zhu	Jianhua	None	NA	NA
+295	EMBOJ-2017-98228	Gailite, Ieva	Revise and Re-review	Jianhua Zhu,Julio Salinas,Jian Hua	Julio Salinas	Julio	male	1	1052
+296	EMBOJ-2017-98228	Gailite, Ieva	Revise and Re-review	Jianhua Zhu,Julio Salinas,Jian Hua	Jian Hua	Jian	male	0.73	22
+297	EMBOJ-2017-98248	Gailite, Ieva	Revise and Re-review	Shohei Mitani,Maureen M. Barr	Shohei Mitani	Shohei	male	1	8
+298	EMBOJ-2017-98248	Gailite, Ieva	Revise and Re-review	Shohei Mitani,Maureen M. Barr	Maureen M. Barr	Maureen M.	None	NA	NA
+299	EMBOJ-2017-98402	Gailite, Ieva	Revise and Re-review	William Schafer,X.Z.  Shawn Xu,Yun Zhang	William Schafer	William	male	1	2626
+300	EMBOJ-2017-98402	Gailite, Ieva	Revise and Re-review	William Schafer,X.Z.  Shawn Xu,Yun Zhang	X.Z.  Shawn Xu	X.Z.  Shawn	None	NA	NA
+301	EMBOJ-2017-98402	Gailite, Ieva	Revise and Re-review	William Schafer,X.Z.  Shawn Xu,Yun Zhang	Yun Zhang	Yun	female	0.77	48
+302	EMBOJ-2016-95476	Klimmeck, Daniel	Revise and Re-review	Hitoshi Niwa,Maria Elena Torres-Padilla	Hitoshi Niwa	Hitoshi	male	1	5
+303	EMBOJ-2016-95476	Klimmeck, Daniel	Revise and Re-review	Hitoshi Niwa,Maria Elena Torres-Padilla	Maria Elena Torres-Padilla	Maria Elena	female	1	92
+304	EMBOJ-2016-95874	Klimmeck, Daniel	Reject post review	Jeroen Krijgsveld,Jean-Christophe Marine,Julie Caramel	Jeroen Krijgsveld	Jeroen	male	1	113
+305	EMBOJ-2016-95874	Klimmeck, Daniel	Reject post review	Jeroen Krijgsveld,Jean-Christophe Marine,Julie Caramel	Jean-Christophe Marine	Jean-Christophe	male	1	79
+306	EMBOJ-2016-95874	Klimmeck, Daniel	Reject post review	Jeroen Krijgsveld,Jean-Christophe Marine,Julie Caramel	Julie Caramel	Julie	female	1	4260
+307	EMBOJ-2016-96089	Klimmeck, Daniel	Revise and Re-review	Reinhard Faessler,Wilhelm Krek,Georg Halder	Reinhard Faessler	Reinhard	male	1	22
+308	EMBOJ-2016-96089	Klimmeck, Daniel	Revise and Re-review	Reinhard Faessler,Wilhelm Krek,Georg Halder	Wilhelm Krek	Wilhelm	male	1	19
+309	EMBOJ-2016-96089	Klimmeck, Daniel	Revise and Re-review	Reinhard Faessler,Wilhelm Krek,Georg Halder	Georg Halder	Georg	male	1	64
+310	EMBOJ-2016-96098	Klimmeck, Daniel	Reject post review	Sven Diederichs,Reuven Agami,Michele De Palma	Sven Diederichs	Sven	male	0.97	253
+311	EMBOJ-2016-96098	Klimmeck, Daniel	Reject post review	Sven Diederichs,Reuven Agami,Michele De Palma	Reuven Agami	Reuven	male	0.98	49
+312	EMBOJ-2016-96098	Klimmeck, Daniel	Reject post review	Sven Diederichs,Reuven Agami,Michele De Palma	Michele De Palma	Michele De	None	NA	NA
+313	EMBOJ-2016-96179	Klimmeck, Daniel	Revise and Re-review	Mario Pende,Carlos Lopez-Otin,Gyorgy Szabadkai	Mario Pende	Mario	male	0.99	2026
+314	EMBOJ-2016-96179	Klimmeck, Daniel	Revise and Re-review	Mario Pende,Carlos Lopez-Otin,Gyorgy Szabadkai	Carlos Lopez-Otin	Carlos	male	1	5149
+315	EMBOJ-2016-96179	Klimmeck, Daniel	Revise and Re-review	Mario Pende,Carlos Lopez-Otin,Gyorgy Szabadkai	Gyorgy Szabadkai	Gyorgy	male	1	7
+316	EMBOJ-2016-96239	Klimmeck, Daniel	Revise and Re-review	Ulf Orom,Oliver Maddocks,Alena Shkumatava	Ulf Orom	Ulf	male	1	71
+317	EMBOJ-2016-96239	Klimmeck, Daniel	Revise and Re-review	Ulf Orom,Oliver Maddocks,Alena Shkumatava	Oliver Maddocks	Oliver	male	0.99	750
+318	EMBOJ-2016-96239	Klimmeck, Daniel	Revise and Re-review	Ulf Orom,Oliver Maddocks,Alena Shkumatava	Alena Shkumatava	Alena	female	0.99	144
+319	EMBOJ-2016-96247	Klimmeck, Daniel	Revise and Re-review	Bruce Edgar,Heinrich Jasper,Barry Thompson	Bruce Edgar	Bruce	male	1	800
+320	EMBOJ-2016-96247	Klimmeck, Daniel	Revise and Re-review	Bruce Edgar,Heinrich Jasper,Barry Thompson	Heinrich Jasper	Heinrich	male	1	14
+321	EMBOJ-2016-96247	Klimmeck, Daniel	Revise and Re-review	Bruce Edgar,Heinrich Jasper,Barry Thompson	Barry Thompson	Barry	male	0.98	635
+322	EMBOJ-2016-96253	Klimmeck, Daniel	Revise and Re-review	Lluis Espinosa,David Virshup,Nick Barker	Lluis Espinosa	Lluis	male	1	1
+323	EMBOJ-2016-96253	Klimmeck, Daniel	Revise and Re-review	Lluis Espinosa,David Virshup,Nick Barker	David Virshup	David	male	1	12593
+324	EMBOJ-2016-96253	Klimmeck, Daniel	Revise and Re-review	Lluis Espinosa,David Virshup,Nick Barker	Nick Barker	Nick	male	0.99	3326
+325	EMBOJ-2016-96389	Klimmeck, Daniel	Reject post review	Chun-Ju Chang,Jeff Rosen,Valerie LeBleu	Chun-Ju Chang	Chun-Ju	None	NA	NA
+326	EMBOJ-2016-96389	Klimmeck, Daniel	Reject post review	Chun-Ju Chang,Jeff Rosen,Valerie LeBleu	Jeff Rosen	Jeff	male	1	2925
+327	EMBOJ-2016-96389	Klimmeck, Daniel	Reject post review	Chun-Ju Chang,Jeff Rosen,Valerie LeBleu	Valerie LeBleu	Valerie	female	1	889
+328	EMBOJ-2017-96530	Klimmeck, Daniel	Reject post review	Kristian Helin,Gerald de Haan,Daisuke Nakada	Kristian Helin	Kristian	male	0.94	375
+329	EMBOJ-2017-96530	Klimmeck, Daniel	Reject post review	Kristian Helin,Gerald de Haan,Daisuke Nakada	Gerald de Haan	Gerald de	None	NA	NA
+330	EMBOJ-2017-96530	Klimmeck, Daniel	Reject post review	Kristian Helin,Gerald de Haan,Daisuke Nakada	Daisuke Nakada	Daisuke	male	1	13
+331	EMBOJ-2017-96566	Klimmeck, Daniel	Revise and Re-review	Dennis E. Discher,Mina Bissell,Thordur Oskarsson,Chris Madsen	Dennis E. Discher	Dennis E.	None	NA	NA
+332	EMBOJ-2017-96566	Klimmeck, Daniel	Revise and Re-review	Dennis E. Discher,Mina Bissell,Thordur Oskarsson,Chris Madsen	Mina Bissell	Mina	female	0.6	330
+333	EMBOJ-2017-96566	Klimmeck, Daniel	Revise and Re-review	Dennis E. Discher,Mina Bissell,Thordur Oskarsson,Chris Madsen	Thordur Oskarsson	Thordur	male	1	1
+334	EMBOJ-2017-96566	Klimmeck, Daniel	Revise and Re-review	Dennis E. Discher,Mina Bissell,Thordur Oskarsson,Chris Madsen	Chris Madsen	Chris	male	0.93	8631
+335	EMBOJ-2017-96710	Klimmeck, Daniel	Reject post review	Tianyan Gao,Reinhard Faessler,Nissim Hay	Tianyan Gao	Tianyan	None	NA	NA
+336	EMBOJ-2017-96710	Klimmeck, Daniel	Reject post review	Tianyan Gao,Reinhard Faessler,Nissim Hay	Reinhard Faessler	Reinhard	male	1	22
+337	EMBOJ-2017-96710	Klimmeck, Daniel	Reject post review	Tianyan Gao,Reinhard Faessler,Nissim Hay	Nissim Hay	Nissim	male	1	6
+338	EMBOJ-2017-96767	Klimmeck, Daniel	Reject post review	Michael Weber,Adrian Krainer	Michael Weber	Michael	male	1	11094
+339	EMBOJ-2017-96767	Klimmeck, Daniel	Reject post review	Michael Weber,Adrian Krainer	Adrian Krainer	Adrian	male	0.97	1515
+340	EMBOJ-2017-96771	Klimmeck, Daniel	Revise and Re-review	Simon Méndez-Ferrer,Marieke Essers,Susie Nilsson	Simon Méndez-Ferrer	Simon	male	0.99	2443
+341	EMBOJ-2017-96771	Klimmeck, Daniel	Revise and Re-review	Simon Méndez-Ferrer,Marieke Essers,Susie Nilsson	Marieke Essers	Marieke	female	1	96
+342	EMBOJ-2017-96771	Klimmeck, Daniel	Revise and Re-review	Simon Méndez-Ferrer,Marieke Essers,Susie Nilsson	Susie Nilsson	Susie	female	1	366
+343	EMBOJ-2017-96807	Klimmeck, Daniel	Reject post review	Leonidas Tsiokas,Horacio Cantiello,Surya Nauli	Leonidas Tsiokas	Leonidas	male	0.96	27
+344	EMBOJ-2017-96807	Klimmeck, Daniel	Reject post review	Leonidas Tsiokas,Horacio Cantiello,Surya Nauli	Horacio Cantiello	Horacio	male	1	142
+345	EMBOJ-2017-96807	Klimmeck, Daniel	Reject post review	Leonidas Tsiokas,Horacio Cantiello,Surya Nauli	Surya Nauli	Surya	male	0.71	93
+346	EMBOJ-2017-96875	Klimmeck, Daniel	Revise and Re-review	Niels Geijsen,Antoine Peters,Magdalena Zernicka-Goetz	Niels Geijsen	Niels	male	0.95	210
+347	EMBOJ-2017-96875	Klimmeck, Daniel	Revise and Re-review	Niels Geijsen,Antoine Peters,Magdalena Zernicka-Goetz	Antoine Peters	Antoine	male	1	411
+348	EMBOJ-2017-96875	Klimmeck, Daniel	Revise and Re-review	Niels Geijsen,Antoine Peters,Magdalena Zernicka-Goetz	Magdalena Zernicka-Goetz	Magdalena	female	1	411
+349	EMBOJ-2017-96929	Klimmeck, Daniel	Reject post review	Richard Marais,Navdeep Chandel,Claudia Wellbrock	Richard Marais	Richard	male	1	4381
+350	EMBOJ-2017-96929	Klimmeck, Daniel	Reject post review	Richard Marais,Navdeep Chandel,Claudia Wellbrock	Navdeep Chandel	Navdeep	male	0.85	13
+351	EMBOJ-2017-96929	Klimmeck, Daniel	Reject post review	Richard Marais,Navdeep Chandel,Claudia Wellbrock	Claudia Wellbrock	Claudia	female	1	3051
+352	EMBOJ-2017-96933	Klimmeck, Daniel	Reject post review	Andrey Abramov,Melissa Skala	Andrey Abramov	Andrey	male	0.99	147
+353	EMBOJ-2017-96933	Klimmeck, Daniel	Reject post review	Andrey Abramov,Melissa Skala	Melissa Skala	Melissa	female	1	4400
+354	EMBOJ-2017-96954	Klimmeck, Daniel	Reject post review	Magdalena Paolino,Chiara Zurzolo,H. Shelton Earp III	Magdalena Paolino	Magdalena	female	1	411
+355	EMBOJ-2017-96954	Klimmeck, Daniel	Reject post review	Magdalena Paolino,Chiara Zurzolo,H. Shelton Earp III	Chiara Zurzolo	Chiara	female	0.99	556
+356	EMBOJ-2017-96954	Klimmeck, Daniel	Reject post review	Magdalena Paolino,Chiara Zurzolo,H. Shelton Earp III	H. Shelton Earp III	H. Shelton Earp	None	NA	NA
+357	EMBOJ-2017-96983	Klimmeck, Daniel	Reject post review	Oscar Fernandez-Capetillo,Eric Gilson	Oscar Fernandez-Capetillo	Oscar	male	0.99	1650
+358	EMBOJ-2017-96983	Klimmeck, Daniel	Reject post review	Oscar Fernandez-Capetillo,Eric Gilson	Eric Gilson	Eric	male	1	4110
+359	EMBOJ-2017-97087	Klimmeck, Daniel	Reject post review	Gordon Hager,Jason Carroll,Juan Vaquerizas,Ian Mills	Gordon Hager	Gordon	male	1	416
+360	EMBOJ-2017-97087	Klimmeck, Daniel	Reject post review	Gordon Hager,Jason Carroll,Juan Vaquerizas,Ian Mills	Jason Carroll	Jason	male	1	4927
+361	EMBOJ-2017-97087	Klimmeck, Daniel	Reject post review	Gordon Hager,Jason Carroll,Juan Vaquerizas,Ian Mills	Juan Vaquerizas	Juan	male	0.99	4584
+362	EMBOJ-2017-97087	Klimmeck, Daniel	Reject post review	Gordon Hager,Jason Carroll,Juan Vaquerizas,Ian Mills	Ian Mills	Ian	male	0.99	2159
+363	EMBOJ-2017-97200	Klimmeck, Daniel	Revise and Re-review	Jakob Sorensen,Dejian Ren,Christoph Fahlke,H. Hartzell	Jakob Sorensen	Jakob	male	0.99	148
+364	EMBOJ-2017-97200	Klimmeck, Daniel	Revise and Re-review	Jakob Sorensen,Dejian Ren,Christoph Fahlke,H. Hartzell	Dejian Ren	Dejian	None	NA	NA
+365	EMBOJ-2017-97200	Klimmeck, Daniel	Revise and Re-review	Jakob Sorensen,Dejian Ren,Christoph Fahlke,H. Hartzell	Christoph Fahlke	Christoph	male	1	192
+366	EMBOJ-2017-97200	Klimmeck, Daniel	Revise and Re-review	Jakob Sorensen,Dejian Ren,Christoph Fahlke,H. Hartzell	H. Hartzell	H.	male	1	1
+367	EMBOJ-2017-97235-T	Klimmeck, Daniel	Reject post review	Henning Urlaub,Jeroen Krijgsveld,Hanno Steen	Henning Urlaub	Henning	male	1	77
+368	EMBOJ-2017-97235-T	Klimmeck, Daniel	Reject post review	Henning Urlaub,Jeroen Krijgsveld,Hanno Steen	Jeroen Krijgsveld	Jeroen	male	1	113
+369	EMBOJ-2017-97235-T	Klimmeck, Daniel	Reject post review	Henning Urlaub,Jeroen Krijgsveld,Hanno Steen	Hanno Steen	Hanno	male	1	5
+370	EMBOJ-2017-97363	Klimmeck, Daniel	Reject post review	Joshua Brickman,Jose Silva,Joerg Betschinger	Joshua Brickman	Joshua	male	0.99	1570
+371	EMBOJ-2017-97363	Klimmeck, Daniel	Reject post review	Joshua Brickman,Jose Silva,Joerg Betschinger	Jose Silva	Jose	male	0.99	3821
+372	EMBOJ-2017-97363	Klimmeck, Daniel	Reject post review	Joshua Brickman,Jose Silva,Joerg Betschinger	Joerg Betschinger	Joerg	male	1	20
+373	EMBOJ-2017-97400	Klimmeck, Daniel	Reject post review	Paul Martin,Iannis Aifantis,Freddy Radtke	Paul Martin	Paul	male	1	5931
+374	EMBOJ-2017-97400	Klimmeck, Daniel	Reject post review	Paul Martin,Iannis Aifantis,Freddy Radtke	Iannis Aifantis	Iannis	male	1	2
+375	EMBOJ-2017-97400	Klimmeck, Daniel	Reject post review	Paul Martin,Iannis Aifantis,Freddy Radtke	Freddy Radtke	Freddy	male	0.97	425
+376	EMBOJ-2017-97513	Klimmeck, Daniel	Reject post review	Giancarlo Marra,Roderick Beijersbergen	Giancarlo Marra	Giancarlo	male	1	145
+377	EMBOJ-2017-97513	Klimmeck, Daniel	Reject post review	Giancarlo Marra,Roderick Beijersbergen	Roderick Beijersbergen	Roderick	male	1	76
+378	EMBOJ-2017-97624	Klimmeck, Daniel	Reject post review	Danny Nedialkova,Priscilla Cooper,Jean-Marc Egly	Danny Nedialkova	Danny	male	0.95	1633
+379	EMBOJ-2017-97624	Klimmeck, Daniel	Reject post review	Danny Nedialkova,Priscilla Cooper,Jean-Marc Egly	Priscilla Cooper	Priscilla	female	1	536
+380	EMBOJ-2017-97624	Klimmeck, Daniel	Reject post review	Danny Nedialkova,Priscilla Cooper,Jean-Marc Egly	Jean-Marc Egly	Jean-Marc	male	1	81
+381	EMBOJ-2017-97648	Klimmeck, Daniel	Reject post review	Niels Geijsen,Hans Schöler,Yasuhisa Matsui	Niels Geijsen	Niels	male	0.95	210
+382	EMBOJ-2017-97648	Klimmeck, Daniel	Reject post review	Niels Geijsen,Hans Schöler,Yasuhisa Matsui	Hans Schöler	Hans	male	0.99	431
+383	EMBOJ-2017-97648	Klimmeck, Daniel	Reject post review	Niels Geijsen,Hans Schöler,Yasuhisa Matsui	Yasuhisa Matsui	Yasuhisa	None	NA	NA
+384	EMBOJ-2017-97664	Klimmeck, Daniel	Reject post review	Ian Chambers,Raffaella Santoro,Lasse Sinkkonen	Ian Chambers	Ian	male	0.99	2159
+385	EMBOJ-2017-97664	Klimmeck, Daniel	Reject post review	Ian Chambers,Raffaella Santoro,Lasse Sinkkonen	Raffaella Santoro	Raffaella	female	1	110
+386	EMBOJ-2017-97664	Klimmeck, Daniel	Reject post review	Ian Chambers,Raffaella Santoro,Lasse Sinkkonen	Lasse Sinkkonen	Lasse	male	1	259
+387	EMBOJ-2017-97673	Klimmeck, Daniel	Revise and Re-Review - Border Line Reject	Chi Dang,Claudia Wellbrock,Daniel Murphy	Chi Dang	Chi	female	0.55	86
+388	EMBOJ-2017-97673	Klimmeck, Daniel	Revise and Re-Review - Border Line Reject	Chi Dang,Claudia Wellbrock,Daniel Murphy	Claudia Wellbrock	Claudia	female	1	3051
+389	EMBOJ-2017-97673	Klimmeck, Daniel	Revise and Re-Review - Border Line Reject	Chi Dang,Claudia Wellbrock,Daniel Murphy	Daniel Murphy	Daniel	male	1	8180
+390	EMBOJ-2017-97752	Klimmeck, Daniel	Reject post review	Emanuele Buratti,Ian Eperon,Yibin Kang	Emanuele Buratti	Emanuele	male	1	241
+391	EMBOJ-2017-97752	Klimmeck, Daniel	Reject post review	Emanuele Buratti,Ian Eperon,Yibin Kang	Ian Eperon	Ian	male	0.99	2159
+392	EMBOJ-2017-97752	Klimmeck, Daniel	Reject post review	Emanuele Buratti,Ian Eperon,Yibin Kang	Yibin Kang	Yibin	male	1	2
+393	EMBOJ-2017-97780	Klimmeck, Daniel	Revise and Re-review	Chi Dang,Dae-Sik Lim,Utz Herbig	Chi Dang	Chi	female	0.55	86
+394	EMBOJ-2017-97780	Klimmeck, Daniel	Revise and Re-review	Chi Dang,Dae-Sik Lim,Utz Herbig	Dae-Sik Lim	Dae-Sik	None	NA	NA
+395	EMBOJ-2017-97780	Klimmeck, Daniel	Revise and Re-review	Chi Dang,Dae-Sik Lim,Utz Herbig	Utz Herbig	Utz	male	1	2
+396	EMBOJ-2017-98010	Klimmeck, Daniel	Reject post review	Kun-Liang Guan,Erik Sahai	Kun-Liang Guan	Kun-Liang	None	NA	NA
+397	EMBOJ-2017-98010	Klimmeck, Daniel	Reject post review	Kun-Liang Guan,Erik Sahai	Erik Sahai	Erik	male	0.99	1072
+398	EMBOJ-2017-98239	Klimmeck, Daniel	Revise and Re-review	Da-Zhi WANG,Pier Lorenzo Puri,Frédéric Relaix	Da-Zhi WANG	Da-Zhi	None	NA	NA
+399	EMBOJ-2017-98239	Klimmeck, Daniel	Revise and Re-review	Da-Zhi WANG,Pier Lorenzo Puri,Frédéric Relaix	Pier Lorenzo Puri	Pier Lorenzo	None	NA	NA
+400	EMBOJ-2017-98239	Klimmeck, Daniel	Revise and Re-review	Da-Zhi WANG,Pier Lorenzo Puri,Frédéric Relaix	Frédéric Relaix	Frédéric	male	0.99	440
+401	EMBOJ-2017-98354	Klimmeck, Daniel	Revise and Re-review	Claudio Hetz,Antonella De Matteis,Patrizia Agostinis	Claudio Hetz	Claudio	male	1	854
+402	EMBOJ-2017-98354	Klimmeck, Daniel	Revise and Re-review	Claudio Hetz,Antonella De Matteis,Patrizia Agostinis	Antonella De Matteis	Antonella De	None	NA	NA
+403	EMBOJ-2017-98354	Klimmeck, Daniel	Revise and Re-review	Claudio Hetz,Antonella De Matteis,Patrizia Agostinis	Patrizia Agostinis	Patrizia	female	1	233
+404	EMBOJ-2017-98359	Klimmeck, Daniel	Revise and Re-review	Mikhail Savitski,Robert Sheaff,Rene Bernards	Mikhail Savitski	Mikhail	male	1	57
+405	EMBOJ-2017-98359	Klimmeck, Daniel	Revise and Re-review	Mikhail Savitski,Robert Sheaff,Rene Bernards	Robert Sheaff	Robert	male	1	5222
+406	EMBOJ-2017-98359	Klimmeck, Daniel	Revise and Re-review	Mikhail Savitski,Robert Sheaff,Rene Bernards	Rene Bernards	Rene	male	0.81	522
+407	EMBOJ-2017-98401	Klimmeck, Daniel	Revise and Re-review	Kristian Helin,Alexander Stark,Dirk Schubeler,Luisa Cimmino	Kristian Helin	Kristian	male	0.94	375
+408	EMBOJ-2017-98401	Klimmeck, Daniel	Revise and Re-review	Kristian Helin,Alexander Stark,Dirk Schubeler,Luisa Cimmino	Alexander Stark	Alexander	male	1	1645
+409	EMBOJ-2017-98401	Klimmeck, Daniel	Revise and Re-review	Kristian Helin,Alexander Stark,Dirk Schubeler,Luisa Cimmino	Dirk Schubeler	Dirk	male	1	213
+410	EMBOJ-2017-98401	Klimmeck, Daniel	Revise and Re-review	Kristian Helin,Alexander Stark,Dirk Schubeler,Luisa Cimmino	Luisa Cimmino	Luisa	female	1	732
+411	EMBOJ-2017-98424	Klimmeck, Daniel	Reject post review	Frank Madeo,Stephan Herzig,Mark Febbraio	Frank Madeo	Frank	male	1	1565
+412	EMBOJ-2017-98424	Klimmeck, Daniel	Reject post review	Frank Madeo,Stephan Herzig,Mark Febbraio	Stephan Herzig	Stephan	male	1	265
+413	EMBOJ-2017-98424	Klimmeck, Daniel	Reject post review	Frank Madeo,Stephan Herzig,Mark Febbraio	Mark Febbraio	Mark	male	1	6176
+414	EMBOJ-2017-98458	Klimmeck, Daniel	Reject post review	Michael Sack,C. Ronald Kahn,Brian Weinert	Michael Sack	Michael	male	1	11094
+415	EMBOJ-2017-98458	Klimmeck, Daniel	Reject post review	Michael Sack,C. Ronald Kahn,Brian Weinert	C. Ronald Kahn	C. Ronald	None	NA	NA
+416	EMBOJ-2017-98458	Klimmeck, Daniel	Reject post review	Michael Sack,C. Ronald Kahn,Brian Weinert	Brian Weinert	Brian	male	1	4600
+417	EMBOJ-2017-98597	Klimmeck, Daniel	Revise and Re-review	Matthew Vander Heiden,Valter Longo,Alex Toker	Matthew Vander Heiden	Matthew Vander	None	NA	NA
+418	EMBOJ-2017-98597	Klimmeck, Daniel	Revise and Re-review	Matthew Vander Heiden,Valter Longo,Alex Toker	Valter Longo	Valter	male	1	42
+419	EMBOJ-2017-98597	Klimmeck, Daniel	Revise and Re-review	Matthew Vander Heiden,Valter Longo,Alex Toker	Alex Toker	Alex	male	0.87	5856
+420	EMBOJ-2017-98633	Klimmeck, Daniel	Reject post review	Michael Kreutz,Johannes Hell,Neil Marrion	Michael Kreutz	Michael	male	1	11094
+421	EMBOJ-2017-98633	Klimmeck, Daniel	Reject post review	Michael Kreutz,Johannes Hell,Neil Marrion	Johannes Hell	Johannes	male	1	198
+422	EMBOJ-2017-98633	Klimmeck, Daniel	Reject post review	Michael Kreutz,Johannes Hell,Neil Marrion	Neil Marrion	Neil	male	1	1036
+423	EMBOJ-2017-98637	Klimmeck, Daniel	Revise and Re-review	Bernd Fakler,Tobias Moser,Silvio Rizzoli	Bernd Fakler	Bernd	male	1	34
+424	EMBOJ-2017-98637	Klimmeck, Daniel	Revise and Re-review	Bernd Fakler,Tobias Moser,Silvio Rizzoli	Tobias Moser	Tobias	male	1	352
+425	EMBOJ-2017-98637	Klimmeck, Daniel	Revise and Re-review	Bernd Fakler,Tobias Moser,Silvio Rizzoli	Silvio Rizzoli	Silvio	male	1	183
+426	EMBOJ-2017-98642	Klimmeck, Daniel	Revise and Re-review	Georg Halder,Kim Jensen,William Lowry	Georg Halder	Georg	male	1	64
+427	EMBOJ-2017-98642	Klimmeck, Daniel	Revise and Re-review	Georg Halder,Kim Jensen,William Lowry	Kim Jensen	Kim	female	0.88	3561
+428	EMBOJ-2017-98642	Klimmeck, Daniel	Revise and Re-review	Georg Halder,Kim Jensen,William Lowry	William Lowry	William	male	1	2626
+429	EMBOJ-2017-98646	Klimmeck, Daniel	Reject post review	Kim Jensen,Georg Halder,William Lowry	Kim Jensen	Kim	female	0.88	3561
+430	EMBOJ-2017-98646	Klimmeck, Daniel	Reject post review	Kim Jensen,Georg Halder,William Lowry	Georg Halder	Georg	male	1	64
+431	EMBOJ-2017-98646	Klimmeck, Daniel	Reject post review	Kim Jensen,Georg Halder,William Lowry	William Lowry	William	male	1	2626
+432	EMBOJ-2016-96255	Leibfried, Andrea	Reject post review	Evan Rosen,John Denu,Haim Cohen	Evan Rosen	Evan	male	0.97	657
+433	EMBOJ-2016-96255	Leibfried, Andrea	Reject post review	Evan Rosen,John Denu,Haim Cohen	John Denu	John	male	0.99	9931
+434	EMBOJ-2016-96255	Leibfried, Andrea	Reject post review	Evan Rosen,John Denu,Haim Cohen	Haim Cohen	Haim	male	0.95	22
+435	EMBOJ-2016-96270	Leibfried, Andrea	Revise and Re-review	Yongli Zhang,Matthijs Verhage,Thierry Galli	Yongli Zhang	Yongli	female	1	1
+436	EMBOJ-2016-96270	Leibfried, Andrea	Revise and Re-review	Yongli Zhang,Matthijs Verhage,Thierry Galli	Matthijs Verhage	Matthijs	male	1	12
+437	EMBOJ-2016-96270	Leibfried, Andrea	Revise and Re-review	Yongli Zhang,Matthijs Verhage,Thierry Galli	Thierry Galli	Thierry	male	0.99	310
+438	EMBOJ-2016-96302	Leibfried, Andrea	Reject post review	Anastassios Economou,Stefan Jakobs,Nicholas Noinaj	Anastassios Economou	Anastassios	male	1	2
+439	EMBOJ-2016-96302	Leibfried, Andrea	Reject post review	Anastassios Economou,Stefan Jakobs,Nicholas Noinaj	Stefan Jakobs	Stefan	male	1	917
+440	EMBOJ-2016-96302	Leibfried, Andrea	Reject post review	Anastassios Economou,Stefan Jakobs,Nicholas Noinaj	Nicholas Noinaj	Nicholas	male	1	1176
+441	EMBOJ-2016-96370	Leibfried, Andrea	Reject post review	Eric Schon,Katsuyoshi Mihara,Michael Ryan	Eric Schon	Eric	male	1	4110
+442	EMBOJ-2016-96370	Leibfried, Andrea	Reject post review	Eric Schon,Katsuyoshi Mihara,Michael Ryan	Katsuyoshi Mihara	Katsuyoshi	None	NA	NA
+443	EMBOJ-2016-96370	Leibfried, Andrea	Reject post review	Eric Schon,Katsuyoshi Mihara,Michael Ryan	Michael Ryan	Michael	male	1	11094
+444	EMBOJ-2016-96377	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Paola Pizzo,Thomas Schwarz	Paola Pizzo	Paola	female	0.98	1453
+445	EMBOJ-2016-96377	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Paola Pizzo,Thomas Schwarz	Thomas Schwarz	Thomas	male	1	3753
+446	EMBOJ-2017-96436	Leibfried, Andrea	Revise and Re-review	Federico Bussolino,Michael Potente,Olivier Feron	Federico Bussolino	Federico	male	1	686
+447	EMBOJ-2017-96436	Leibfried, Andrea	Revise and Re-review	Federico Bussolino,Michael Potente,Olivier Feron	Michael Potente	Michael	male	1	11094
+448	EMBOJ-2017-96436	Leibfried, Andrea	Revise and Re-review	Federico Bussolino,Michael Potente,Olivier Feron	Olivier Feron	Olivier	male	0.99	715
+449	EMBOJ-2017-96463	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Ivan Dikic,Vojo Deretic,Koji Yamano	Ivan Dikic	Ivan	male	1	1905
+450	EMBOJ-2017-96463	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Ivan Dikic,Vojo Deretic,Koji Yamano	Vojo Deretic	Vojo	male	1	3
+451	EMBOJ-2017-96463	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Ivan Dikic,Vojo Deretic,Koji Yamano	Koji Yamano	Koji	male	0.9	10
+452	EMBOJ-2017-96497	Leibfried, Andrea	Reject post review	Yongli Zhang,Silvio Rizzoli	Yongli Zhang	Yongli	female	1	1
+453	EMBOJ-2017-96497	Leibfried, Andrea	Reject post review	Yongli Zhang,Silvio Rizzoli	Silvio Rizzoli	Silvio	male	1	183
+454	EMBOJ-2017-96529	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Youssef Belkhadir,Ping He,Yusuke Saijo	Youssef Belkhadir	Youssef	male	0.99	255
+455	EMBOJ-2017-96529	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Youssef Belkhadir,Ping He,Yusuke Saijo	Ping He	Ping	female	0.54	41
+456	EMBOJ-2017-96529	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Youssef Belkhadir,Ping He,Yusuke Saijo	Yusuke Saijo	Yusuke	male	1	28
+457	EMBOJ-2017-96553	Leibfried, Andrea	Revise and Re-review	Heidi McBride,Mario Pende,Elena Rugarli	Heidi McBride	Heidi	female	1	1211
+458	EMBOJ-2017-96553	Leibfried, Andrea	Revise and Re-review	Heidi McBride,Mario Pende,Elena Rugarli	Mario Pende	Mario	male	0.99	2026
+459	EMBOJ-2017-96553	Leibfried, Andrea	Revise and Re-review	Heidi McBride,Mario Pende,Elena Rugarli	Elena Rugarli	Elena	female	1	1645
+460	EMBOJ-2017-96680	Leibfried, Andrea	Reject post review	Isabel Bäurle,Lars Hennig	Isabel Bäurle	Isabel	female	1	1094
+461	EMBOJ-2017-96680	Leibfried, Andrea	Reject post review	Isabel Bäurle,Lars Hennig	Lars Hennig	Lars	male	1	450
+462	EMBOJ-2017-96687	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Antonella De Matteis,Pietro De Camilli,Fabien Alpy	Antonella De Matteis	Antonella De	None	NA	NA
+463	EMBOJ-2017-96687	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Antonella De Matteis,Pietro De Camilli,Fabien Alpy	Pietro De Camilli	Pietro De	None	NA	NA
+464	EMBOJ-2017-96687	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Antonella De Matteis,Pietro De Camilli,Fabien Alpy	Fabien Alpy	Fabien	male	1	237
+465	EMBOJ-2017-96699	Leibfried, Andrea	Revise and Re-review	Estela Jacinto,Joerg Hoehfeld	Estela Jacinto	Estela	female	1	138
+466	EMBOJ-2017-96699	Leibfried, Andrea	Revise and Re-review	Estela Jacinto,Joerg Hoehfeld	Joerg Hoehfeld	Joerg	male	1	20
+467	EMBOJ-2017-96709	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Emily Cheng,Ana Garcia-Saez	Emily Cheng	Emily	female	1	3765
+468	EMBOJ-2017-96709	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Emily Cheng,Ana Garcia-Saez	Ana Garcia-Saez	Ana	female	0.99	3621
+469	EMBOJ-2017-96763	Leibfried, Andrea	Reject post review	Jürgen Kleine-Vehn,Thomas Greb,Yka Helariutta	Jürgen Kleine-Vehn	Jürgen	male	1	48
+470	EMBOJ-2017-96763	Leibfried, Andrea	Reject post review	Jürgen Kleine-Vehn,Thomas Greb,Yka Helariutta	Thomas Greb	Thomas	male	1	3753
+471	EMBOJ-2017-96763	Leibfried, Andrea	Reject post review	Jürgen Kleine-Vehn,Thomas Greb,Yka Helariutta	Yka Helariutta	Yka	female	1	1
+472	EMBOJ-2017-96781	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Vojo Deretic,Søren Paludan,Pinghui Feng	Vojo Deretic	Vojo	male	1	3
+473	EMBOJ-2017-96781	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Vojo Deretic,Søren Paludan,Pinghui Feng	Søren Paludan	Søren	male	1	148
+474	EMBOJ-2017-96781	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Vojo Deretic,Søren Paludan,Pinghui Feng	Pinghui Feng	Pinghui	None	NA	NA
+475	EMBOJ-2017-96804	Leibfried, Andrea	Reject post review	Kim Newton,Ricardo Weinlich,John Silke	Kim Newton	Kim	female	0.88	3561
+476	EMBOJ-2017-96804	Leibfried, Andrea	Reject post review	Kim Newton,Ricardo Weinlich,John Silke	Ricardo Weinlich	Ricardo	male	1	1916
+477	EMBOJ-2017-96804	Leibfried, Andrea	Reject post review	Kim Newton,Ricardo Weinlich,John Silke	John Silke	John	male	0.99	9931
+478	EMBOJ-2017-96857	Leibfried, Andrea	Reject post review	Takashi Takahashi,Kevin Hiom	Takashi Takahashi	Takashi	male	1	16
+479	EMBOJ-2017-96857	Leibfried, Andrea	Reject post review	Takashi Takahashi,Kevin Hiom	Kevin Hiom	Kevin	male	1	5362
+480	EMBOJ-2017-96859	Leibfried, Andrea	Revise and Re-review	Bruno Antonny,Ludger Johannes,Sascha Martens	Bruno Antonny	Bruno	male	1	926
+481	EMBOJ-2017-96859	Leibfried, Andrea	Revise and Re-review	Bruno Antonny,Ludger Johannes,Sascha Martens	Ludger Johannes	Ludger	None	NA	NA
+482	EMBOJ-2017-96859	Leibfried, Andrea	Revise and Re-review	Bruno Antonny,Ludger Johannes,Sascha Martens	Sascha Martens	Sascha	female	0.51	158
+483	EMBOJ-2017-96866	Leibfried, Andrea	Reject post review	Laszlo Bogre,George Coupland,Norihito Nakamichi	Laszlo Bogre	Laszlo	male	1	15
+484	EMBOJ-2017-96866	Leibfried, Andrea	Reject post review	Laszlo Bogre,George Coupland,Norihito Nakamichi	George Coupland	George	male	0.99	2098
+485	EMBOJ-2017-96866	Leibfried, Andrea	Reject post review	Laszlo Bogre,George Coupland,Norihito Nakamichi	Norihito Nakamichi	Norihito	None	NA	NA
+486	EMBOJ-2017-96885	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Jochen Prehn,Shawn Bratton,Paolo Salomoni	Jochen Prehn	Jochen	male	1	32
+487	EMBOJ-2017-96885	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Jochen Prehn,Shawn Bratton,Paolo Salomoni	Shawn Bratton	Shawn	male	0.9	1059
+488	EMBOJ-2017-96885	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Jochen Prehn,Shawn Bratton,Paolo Salomoni	Paolo Salomoni	Paolo	male	0.99	781
+489	EMBOJ-2017-97004	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Marco Sandri ,J. Kevin Foskett,Robert Balaban 	Marco Sandri 	Marco	male	0.99	2493
+490	EMBOJ-2017-97004	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Marco Sandri ,J. Kevin Foskett,Robert Balaban 	J. Kevin Foskett	J. Kevin	None	NA	NA
+491	EMBOJ-2017-97004	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Marco Sandri ,J. Kevin Foskett,Robert Balaban 	Robert Balaban 	Robert	male	1	5222
+492	EMBOJ-2017-97006	Leibfried, Andrea	Revise only	Harald Stenmark	Harald Stenmark	Harald	male	1	80
+493	EMBOJ-2017-97119	Leibfried, Andrea	Reject post review	George Coupland,David Alabadi	George Coupland	George	male	0.99	2098
+494	EMBOJ-2017-97119	Leibfried, Andrea	Reject post review	George Coupland,David Alabadi	David Alabadi	David	male	1	12593
+495	EMBOJ-2017-97099	Leibfried, Andrea	Reject post review	Philip Wigge,Isabel Bäurle,Fred Berger	Philip Wigge	Philip	male	1	1097
+496	EMBOJ-2017-97099	Leibfried, Andrea	Reject post review	Philip Wigge,Isabel Bäurle,Fred Berger	Isabel Bäurle	Isabel	female	1	1094
+497	EMBOJ-2017-97099	Leibfried, Andrea	Reject post review	Philip Wigge,Isabel Bäurle,Fred Berger	Fred Berger	Fred	male	0.98	966
+498	EMBOJ-2017-97128	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Christian Behrends,Christian Ungermann,Sharon Tooze	Christian Behrends	Christian	male	0.99	2548
+499	EMBOJ-2017-97128	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Christian Behrends,Christian Ungermann,Sharon Tooze	Christian Ungermann	Christian	male	0.99	2548
+500	EMBOJ-2017-97128	Leibfried, Andrea	Revise and Re-Review - Border Line Reject	Christian Behrends,Christian Ungermann,Sharon Tooze	Sharon Tooze	Sharon	female	0.99	2760
+501	EMBOJ-2017-97164	Leibfried, Andrea	Reject post review	Cynthia Czajkowski ,Ryan Hibbs,Mark Mayer	Cynthia Czajkowski 	Cynthia	female	1	1489
+502	EMBOJ-2017-97164	Leibfried, Andrea	Reject post review	Cynthia Czajkowski ,Ryan Hibbs,Mark Mayer	Ryan Hibbs	Ryan	male	0.99	4755
+503	EMBOJ-2017-97164	Leibfried, Andrea	Reject post review	Cynthia Czajkowski ,Ryan Hibbs,Mark Mayer	Mark Mayer	Mark	male	1	6176
+504	EMBOJ-2017-97172	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Nancy E. Hynes,Bruno Goud,Xiang Zhang	Nancy E. Hynes	Nancy E.	None	NA	NA
+505	EMBOJ-2017-97172	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Nancy E. Hynes,Bruno Goud,Xiang Zhang	Bruno Goud	Bruno	male	1	926
+506	EMBOJ-2017-97172	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Nancy E. Hynes,Bruno Goud,Xiang Zhang	Xiang Zhang	Xiang	male	0.62	13
+507	EMBOJ-2017-97174	Leibfried, Andrea	Reject post review	Alena Shkumatava,Igor Ulitsky,Raphael Margueron,Hitoshi Niwa	Alena Shkumatava	Alena	female	0.99	144
+508	EMBOJ-2017-97174	Leibfried, Andrea	Reject post review	Alena Shkumatava,Igor Ulitsky,Raphael Margueron,Hitoshi Niwa	Igor Ulitsky	Igor	male	1	345
+509	EMBOJ-2017-97174	Leibfried, Andrea	Reject post review	Alena Shkumatava,Igor Ulitsky,Raphael Margueron,Hitoshi Niwa	Raphael Margueron	Raphael	male	1	246
+510	EMBOJ-2017-97174	Leibfried, Andrea	Reject post review	Alena Shkumatava,Igor Ulitsky,Raphael Margueron,Hitoshi Niwa	Hitoshi Niwa	Hitoshi	male	1	5
+511	EMBOJ-2017-97243	Leibfried, Andrea	Reject post review	Aurélien Roux,Ludger Johannes,Volker Haucke,Perrine Paul-Gilloteaux	Aurélien Roux	Aurélien	male	1	174
+512	EMBOJ-2017-97243	Leibfried, Andrea	Reject post review	Aurélien Roux,Ludger Johannes,Volker Haucke,Perrine Paul-Gilloteaux	Ludger Johannes	Ludger	None	NA	NA
+513	EMBOJ-2017-97243	Leibfried, Andrea	Reject post review	Aurélien Roux,Ludger Johannes,Volker Haucke,Perrine Paul-Gilloteaux	Volker Haucke	Volker	male	1	31
+514	EMBOJ-2017-97243	Leibfried, Andrea	Reject post review	Aurélien Roux,Ludger Johannes,Volker Haucke,Perrine Paul-Gilloteaux	Perrine Paul-Gilloteaux	Perrine	female	1	139
+515	EMBOJ-2017-97265	Leibfried, Andrea	Reject post review	David Rubinsztein,Rong Li,Patrik Verstreken	David Rubinsztein	David	male	1	12593
+516	EMBOJ-2017-97265	Leibfried, Andrea	Reject post review	David Rubinsztein,Rong Li,Patrik Verstreken	Rong Li	Rong	female	0.92	26
+517	EMBOJ-2017-97265	Leibfried, Andrea	Reject post review	David Rubinsztein,Rong Li,Patrik Verstreken	Patrik Verstreken	Patrik	male	1	194
+518	EMBOJ-2017-97359	Leibfried, Andrea	Revise and Re-review	Reinhard Jahn,Matthijs Verhage,Christopher Stefan	Reinhard Jahn	Reinhard	male	1	22
+519	EMBOJ-2017-97359	Leibfried, Andrea	Revise and Re-review	Reinhard Jahn,Matthijs Verhage,Christopher Stefan	Matthijs Verhage	Matthijs	male	1	12
+520	EMBOJ-2017-97359	Leibfried, Andrea	Revise and Re-review	Reinhard Jahn,Matthijs Verhage,Christopher Stefan	Christopher Stefan	Christopher	male	1	2339
+521	EMBOJ-2017-97462	Leibfried, Andrea	Reject post review	Yannick Schwab,Mark Looney,Joseph Italiano Jr.	Yannick Schwab	Yannick	male	0.99	282
+522	EMBOJ-2017-97462	Leibfried, Andrea	Reject post review	Yannick Schwab,Mark Looney,Joseph Italiano Jr.	Mark Looney	Mark	male	1	6176
+523	EMBOJ-2017-97462	Leibfried, Andrea	Reject post review	Yannick Schwab,Mark Looney,Joseph Italiano Jr.	Joseph Italiano Jr.	Joseph Italiano	None	NA	NA
+524	EMBOJ-2017-97476	Leibfried, Andrea	Reject post review	Stephen Tait,Michael Lazarou,Kay Macleod	Stephen Tait	Stephen	male	1	2608
+525	EMBOJ-2017-97476	Leibfried, Andrea	Reject post review	Stephen Tait,Michael Lazarou,Kay Macleod	Michael Lazarou	Michael	male	1	11094
+526	EMBOJ-2017-97476	Leibfried, Andrea	Reject post review	Stephen Tait,Michael Lazarou,Kay Macleod	Kay Macleod	Kay	female	0.88	709
+527	EMBOJ-2017-97488	Leibfried, Andrea	Reject post review	David Teis,Francesco Cecconi,Ana Maria Cuervo	David Teis	David	male	1	12593
+528	EMBOJ-2017-97488	Leibfried, Andrea	Reject post review	David Teis,Francesco Cecconi,Ana Maria Cuervo	Francesco Cecconi	Francesco	male	1	1093
+529	EMBOJ-2017-97488	Leibfried, Andrea	Reject post review	David Teis,Francesco Cecconi,Ana Maria Cuervo	Ana Maria Cuervo	Ana Maria	female	1	333
+530	EMBOJ-2017-97522	Leibfried, Andrea	Reject post review	Christoph Romanin,Jen Liou,Anant Parekh	Christoph Romanin	Christoph	male	1	192
+531	EMBOJ-2017-97522	Leibfried, Andrea	Reject post review	Christoph Romanin,Jen Liou,Anant Parekh	Jen Liou	Jen	female	0.99	1233
+532	EMBOJ-2017-97522	Leibfried, Andrea	Reject post review	Christoph Romanin,Jen Liou,Anant Parekh	Anant Parekh	Anant	male	0.98	59
+533	EMBOJ-2017-97543	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Francis Barr,Roger Goody,Holger Rehmann	Francis Barr	Francis	male	0.89	680
+534	EMBOJ-2017-97543	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Francis Barr,Roger Goody,Holger Rehmann	Roger Goody	Roger	male	1	1220
+535	EMBOJ-2017-97543	Leibfried, Andrea	Reject Post Review - 2 Reviewers	Francis Barr,Roger Goody,Holger Rehmann	Holger Rehmann	Holger	male	1	44
+536	EMBOJ-2017-97567	Leibfried, Andrea	Reject post review	Benoit Kornmann,William Prinz	Benoit Kornmann	Benoit	male	1	389
+537	EMBOJ-2017-97567	Leibfried, Andrea	Reject post review	Benoit Kornmann,William Prinz	William Prinz	William	male	1	2626
+538	EMBOJ-2017-97572	Leibfried, Andrea	Reject post review	Joel Goodman,Pedro Carvalho,Jean-Claude Martinou	Joel Goodman	Joel	male	0.99	1468
+539	EMBOJ-2017-97572	Leibfried, Andrea	Reject post review	Joel Goodman,Pedro Carvalho,Jean-Claude Martinou	Pedro Carvalho	Pedro	male	0.99	1631
+540	EMBOJ-2017-97572	Leibfried, Andrea	Reject post review	Joel Goodman,Pedro Carvalho,Jean-Claude Martinou	Jean-Claude Martinou	Jean-Claude	male	0.98	53
+541	EMBOJ-2017-97585	Leibfried, Andrea	Reject post review	Toshiya Endo,Doron Rapaport,Trevor Lithgow	Toshiya Endo	Toshiya	male	1	2
+542	EMBOJ-2017-97585	Leibfried, Andrea	Reject post review	Toshiya Endo,Doron Rapaport,Trevor Lithgow	Doron Rapaport	Doron	male	1	19
+543	EMBOJ-2017-97585	Leibfried, Andrea	Reject post review	Toshiya Endo,Doron Rapaport,Trevor Lithgow	Trevor Lithgow	Trevor	male	1	758
+544	EMBOJ-2017-97832	Leibfried, Andrea	Reject post review	George Coupland,John A. Browse	George Coupland	George	male	0.99	2098
+545	EMBOJ-2017-97832	Leibfried, Andrea	Reject post review	George Coupland,John A. Browse	John A. Browse	John A.	None	NA	NA
+546	EMBOJ-2017-97840	Leibfried, Andrea	Revise and Re-review	Zvulun Elazar,Sascha Martens,Ken Cadwell	Zvulun Elazar	Zvulun	None	NA	NA
+547	EMBOJ-2017-97840	Leibfried, Andrea	Revise and Re-review	Zvulun Elazar,Sascha Martens,Ken Cadwell	Sascha Martens	Sascha	female	0.51	158
+548	EMBOJ-2017-97840	Leibfried, Andrea	Revise and Re-review	Zvulun Elazar,Sascha Martens,Ken Cadwell	Ken Cadwell	Ken	male	0.99	1435
+549	EMBOJ-2017-97886	Leibfried, Andrea	Reject post review	Pere Puigserver,Marisa S. Bartolomei	Pere Puigserver	Pere	male	0.97	36
+550	EMBOJ-2017-97886	Leibfried, Andrea	Reject post review	Pere Puigserver,Marisa S. Bartolomei	Marisa S. Bartolomei	Marisa S.	None	NA	NA
+551	EMBOJ-2017-97903	Leibfried, Andrea	Reject post review	Michael Brunner,Patricia Lakin-Thomas,Jürgen Ripperger	Michael Brunner	Michael	male	1	11094
+552	EMBOJ-2017-97903	Leibfried, Andrea	Reject post review	Michael Brunner,Patricia Lakin-Thomas,Jürgen Ripperger	Patricia Lakin-Thomas	Patricia	female	1	3488
+553	EMBOJ-2017-97903	Leibfried, Andrea	Reject post review	Michael Brunner,Patricia Lakin-Thomas,Jürgen Ripperger	Jürgen Ripperger	Jürgen	male	1	48
+554	EMBOJ-2017-97909	Leibfried, Andrea	Revise and Re-review	Fabien Alpy,Toshiya Endo	Fabien Alpy	Fabien	male	1	237
+555	EMBOJ-2017-97909	Leibfried, Andrea	Revise and Re-review	Fabien Alpy,Toshiya Endo	Toshiya Endo	Toshiya	male	1	2
+556	EMBOJ-2017-98002	Leibfried, Andrea	Revise and Re-review	Guillaume Drin,Timothy P. Levine,Anne-Claude Gavin	Guillaume Drin	Guillaume	male	1	779
+557	EMBOJ-2017-98002	Leibfried, Andrea	Revise and Re-review	Guillaume Drin,Timothy P. Levine,Anne-Claude Gavin	Timothy P. Levine	Timothy P.	None	NA	NA
+558	EMBOJ-2017-98002	Leibfried, Andrea	Revise and Re-review	Guillaume Drin,Timothy P. Levine,Anne-Claude Gavin	Anne-Claude Gavin	Anne-Claude	None	NA	NA
+559	EMBOJ-2017-98209	Leibfried, Andrea	Reject post review	Ueli Schibler,Shu-Bing Qian,Feng Liu	Ueli Schibler	Ueli	male	1	3
+560	EMBOJ-2017-98209	Leibfried, Andrea	Reject post review	Ueli Schibler,Shu-Bing Qian,Feng Liu	Shu-Bing Qian	Shu-Bing	None	NA	NA
+561	EMBOJ-2017-98209	Leibfried, Andrea	Reject post review	Ueli Schibler,Shu-Bing Qian,Feng Liu	Feng Liu	Feng	male	0.52	31
+562	EMBOJ-2017-98250	Leibfried, Andrea	Reject post review	Lena Claesson-Welsh,Zolt Arany,Rosa Puertollano	Lena Claesson-Welsh	Lena	female	0.99	592
+563	EMBOJ-2017-98250	Leibfried, Andrea	Reject post review	Lena Claesson-Welsh,Zolt Arany,Rosa Puertollano	Zolt Arany	Zolt	None	NA	NA
+564	EMBOJ-2017-98250	Leibfried, Andrea	Reject post review	Lena Claesson-Welsh,Zolt Arany,Rosa Puertollano	Rosa Puertollano	Rosa	female	0.99	947
+565	EMBOJ-2017-98308	Leibfried, Andrea	Revise and Re-review	Noboru Mizushima,Hemmo Meyer	Noboru Mizushima	Noboru	male	1	11
+566	EMBOJ-2017-98308	Leibfried, Andrea	Revise and Re-review	Noboru Mizushima,Hemmo Meyer	Hemmo Meyer	Hemmo	male	1	1
+567	EMBOJ-2016-95751	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Tamar Juven-Gershon,Ingrid Lohmann,Eileen Furlong	Tamar Juven-Gershon	Tamar	female	1	81
+568	EMBOJ-2016-95751	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Tamar Juven-Gershon,Ingrid Lohmann,Eileen Furlong	Ingrid Lohmann	Ingrid	female	1	812
+569	EMBOJ-2016-95751	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Tamar Juven-Gershon,Ingrid Lohmann,Eileen Furlong	Eileen Furlong	Eileen	female	1	571
+570	EMBOJ-2016-95957	Nielsen, Anne	Revise and Re-review	Daniel Kaganovich,Miroslav Dundr,Andrew Baldwin	Daniel Kaganovich	Daniel	male	1	8180
+571	EMBOJ-2016-95957	Nielsen, Anne	Revise and Re-review	Daniel Kaganovich,Miroslav Dundr,Andrew Baldwin	Miroslav Dundr	Miroslav	male	1	97
+572	EMBOJ-2016-95957	Nielsen, Anne	Revise and Re-review	Daniel Kaganovich,Miroslav Dundr,Andrew Baldwin	Andrew Baldwin	Andrew	male	1	5168
+573	EMBOJ-2016-96035	Nielsen, Anne	Reject post review	Frank Holstege,Daniel Larson,Edouard Bertrand	Frank Holstege	Frank	male	1	1565
+574	EMBOJ-2016-96035	Nielsen, Anne	Reject post review	Frank Holstege,Daniel Larson,Edouard Bertrand	Daniel Larson	Daniel	male	1	8180
+575	EMBOJ-2016-96035	Nielsen, Anne	Reject post review	Frank Holstege,Daniel Larson,Edouard Bertrand	Edouard Bertrand	Edouard	male	0.97	60
+576	EMBOJ-2016-96061	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Claudio Hetz,Peter Walter,Yair Argon	Claudio Hetz	Claudio	male	1	854
+577	EMBOJ-2016-96061	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Claudio Hetz,Peter Walter,Yair Argon	Peter Walter	Peter	male	1	4373
+578	EMBOJ-2016-96061	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Claudio Hetz,Peter Walter,Yair Argon	Yair Argon	Yair	male	0.98	42
+579	EMBOJ-2016-96084	Nielsen, Anne	Reject post review	Phillip Zamore,Yiliang Ding,Michael Nodine	Phillip Zamore	Phillip	male	1	463
+580	EMBOJ-2016-96084	Nielsen, Anne	Reject post review	Phillip Zamore,Yiliang Ding,Michael Nodine	Yiliang Ding	Yiliang	None	NA	NA
+581	EMBOJ-2016-96084	Nielsen, Anne	Reject post review	Phillip Zamore,Yiliang Ding,Michael Nodine	Michael Nodine	Michael	male	1	11094
+582	EMBOJ-2016-96105	Nielsen, Anne	Reject post review	Nenad Ban,Ruben L Gonzalez,Alan Brown	Nenad Ban	Nenad	male	0.98	85
+583	EMBOJ-2016-96105	Nielsen, Anne	Reject post review	Nenad Ban,Ruben L Gonzalez,Alan Brown	Ruben L Gonzalez	Ruben L	None	NA	NA
+584	EMBOJ-2016-96105	Nielsen, Anne	Reject post review	Nenad Ban,Ruben L Gonzalez,Alan Brown	Alan Brown	Alan	male	1	2079
+585	EMBOJ-2016-96139	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Domenico Libri,Jeffrey Wilusz,Torben Jensen	Domenico Libri	Domenico	male	1	220
+586	EMBOJ-2016-96139	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Domenico Libri,Jeffrey Wilusz,Torben Jensen	Jeffrey Wilusz	Jeffrey	male	1	932
+587	EMBOJ-2016-96139	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Domenico Libri,Jeffrey Wilusz,Torben Jensen	Torben Jensen	Torben	male	1	63
+588	EMBOJ-2016-96149	Nielsen, Anne	Reject post review	Raffaella Santoro,Laurie Boyer,Gunter Meister	Raffaella Santoro	Raffaella	female	1	110
+589	EMBOJ-2016-96149	Nielsen, Anne	Reject post review	Raffaella Santoro,Laurie Boyer,Gunter Meister	Laurie Boyer	Laurie	female	0.94	906
+590	EMBOJ-2016-96149	Nielsen, Anne	Reject post review	Raffaella Santoro,Laurie Boyer,Gunter Meister	Gunter Meister	Gunter	male	1	35
+591	EMBOJ-2016-96174	Nielsen, Anne	Revise only	Stephen Buratowski,Oscar Llorca,Eckhard Jankowsky	Stephen Buratowski	Stephen	male	1	2608
+592	EMBOJ-2016-96174	Nielsen, Anne	Revise only	Stephen Buratowski,Oscar Llorca,Eckhard Jankowsky	Oscar Llorca	Oscar	male	0.99	1650
+593	EMBOJ-2016-96174	Nielsen, Anne	Revise only	Stephen Buratowski,Oscar Llorca,Eckhard Jankowsky	Eckhard Jankowsky	Eckhard	male	1	2
+594	EMBOJ-2016-96189	Nielsen, Anne	Revise and Re-review	Nenad Ban,Ruben L Gonzalez,Alan Brown	Nenad Ban	Nenad	male	0.98	85
+595	EMBOJ-2016-96189	Nielsen, Anne	Revise and Re-review	Nenad Ban,Ruben L Gonzalez,Alan Brown	Ruben L Gonzalez	Ruben L	None	NA	NA
+596	EMBOJ-2016-96189	Nielsen, Anne	Revise and Re-review	Nenad Ban,Ruben L Gonzalez,Alan Brown	Alan Brown	Alan	male	1	2079
+597	EMBOJ-2016-96257	Nielsen, Anne	Revise and Re-review	Andrea Ventura,Nick Gilbert,Jeffrey Chao	Andrea Ventura	Andrea	female	0.79	5794
+598	EMBOJ-2016-96257	Nielsen, Anne	Revise and Re-review	Andrea Ventura,Nick Gilbert,Jeffrey Chao	Nick Gilbert	Nick	male	0.99	3326
+599	EMBOJ-2016-96257	Nielsen, Anne	Revise and Re-review	Andrea Ventura,Nick Gilbert,Jeffrey Chao	Jeffrey Chao	Jeffrey	male	1	932
+600	EMBOJ-2016-96298	Nielsen, Anne	Reject post review	Yukihide Tomari,Bas van Steensel,Eric Miska	Yukihide Tomari	Yukihide	None	NA	NA
+601	EMBOJ-2016-96298	Nielsen, Anne	Reject post review	Yukihide Tomari,Bas van Steensel,Eric Miska	Bas van Steensel	Bas van	None	NA	NA
+602	EMBOJ-2016-96298	Nielsen, Anne	Reject post review	Yukihide Tomari,Bas van Steensel,Eric Miska	Eric Miska	Eric	male	1	4110
+603	EMBOJ-2016-96305	Nielsen, Anne	Reject post review	Isabel Bäurle,Martin Crespi,Myriam Calonje	Isabel Bäurle	Isabel	female	1	1094
+604	EMBOJ-2016-96305	Nielsen, Anne	Reject post review	Isabel Bäurle,Martin Crespi,Myriam Calonje	Martin Crespi	Martin	male	1	3568
+605	EMBOJ-2016-96305	Nielsen, Anne	Reject post review	Isabel Bäurle,Martin Crespi,Myriam Calonje	Myriam Calonje	Myriam	female	1	407
+606	EMBOJ-2016-96307	Nielsen, Anne	Revise and Re-review	Christian Seiser,Ian Chambers,Michiel Vermeulen	Christian Seiser	Christian	male	0.99	2548
+607	EMBOJ-2016-96307	Nielsen, Anne	Revise and Re-review	Christian Seiser,Ian Chambers,Michiel Vermeulen	Ian Chambers	Ian	male	0.99	2159
+608	EMBOJ-2016-96307	Nielsen, Anne	Revise and Re-review	Christian Seiser,Ian Chambers,Michiel Vermeulen	Michiel Vermeulen	Michiel	male	1	45
+609	EMBOJ-2016-96320	Nielsen, Anne	Revise and Re-review	Vigo Heissmeyer,Denis Lafontaine,Clotilde Thery	Vigo Heissmeyer	Vigo	male	1	2
+610	EMBOJ-2016-96320	Nielsen, Anne	Revise and Re-review	Vigo Heissmeyer,Denis Lafontaine,Clotilde Thery	Denis Lafontaine	Denis	male	0.93	577
+611	EMBOJ-2016-96320	Nielsen, Anne	Revise and Re-review	Vigo Heissmeyer,Denis Lafontaine,Clotilde Thery	Clotilde Thery	Clotilde	female	1	31
+612	EMBOJ-2016-96386	Nielsen, Anne	Revise and Re-review	Ian MacRae,Helge Großhans	Ian MacRae	Ian	male	0.99	2159
+613	EMBOJ-2016-96386	Nielsen, Anne	Revise and Re-review	Ian MacRae,Helge Großhans	Helge Großhans	Helge	male	0.93	28
+614	EMBOJ-2017-96447	Nielsen, Anne	Reject post review	Eva Gottwein,Nicole Meisner Kober	Eva Gottwein	Eva	female	1	1715
+615	EMBOJ-2017-96447	Nielsen, Anne	Reject post review	Eva Gottwein,Nicole Meisner Kober	Nicole Meisner Kober	Nicole Meisner	None	NA	NA
+616	EMBOJ-2017-96474	Nielsen, Anne	Revise and Re-review	David Bartel,Yukihide Tomari,Mihaela Zavolan	David Bartel	David	male	1	12593
+617	EMBOJ-2017-96474	Nielsen, Anne	Revise and Re-review	David Bartel,Yukihide Tomari,Mihaela Zavolan	Yukihide Tomari	Yukihide	None	NA	NA
+618	EMBOJ-2017-96474	Nielsen, Anne	Revise and Re-review	David Bartel,Yukihide Tomari,Mihaela Zavolan	Mihaela Zavolan	Mihaela	female	1	92
+619	EMBOJ-2017-96486	Nielsen, Anne	Reject post review	Felix Viana,Emmanuel Deval,David McKemy	Felix Viana	Felix	male	1	657
+620	EMBOJ-2017-96486	Nielsen, Anne	Reject post review	Felix Viana,Emmanuel Deval,David McKemy	Emmanuel Deval	Emmanuel	male	1	761
+621	EMBOJ-2017-96486	Nielsen, Anne	Reject post review	Felix Viana,Emmanuel Deval,David McKemy	David McKemy	David	male	1	12593
+622	EMBOJ-2017-96540	Nielsen, Anne	Revise and Re-review	Eric Masse,Roland Hartmann,Ben Luisi	Eric Masse	Eric	male	1	4110
+623	EMBOJ-2017-96540	Nielsen, Anne	Revise and Re-review	Eric Masse,Roland Hartmann,Ben Luisi	Roland Hartmann	Roland	male	1	255
+624	EMBOJ-2017-96540	Nielsen, Anne	Revise and Re-review	Eric Masse,Roland Hartmann,Ben Luisi	Ben Luisi	Ben	male	0.99	3363
+625	EMBOJ-2017-96567	Nielsen, Anne	Reject post review	Carsten Hansen,Filippo Giancotti,Robert Roeder	Carsten Hansen	Carsten	male	1	119
+626	EMBOJ-2017-96567	Nielsen, Anne	Reject post review	Carsten Hansen,Filippo Giancotti,Robert Roeder	Filippo Giancotti	Filippo	male	1	237
+627	EMBOJ-2017-96567	Nielsen, Anne	Reject post review	Carsten Hansen,Filippo Giancotti,Robert Roeder	Robert Roeder	Robert	male	1	5222
+628	EMBOJ-2017-96571	Nielsen, Anne	Revise and Re-review	Antonin Morillon,David Tollervey,Elizabeth Bayne	Antonin Morillon	Antonin	male	1	43
+629	EMBOJ-2017-96571	Nielsen, Anne	Revise and Re-review	Antonin Morillon,David Tollervey,Elizabeth Bayne	David Tollervey	David	male	1	12593
+630	EMBOJ-2017-96571	Nielsen, Anne	Revise and Re-review	Antonin Morillon,David Tollervey,Elizabeth Bayne	Elizabeth Bayne	Elizabeth	female	1	3508
+631	EMBOJ-2017-96685	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Shmuel Muallem,Daniel Minor,Olaf Pongs	Shmuel Muallem	Shmuel	male	1	16
+632	EMBOJ-2017-96685	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Shmuel Muallem,Daniel Minor,Olaf Pongs	Daniel Minor	Daniel	male	1	8180
+633	EMBOJ-2017-96685	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Shmuel Muallem,Daniel Minor,Olaf Pongs	Olaf Pongs	Olaf	male	1	65
+634	EMBOJ-2017-96700	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Walid Houry,F. Ulrich Hartl,Roberto Zoncu	Walid Houry	Walid	male	0.99	185
+635	EMBOJ-2017-96700	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Walid Houry,F. Ulrich Hartl,Roberto Zoncu	F. Ulrich Hartl	F. Ulrich	None	NA	NA
+636	EMBOJ-2017-96700	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Walid Houry,F. Ulrich Hartl,Roberto Zoncu	Roberto Zoncu	Roberto	male	1	1956
+637	EMBOJ-2017-96717	Nielsen, Anne	Revise and Re-review	Wendy Bickmore,Bennett Van Houten,Vijay Tiwari	Wendy Bickmore	Wendy	female	0.99	1964
+638	EMBOJ-2017-96717	Nielsen, Anne	Revise and Re-review	Wendy Bickmore,Bennett Van Houten,Vijay Tiwari	Bennett Van Houten	Bennett Van	None	NA	NA
+639	EMBOJ-2017-96717	Nielsen, Anne	Revise and Re-review	Wendy Bickmore,Bennett Van Houten,Vijay Tiwari	Vijay Tiwari	Vijay	male	0.98	319
+640	EMBOJ-2017-96751	Nielsen, Anne	Revise and Re-review	Reinhard Luehrmann,Mark Hochstrasser	Reinhard Luehrmann	Reinhard	male	1	22
+641	EMBOJ-2017-96751	Nielsen, Anne	Revise and Re-review	Reinhard Luehrmann,Mark Hochstrasser	Mark Hochstrasser	Mark	male	1	6176
+642	EMBOJ-2017-96808	Nielsen, Anne	Revise and Re-review	Brendan Battersby,Chris Norbury,Juan Alfonzo	Brendan Battersby	Brendan	male	1	517
+643	EMBOJ-2017-96808	Nielsen, Anne	Revise and Re-review	Brendan Battersby,Chris Norbury,Juan Alfonzo	Chris Norbury	Chris	male	0.93	8631
+644	EMBOJ-2017-96808	Nielsen, Anne	Revise and Re-review	Brendan Battersby,Chris Norbury,Juan Alfonzo	Juan Alfonzo	Juan	male	0.99	4584
+645	EMBOJ-2017-96810	Nielsen, Anne	Reject post review	Thomas Surrey,Rene Medema,Patricia Wadsworth	Thomas Surrey	Thomas	male	1	3753
+646	EMBOJ-2017-96810	Nielsen, Anne	Reject post review	Thomas Surrey,Rene Medema,Patricia Wadsworth	Rene Medema	Rene	male	0.81	522
+647	EMBOJ-2017-96810	Nielsen, Anne	Reject post review	Thomas Surrey,Rene Medema,Patricia Wadsworth	Patricia Wadsworth	Patricia	female	1	3488
+648	EMBOJ-2017-96831	Nielsen, Anne	Revise and Re-review	Jonathon Pines,Hongtao Yu,Rob Wolthuis	Jonathon Pines	Jonathon	male	1	145
+649	EMBOJ-2017-96831	Nielsen, Anne	Revise and Re-review	Jonathon Pines,Hongtao Yu,Rob Wolthuis	Hongtao Yu	Hongtao	male	1	1
+650	EMBOJ-2017-96831	Nielsen, Anne	Revise and Re-review	Jonathon Pines,Hongtao Yu,Rob Wolthuis	Rob Wolthuis	Rob	male	0.99	2262
+651	EMBOJ-2017-96852	Nielsen, Anne	Reject post review	Markus Bohnsack,Elena Conti,David L. Bentley	Markus Bohnsack	Markus	male	1	412
+652	EMBOJ-2017-96852	Nielsen, Anne	Reject post review	Markus Bohnsack,Elena Conti,David L. Bentley	Elena Conti	Elena	female	1	1645
+653	EMBOJ-2017-96852	Nielsen, Anne	Reject post review	Markus Bohnsack,Elena Conti,David L. Bentley	David L. Bentley	David L.	None	NA	NA
+654	EMBOJ-2017-96872	Nielsen, Anne	Reject post review	William Earnshaw,William J Greenleaf	William Earnshaw	William	male	1	2626
+655	EMBOJ-2017-96872	Nielsen, Anne	Reject post review	William Earnshaw,William J Greenleaf	William J Greenleaf	William J	male	1	1
+656	EMBOJ-2017-96918	Nielsen, Anne	Reject post review	Alexander Tarakhovsky,Olivier Neyrolles,Albert Jeltsch	Alexander Tarakhovsky	Alexander	male	1	1645
+657	EMBOJ-2017-96918	Nielsen, Anne	Reject post review	Alexander Tarakhovsky,Olivier Neyrolles,Albert Jeltsch	Olivier Neyrolles	Olivier	male	0.99	715
+658	EMBOJ-2017-96918	Nielsen, Anne	Reject post review	Alexander Tarakhovsky,Olivier Neyrolles,Albert Jeltsch	Albert Jeltsch	Albert	male	0.99	723
+659	EMBOJ-2017-96958	Nielsen, Anne	Revise only	Patrick Cramer	Patrick Cramer	Patrick	male	1	2877
+660	EMBOJ-2017-96956	Nielsen, Anne	Reject post review	N. Henriette Uhlenhaut,Tae-Kyung Kim,Daan Noordermeer	N. Henriette Uhlenhaut	N. Henriette	None	NA	NA
+661	EMBOJ-2017-96956	Nielsen, Anne	Reject post review	N. Henriette Uhlenhaut,Tae-Kyung Kim,Daan Noordermeer	Tae-Kyung Kim	Tae-Kyung	None	NA	NA
+662	EMBOJ-2017-96956	Nielsen, Anne	Reject post review	N. Henriette Uhlenhaut,Tae-Kyung Kim,Daan Noordermeer	Daan Noordermeer	Daan	male	1	25
+663	EMBOJ-2017-96990	Nielsen, Anne	Reject post review	Xiaobing Shi,Dirk Eick,Laszlo Tora	Xiaobing Shi	Xiaobing	male	1	1
+664	EMBOJ-2017-96990	Nielsen, Anne	Reject post review	Xiaobing Shi,Dirk Eick,Laszlo Tora	Dirk Eick	Dirk	male	1	213
+665	EMBOJ-2017-96990	Nielsen, Anne	Reject post review	Xiaobing Shi,Dirk Eick,Laszlo Tora	Laszlo Tora	Laszlo	male	1	15
+666	EMBOJ-2017-97009	Nielsen, Anne	Reject post review	Shona Murphy,David Levens,Andreas Mayer	Shona Murphy	Shona	female	1	82
+667	EMBOJ-2017-97009	Nielsen, Anne	Reject post review	Shona Murphy,David Levens,Andreas Mayer	David Levens	David	male	1	12593
+668	EMBOJ-2017-97009	Nielsen, Anne	Reject post review	Shona Murphy,David Levens,Andreas Mayer	Andreas Mayer	Andreas	male	1	1021
+669	EMBOJ-2017-97038	Nielsen, Anne	Revise and Re-review	Déborah Bourc'his,Ryan Lister,Richard Meehan	Déborah Bourc'his	Déborah	female	1	142
+670	EMBOJ-2017-97038	Nielsen, Anne	Revise and Re-review	Déborah Bourc'his,Ryan Lister,Richard Meehan	Ryan Lister	Ryan	male	0.99	4755
+671	EMBOJ-2017-97038	Nielsen, Anne	Revise and Re-review	Déborah Bourc'his,Ryan Lister,Richard Meehan	Richard Meehan	Richard	male	1	4381
+672	EMBOJ-2017-97079	Nielsen, Anne	Revise and Re-review	Oliver Muhlemann,Elisa Izaurralde,Cosmin Saveanu	Oliver Muhlemann	Oliver	male	0.99	750
+673	EMBOJ-2017-97079	Nielsen, Anne	Revise and Re-review	Oliver Muhlemann,Elisa Izaurralde,Cosmin Saveanu	Elisa Izaurralde	Elisa	female	0.99	805
+674	EMBOJ-2017-97079	Nielsen, Anne	Revise and Re-review	Oliver Muhlemann,Elisa Izaurralde,Cosmin Saveanu	Cosmin Saveanu	Cosmin	male	1	14
+675	EMBOJ-2017-97089	Nielsen, Anne	Revise and Re-review	Ian MacRae,Gunter Meister,Yukihide Tomari	Ian MacRae	Ian	male	0.99	2159
+676	EMBOJ-2017-97089	Nielsen, Anne	Revise and Re-review	Ian MacRae,Gunter Meister,Yukihide Tomari	Gunter Meister	Gunter	male	1	35
+677	EMBOJ-2017-97089	Nielsen, Anne	Revise and Re-review	Ian MacRae,Gunter Meister,Yukihide Tomari	Yukihide Tomari	Yukihide	None	NA	NA
+678	EMBOJ-2017-97129	Nielsen, Anne	Revise and Re-review	Amnon Horovitz,Helen Saibil,Paolo De Los Rios	Amnon Horovitz	Amnon	male	1	14
+679	EMBOJ-2017-97129	Nielsen, Anne	Revise and Re-review	Amnon Horovitz,Helen Saibil,Paolo De Los Rios	Helen Saibil	Helen	female	0.99	2201
+680	EMBOJ-2017-97129	Nielsen, Anne	Revise and Re-review	Amnon Horovitz,Helen Saibil,Paolo De Los Rios	Paolo De Los Rios	Paolo De Los	None	NA	NA
+681	EMBOJ-2017-97138	Nielsen, Anne	Revise and Re-review	Christian Muchardt,Mounia Lagha,Emery H. Bresnick	Christian Muchardt	Christian	male	0.99	2548
+682	EMBOJ-2017-97138	Nielsen, Anne	Revise and Re-review	Christian Muchardt,Mounia Lagha,Emery H. Bresnick	Mounia Lagha	Mounia	female	1	9
+683	EMBOJ-2017-97138	Nielsen, Anne	Revise and Re-review	Christian Muchardt,Mounia Lagha,Emery H. Bresnick	Emery H. Bresnick	Emery H.	None	NA	NA
+684	EMBOJ-2017-97169	Nielsen, Anne	Reject post review	Claude Becker,Allison Mallory,Todd Blevins	Claude Becker	Claude	male	0.81	327
+685	EMBOJ-2017-97169	Nielsen, Anne	Reject post review	Claude Becker,Allison Mallory,Todd Blevins	Allison Mallory	Allison	female	1	1033
+686	EMBOJ-2017-97169	Nielsen, Anne	Reject post review	Claude Becker,Allison Mallory,Todd Blevins	Todd Blevins	Todd	male	1	847
+687	EMBOJ-2017-97212	Nielsen, Anne	Revise and Re-review	Rockland Wiseman,Douglas Cyr,Jeffery Kelly	Rockland Wiseman	Rockland	male	1	1
+688	EMBOJ-2017-97212	Nielsen, Anne	Revise and Re-review	Rockland Wiseman,Douglas Cyr,Jeffery Kelly	Douglas Cyr	Douglas	male	1	611
+689	EMBOJ-2017-97212	Nielsen, Anne	Revise and Re-review	Rockland Wiseman,Douglas Cyr,Jeffery Kelly	Jeffery Kelly	Jeffery	male	1	148
+690	EMBOJ-2017-97342	Nielsen, Anne	Revise only	Tom Misteli	Tom Misteli	Tom	male	1	3736
+691	EMBOJ-2017-97480	Nielsen, Anne	Reject post review	Gunnar Schotta,Yoichi Shinkai	Gunnar Schotta	Gunnar	male	1	127
+692	EMBOJ-2017-97480	Nielsen, Anne	Reject post review	Gunnar Schotta,Yoichi Shinkai	Yoichi Shinkai	Yoichi	male	1	4
+693	EMBOJ-2017-97484	Nielsen, Anne	Reject post review	Helen Saibil,Harm Kampinga	Helen Saibil	Helen	female	0.99	2201
+694	EMBOJ-2017-97484	Nielsen, Anne	Reject post review	Helen Saibil,Harm Kampinga	Harm Kampinga	Harm	male	1	7
+695	EMBOJ-2017-97554	Nielsen, Anne	Reject post review	Eric Westhof,Anna Marie Pyle	Eric Westhof	Eric	male	1	4110
+696	EMBOJ-2017-97554	Nielsen, Anne	Reject post review	Eric Westhof,Anna Marie Pyle	Anna Marie Pyle	Anna Marie	female	1	5
+697	EMBOJ-2017-97490	Nielsen, Anne	Revise and Re-review	David Tollervey,Alain Jacquier,Jeffry L. Corden	David Tollervey	David	male	1	12593
+698	EMBOJ-2017-97490	Nielsen, Anne	Revise and Re-review	David Tollervey,Alain Jacquier,Jeffry L. Corden	Alain Jacquier	Alain	male	1	482
+699	EMBOJ-2017-97490	Nielsen, Anne	Revise and Re-review	David Tollervey,Alain Jacquier,Jeffry L. Corden	Jeffry L. Corden	Jeffry L.	None	NA	NA
+700	EMBOJ-2017-97549	Nielsen, Anne	Reject post review	Maruf Ali,Kenji Kohno,Maho Niwa	Maruf Ali	Maruf	male	1	7
+701	EMBOJ-2017-97549	Nielsen, Anne	Reject post review	Maruf Ali,Kenji Kohno,Maho Niwa	Kenji Kohno	Kenji	male	0.96	51
+702	EMBOJ-2017-97549	Nielsen, Anne	Reject post review	Maruf Ali,Kenji Kohno,Maho Niwa	Maho Niwa	Maho	female	0.73	11
+703	EMBOJ-2017-97564	Nielsen, Anne	Reject post review	Francois Bachand,Sebastian Marquardt,Marc Buehler	Francois Bachand	Francois	male	1	290
+704	EMBOJ-2017-97564	Nielsen, Anne	Reject post review	Francois Bachand,Sebastian Marquardt,Marc Buehler	Sebastian Marquardt	Sebastian	male	1	1459
+705	EMBOJ-2017-97564	Nielsen, Anne	Reject post review	Francois Bachand,Sebastian Marquardt,Marc Buehler	Marc Buehler	Marc	male	1	1555
+706	EMBOJ-2017-97602	Nielsen, Anne	Reject post review	Valery Krizhanovsky,Myriam Gorospe,Gunter Meister	Valery Krizhanovsky	Valery	female	0.89	37
+707	EMBOJ-2017-97602	Nielsen, Anne	Reject post review	Valery Krizhanovsky,Myriam Gorospe,Gunter Meister	Myriam Gorospe	Myriam	female	1	407
+708	EMBOJ-2017-97602	Nielsen, Anne	Reject post review	Valery Krizhanovsky,Myriam Gorospe,Gunter Meister	Gunter Meister	Gunter	male	1	35
+709	EMBOJ-2017-97631	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Denis Lafontaine,Gisela Storz,Sarah Woodson	Denis Lafontaine	Denis	male	0.93	577
+710	EMBOJ-2017-97631	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Denis Lafontaine,Gisela Storz,Sarah Woodson	Gisela Storz	Gisela	female	0.99	234
+711	EMBOJ-2017-97631	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Denis Lafontaine,Gisela Storz,Sarah Woodson	Sarah Woodson	Sarah	female	1	8371
+712	EMBOJ-2017-97723	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Jörg Vogel,Andrzej Dziembowski,Martin Turner	Jörg Vogel	Jörg	male	1	53
+713	EMBOJ-2017-97723	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Jörg Vogel,Andrzej Dziembowski,Martin Turner	Andrzej Dziembowski	Andrzej	male	0.98	50
+714	EMBOJ-2017-97723	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Jörg Vogel,Andrzej Dziembowski,Martin Turner	Martin Turner	Martin	male	1	3568
+715	EMBOJ-2017-97826	Nielsen, Anne	By author	Astrid Haase,Sebastian Kadener,Mihaela Zavolan	Astrid Haase	Astrid	female	1	365
+716	EMBOJ-2017-97826	Nielsen, Anne	By author	Astrid Haase,Sebastian Kadener,Mihaela Zavolan	Sebastian Kadener	Sebastian	male	1	1459
+717	EMBOJ-2017-97826	Nielsen, Anne	By author	Astrid Haase,Sebastian Kadener,Mihaela Zavolan	Mihaela Zavolan	Mihaela	female	1	92
+718	EMBOJ-2017-97849	Nielsen, Anne	Reject post review	Vincenzo Pirrotta,Maya Capelson,Jop Kind	Vincenzo Pirrotta	Vincenzo	male	1	350
+719	EMBOJ-2017-97849	Nielsen, Anne	Reject post review	Vincenzo Pirrotta,Maya Capelson,Jop Kind	Maya Capelson	Maya	female	0.97	427
+720	EMBOJ-2017-97849	Nielsen, Anne	Reject post review	Vincenzo Pirrotta,Maya Capelson,Jop Kind	Jop Kind	Jop	male	1	1
+721	EMBOJ-2017-97869	Nielsen, Anne	Revise and Re-review	Haiwei Song,Remco Sprangers,John Gross	Haiwei Song	Haiwei	None	NA	NA
+722	EMBOJ-2017-97869	Nielsen, Anne	Revise and Re-review	Haiwei Song,Remco Sprangers,John Gross	Remco Sprangers	Remco	male	1	14
+723	EMBOJ-2017-97869	Nielsen, Anne	Revise and Re-review	Haiwei Song,Remco Sprangers,John Gross	John Gross	John	male	0.99	9931
+724	EMBOJ-2017-97874	Nielsen, Anne	Reject post review	Russ Carstens,Javier Caceres,Xiang-Dong Fu	Russ Carstens	Russ	male	1	246
+725	EMBOJ-2017-97874	Nielsen, Anne	Reject post review	Russ Carstens,Javier Caceres,Xiang-Dong Fu	Javier Caceres	Javier	male	1	1975
+726	EMBOJ-2017-97874	Nielsen, Anne	Reject post review	Russ Carstens,Javier Caceres,Xiang-Dong Fu	Xiang-Dong Fu	Xiang-Dong	None	NA	NA
+727	EMBOJ-2017-97882	Nielsen, Anne	Reject post review	Laurence Pelletier,Maite Huarte	Laurence Pelletier	Laurence	female	0.75	400
+728	EMBOJ-2017-97882	Nielsen, Anne	Reject post review	Laurence Pelletier,Maite Huarte	Maite Huarte	Maite	female	1	83
+729	EMBOJ-2017-97953	Nielsen, Anne	Revise and Re-review	Raymund Wellinger,David Zappulla,Michael Stone,Juli Feigon	Raymund Wellinger	Raymund	male	1	15
+730	EMBOJ-2017-97953	Nielsen, Anne	Revise and Re-review	Raymund Wellinger,David Zappulla,Michael Stone,Juli Feigon	David Zappulla	David	male	1	12593
+731	EMBOJ-2017-97953	Nielsen, Anne	Revise and Re-review	Raymund Wellinger,David Zappulla,Michael Stone,Juli Feigon	Michael Stone	Michael	male	1	11094
+732	EMBOJ-2017-97953	Nielsen, Anne	Revise and Re-review	Raymund Wellinger,David Zappulla,Michael Stone,Juli Feigon	Juli Feigon	Juli	female	0.93	182
+733	EMBOJ-2017-97965	Nielsen, Anne	Revise and Re-review	Dylan Taatjes,Shona Murphy,Andreas Mayer	Dylan Taatjes	Dylan	male	0.99	785
+734	EMBOJ-2017-97965	Nielsen, Anne	Revise and Re-review	Dylan Taatjes,Shona Murphy,Andreas Mayer	Shona Murphy	Shona	female	1	82
+735	EMBOJ-2017-97965	Nielsen, Anne	Revise and Re-review	Dylan Taatjes,Shona Murphy,Andreas Mayer	Andreas Mayer	Andreas	male	1	1021
+736	EMBOJ-2017-97998	Nielsen, Anne	Reject post review	Jesper Svejstrup,Jeremy Stark,Gaëlle Legube	Jesper Svejstrup	Jesper	male	1	259
+737	EMBOJ-2017-97998	Nielsen, Anne	Reject post review	Jesper Svejstrup,Jeremy Stark,Gaëlle Legube	Jeremy Stark	Jeremy	male	0.99	1840
+738	EMBOJ-2017-97998	Nielsen, Anne	Reject post review	Jesper Svejstrup,Jeremy Stark,Gaëlle Legube	Gaëlle Legube	Gaëlle	female	1	28
+739	EMBOJ-2017-98004	Nielsen, Anne	Revise and Re-review	Benjamin Rowland,Juan Vaquerizas,Adele Marston	Benjamin Rowland	Benjamin	male	1	1475
+740	EMBOJ-2017-98004	Nielsen, Anne	Revise and Re-review	Benjamin Rowland,Juan Vaquerizas,Adele Marston	Juan Vaquerizas	Juan	male	0.99	4584
+741	EMBOJ-2017-98004	Nielsen, Anne	Revise and Re-review	Benjamin Rowland,Juan Vaquerizas,Adele Marston	Adele Marston	Adele	female	1	236
+742	EMBOJ-2017-98061	Nielsen, Anne	Reject post review	Eva van Rooij,Thomas Braun	Eva van Rooij	Eva van	None	NA	NA
+743	EMBOJ-2017-98061	Nielsen, Anne	Reject post review	Eva van Rooij,Thomas Braun	Thomas Braun	Thomas	male	1	3753
+744	EMBOJ-2017-98036	Nielsen, Anne	Reject post review	Petra Hajkova,François Fuks,Michael Weber	Petra Hajkova	Petra	female	0.99	588
+745	EMBOJ-2017-98036	Nielsen, Anne	Reject post review	Petra Hajkova,François Fuks,Michael Weber	François Fuks	François	male	0.99	371
+746	EMBOJ-2017-98036	Nielsen, Anne	Reject post review	Petra Hajkova,François Fuks,Michael Weber	Michael Weber	Michael	male	1	11094
+747	EMBOJ-2017-98040	Nielsen, Anne	Reject post review	Jeffrey Wilusz,Ian Mohr,Georg Stoecklin	Jeffrey Wilusz	Jeffrey	male	1	932
+748	EMBOJ-2017-98040	Nielsen, Anne	Reject post review	Jeffrey Wilusz,Ian Mohr,Georg Stoecklin	Ian Mohr	Ian	male	0.99	2159
+749	EMBOJ-2017-98040	Nielsen, Anne	Reject post review	Jeffrey Wilusz,Ian Mohr,Georg Stoecklin	Georg Stoecklin	Georg	male	1	64
+750	EMBOJ-2017-98070	Nielsen, Anne	Reject post review	Marc Buehler,Francois Bachand	Marc Buehler	Marc	male	1	1555
+751	EMBOJ-2017-98070	Nielsen, Anne	Reject post review	Marc Buehler,Francois Bachand	Francois Bachand	Francois	male	1	290
+752	EMBOJ-2017-98083	Nielsen, Anne	Revise and Re-review	Benjamin Rowland,Melina Schuh,Juan Vaquerizas	Benjamin Rowland	Benjamin	male	1	1475
+753	EMBOJ-2017-98083	Nielsen, Anne	Revise and Re-review	Benjamin Rowland,Melina Schuh,Juan Vaquerizas	Melina Schuh	Melina	female	0.99	183
+754	EMBOJ-2017-98083	Nielsen, Anne	Revise and Re-review	Benjamin Rowland,Melina Schuh,Juan Vaquerizas	Juan Vaquerizas	Juan	male	0.99	4584
+755	EMBOJ-2017-98105	Nielsen, Anne	Reject post review	Karen Adelman,Edouard Bertrand	Karen Adelman	Karen	female	1	5462
+756	EMBOJ-2017-98105	Nielsen, Anne	Reject post review	Karen Adelman,Edouard Bertrand	Edouard Bertrand	Edouard	male	0.97	60
+757	EMBOJ-2017-98123	Nielsen, Anne	Reject post review	Johannes Herrmann,Koreaki Ito,Ian Collinson	Johannes Herrmann	Johannes	male	1	198
+758	EMBOJ-2017-98123	Nielsen, Anne	Reject post review	Johannes Herrmann,Koreaki Ito,Ian Collinson	Koreaki Ito	Koreaki	None	NA	NA
+759	EMBOJ-2017-98123	Nielsen, Anne	Reject post review	Johannes Herrmann,Koreaki Ito,Ian Collinson	Ian Collinson	Ian	male	0.99	2159
+760	EMBOJ-2017-98178	Nielsen, Anne	Reject post review	Gerald Shadel,Robert Lightowlers	Gerald Shadel	Gerald	male	0.99	380
+761	EMBOJ-2017-98178	Nielsen, Anne	Reject post review	Gerald Shadel,Robert Lightowlers	Robert Lightowlers	Robert	male	1	5222
+762	EMBOJ-2017-98219	Nielsen, Anne	Revise and Re-review	Didier Trono,Federico Calegari	Didier Trono	Didier	male	0.99	204
+763	EMBOJ-2017-98219	Nielsen, Anne	Revise and Re-review	Didier Trono,Federico Calegari	Federico Calegari	Federico	male	1	686
+764	EMBOJ-2017-98266	Nielsen, Anne	Reject post review	Daniel F. Bogenhagen,Palmiro Cantatore,Robert Crouch	Daniel F. Bogenhagen	Daniel F.	None	NA	NA
+765	EMBOJ-2017-98266	Nielsen, Anne	Reject post review	Daniel F. Bogenhagen,Palmiro Cantatore,Robert Crouch	Palmiro Cantatore	Palmiro	None	NA	NA
+766	EMBOJ-2017-98266	Nielsen, Anne	Reject post review	Daniel F. Bogenhagen,Palmiro Cantatore,Robert Crouch	Robert Crouch	Robert	male	1	5222
+767	EMBOJ-2017-98297	Nielsen, Anne	Reject post review	Wieland Huttner,Ye Zhang,David M. Suter	Wieland Huttner	Wieland	male	1	1
+768	EMBOJ-2017-98297	Nielsen, Anne	Reject post review	Wieland Huttner,Ye Zhang,David M. Suter	Ye Zhang	Ye	female	0.58	43
+769	EMBOJ-2017-98297	Nielsen, Anne	Reject post review	Wieland Huttner,Ye Zhang,David M. Suter	David M. Suter	David M.	male	1	1
+770	EMBOJ-2017-98333	Nielsen, Anne	Reject post review	Michael Schlame,Jean-Claude Martinou,Eric A. Shoubridge	Michael Schlame	Michael	male	1	11094
+771	EMBOJ-2017-98333	Nielsen, Anne	Reject post review	Michael Schlame,Jean-Claude Martinou,Eric A. Shoubridge	Jean-Claude Martinou	Jean-Claude	male	0.98	53
+772	EMBOJ-2017-98333	Nielsen, Anne	Reject post review	Michael Schlame,Jean-Claude Martinou,Eric A. Shoubridge	Eric A. Shoubridge	Eric A.	None	NA	NA
+773	EMBOJ-2017-98378	Nielsen, Anne	Revise and Re-review	Meritxell Huch,Anne Grapin-Botton,Francesca Spagnoli	Meritxell Huch	Meritxell	female	1	40
+774	EMBOJ-2017-98378	Nielsen, Anne	Revise and Re-review	Meritxell Huch,Anne Grapin-Botton,Francesca Spagnoli	Anne Grapin-Botton	Anne	female	1	2461
+775	EMBOJ-2017-98378	Nielsen, Anne	Revise and Re-review	Meritxell Huch,Anne Grapin-Botton,Francesca Spagnoli	Francesca Spagnoli	Francesca	female	1	1122
+776	EMBOJ-2017-98441	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Martin Eilers,Tae-Kyung Kim,Sven Diederichs	Martin Eilers	Martin	male	1	3568
+777	EMBOJ-2017-98441	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Martin Eilers,Tae-Kyung Kim,Sven Diederichs	Tae-Kyung Kim	Tae-Kyung	None	NA	NA
+778	EMBOJ-2017-98441	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Martin Eilers,Tae-Kyung Kim,Sven Diederichs	Sven Diederichs	Sven	male	0.97	253
+779	EMBOJ-2017-98449	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Adrian Bracken,Amanda Fisher,Roberto Bonasio	Adrian Bracken	Adrian	male	0.97	1515
+780	EMBOJ-2017-98449	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Adrian Bracken,Amanda Fisher,Roberto Bonasio	Amanda Fisher	Amanda	female	1	4907
+781	EMBOJ-2017-98449	Nielsen, Anne	Revise and Re-Review - Border Line Reject	Adrian Bracken,Amanda Fisher,Roberto Bonasio	Roberto Bonasio	Roberto	male	1	1956
+782	EMBOJ-2017-98452	Nielsen, Anne	Revise and Re-review	Jernej Ule,Vicente Pelechano	Jernej Ule	Jernej	male	1	20
+783	EMBOJ-2017-98452	Nielsen, Anne	Revise and Re-review	Jernej Ule,Vicente Pelechano	Vicente Pelechano	Vicente	male	1	267
+784	EMBOJ-2017-98476	Nielsen, Anne	Reject post review	Julian Sale,Junjie Chen,Marie-Noëlle Prioleau	Julian Sale	Julian	male	1	1079
+785	EMBOJ-2017-98476	Nielsen, Anne	Reject post review	Julian Sale,Junjie Chen,Marie-Noëlle Prioleau	Junjie Chen	Junjie	male	1	1
+786	EMBOJ-2017-98476	Nielsen, Anne	Reject post review	Julian Sale,Junjie Chen,Marie-Noëlle Prioleau	Marie-Noëlle Prioleau	Marie-Noëlle	female	1	7
+787	EMBOJ-2017-98482	Nielsen, Anne	Revise and Re-review	Claudia Köhler,Ortrun Mittelsten Scheid,Jane Parker	Claudia Köhler	Claudia	female	1	3051
+788	EMBOJ-2017-98482	Nielsen, Anne	Revise and Re-review	Claudia Köhler,Ortrun Mittelsten Scheid,Jane Parker	Ortrun Mittelsten Scheid	Ortrun Mittelsten	None	NA	NA
+789	EMBOJ-2017-98482	Nielsen, Anne	Revise and Re-review	Claudia Köhler,Ortrun Mittelsten Scheid,Jane Parker	Jane Parker	Jane	female	0.99	1796
+790	EMBOJ-2017-98499	Nielsen, Anne	Revise and Re-review	Arlen Johnson,Christian Spahn,Alan Warren	Arlen Johnson	Arlen	female	0.52	25
+791	EMBOJ-2017-98499	Nielsen, Anne	Revise and Re-review	Arlen Johnson,Christian Spahn,Alan Warren	Christian Spahn	Christian	male	0.99	2548
+792	EMBOJ-2017-98499	Nielsen, Anne	Revise and Re-review	Arlen Johnson,Christian Spahn,Alan Warren	Alan Warren	Alan	male	1	2079
+793	EMBOJ-2017-98501	Nielsen, Anne	Revise and Re-review	Palmiro Cantatore,Andre Schneider	Palmiro Cantatore	Palmiro	None	NA	NA
+794	EMBOJ-2017-98501	Nielsen, Anne	Revise and Re-review	Palmiro Cantatore,Andre Schneider	Andre Schneider	Andre	male	0.93	860
+795	EMBOJ-2017-98515	Nielsen, Anne	Revise and Re-review	Thomas Dever,Sascha Martens,Sharon Tooze	Thomas Dever	Thomas	male	1	3753
+796	EMBOJ-2017-98515	Nielsen, Anne	Revise and Re-review	Thomas Dever,Sascha Martens,Sharon Tooze	Sascha Martens	Sascha	female	0.51	158
+797	EMBOJ-2017-98515	Nielsen, Anne	Revise and Re-review	Thomas Dever,Sascha Martens,Sharon Tooze	Sharon Tooze	Sharon	female	0.99	2760
+798	EMBOJ-2017-98549	Nielsen, Anne	Reject post review	Philipp Kahle,Mark Cookson,Christopher Rongo	Philipp Kahle	Philipp	male	1	205
+799	EMBOJ-2017-98549	Nielsen, Anne	Reject post review	Philipp Kahle,Mark Cookson,Christopher Rongo	Mark Cookson	Mark	male	1	6176
+800	EMBOJ-2017-98549	Nielsen, Anne	Reject post review	Philipp Kahle,Mark Cookson,Christopher Rongo	Christopher Rongo	Christopher	male	1	2339
+801	EMBOJ-2017-98659	Nielsen, Anne	Revise and Re-review	Catarina Homem,Laszlo Tora,Nicola Iovino	Catarina Homem	Catarina	female	0.99	85
+802	EMBOJ-2017-98659	Nielsen, Anne	Revise and Re-review	Catarina Homem,Laszlo Tora,Nicola Iovino	Laszlo Tora	Laszlo	male	1	15
+803	EMBOJ-2017-98659	Nielsen, Anne	Revise and Re-review	Catarina Homem,Laszlo Tora,Nicola Iovino	Nicola Iovino	Nicola	female	0.71	1226
+804	EMBOJ-2017-98699	Nielsen, Anne	Revise and Re-review	Roberto Sitia,Matthias Feige,Deborah Fass	Roberto Sitia	Roberto	male	1	1956
+805	EMBOJ-2017-98699	Nielsen, Anne	Revise and Re-review	Roberto Sitia,Matthias Feige,Deborah Fass	Matthias Feige	Matthias	male	1	257
+806	EMBOJ-2017-98699	Nielsen, Anne	Revise and Re-review	Roberto Sitia,Matthias Feige,Deborah Fass	Deborah Fass	Deborah	female	0.99	1275
+807	EMBOJ-2017-97133	Pulverer, Bernd	Revise and Re-review	Thanos Halazonetis,Haico van Attikum,Jacques Cote	Thanos Halazonetis	Thanos	male	1	44
+808	EMBOJ-2017-97133	Pulverer, Bernd	Revise and Re-review	Thanos Halazonetis,Haico van Attikum,Jacques Cote	Haico van Attikum	Haico van	None	NA	NA
+809	EMBOJ-2017-97133	Pulverer, Bernd	Revise and Re-review	Thanos Halazonetis,Haico van Attikum,Jacques Cote	Jacques Cote	Jacques	male	0.99	280
+810	EMBOJ-2017-97150	Pulverer, Bernd	Revise only	Jean-Paul Javerzat,Hongtao Yu,Camilla Sjögren	Jean-Paul Javerzat	Jean-Paul	male	1	56
+811	EMBOJ-2017-97150	Pulverer, Bernd	Revise only	Jean-Paul Javerzat,Hongtao Yu,Camilla Sjögren	Hongtao Yu	Hongtao	male	1	1
+812	EMBOJ-2017-97150	Pulverer, Bernd	Revise only	Jean-Paul Javerzat,Hongtao Yu,Camilla Sjögren	Camilla Sjögren	Camilla	female	1	665
+813	EMBOJ-2017-97586	Pulverer, Bernd	Reject post review	Jan Ellenberg,Thomas Surrey,Oliver Gruss	Jan Ellenberg	Jan	male	0.6	1663
+814	EMBOJ-2017-97586	Pulverer, Bernd	Reject post review	Jan Ellenberg,Thomas Surrey,Oliver Gruss	Thomas Surrey	Thomas	male	1	3753
+815	EMBOJ-2017-97586	Pulverer, Bernd	Reject post review	Jan Ellenberg,Thomas Surrey,Oliver Gruss	Oliver Gruss	Oliver	male	0.99	750
+816	EMBOJ-2017-98271	Senyilmaz Tiebe, Deniz	Revise and Re-review	Naoki Mochizuki,Tatiana Petrova,Marc Achen	Naoki Mochizuki	Naoki	male	1	6
+817	EMBOJ-2017-98271	Senyilmaz Tiebe, Deniz	Revise and Re-review	Naoki Mochizuki,Tatiana Petrova,Marc Achen	Tatiana Petrova	Tatiana	female	0.99	706
+818	EMBOJ-2017-98271	Senyilmaz Tiebe, Deniz	Revise and Re-review	Naoki Mochizuki,Tatiana Petrova,Marc Achen	Marc Achen	Marc	male	1	1555
+819	EMBOJ-2016-96225	Vodermaier, Hartmut	Reject post review	Brian Strahl,Antonin Morillon,Mario Halic	Brian Strahl	Brian	male	1	4600
+820	EMBOJ-2016-96225	Vodermaier, Hartmut	Reject post review	Brian Strahl,Antonin Morillon,Mario Halic	Antonin Morillon	Antonin	male	1	43
+821	EMBOJ-2016-96225	Vodermaier, Hartmut	Reject post review	Brian Strahl,Antonin Morillon,Mario Halic	Mario Halic	Mario	male	0.99	2026
+822	EMBOJ-2016-96314	Vodermaier, Hartmut	Reject Post Review - 2 Reviewers	Joachim Lingner,Peter Baumann,Julia Cooper	Joachim Lingner	Joachim	male	1	137
+823	EMBOJ-2016-96314	Vodermaier, Hartmut	Reject Post Review - 2 Reviewers	Joachim Lingner,Peter Baumann,Julia Cooper	Peter Baumann	Peter	male	1	4373
+824	EMBOJ-2016-96314	Vodermaier, Hartmut	Reject Post Review - 2 Reviewers	Joachim Lingner,Peter Baumann,Julia Cooper	Julia Cooper	Julia	female	0.99	2152
+825	EMBOJ-2016-96409	Vodermaier, Hartmut	Reject post review	Rik Derynck,Stefan Lichtenthaler,Stefan Rose-John	Rik Derynck	Rik	male	1	41
+826	EMBOJ-2016-96409	Vodermaier, Hartmut	Reject post review	Rik Derynck,Stefan Lichtenthaler,Stefan Rose-John	Stefan Lichtenthaler	Stefan	male	1	917
+827	EMBOJ-2016-96409	Vodermaier, Hartmut	Reject post review	Rik Derynck,Stefan Lichtenthaler,Stefan Rose-John	Stefan Rose-John	Stefan	male	1	917
+828	EMBOJ-2017-96427	Vodermaier, Hartmut	Reject Post Review - 2 Reviewers	Petr Cejka,Claire Wyman	Petr Cejka	Petr	male	1	172
+829	EMBOJ-2017-96427	Vodermaier, Hartmut	Reject Post Review - 2 Reviewers	Petr Cejka,Claire Wyman	Claire Wyman	Claire	female	1	2587
+830	EMBOJ-2017-96437	Vodermaier, Hartmut	Reject post review	Oscar Fernandez-Capetillo,Tom Misteli,Ralph Kehlenbach	Oscar Fernandez-Capetillo	Oscar	male	0.99	1650
+831	EMBOJ-2017-96437	Vodermaier, Hartmut	Reject post review	Oscar Fernandez-Capetillo,Tom Misteli,Ralph Kehlenbach	Tom Misteli	Tom	male	1	3736
+832	EMBOJ-2017-96437	Vodermaier, Hartmut	Reject post review	Oscar Fernandez-Capetillo,Tom Misteli,Ralph Kehlenbach	Ralph Kehlenbach	Ralph	male	1	314
+833	EMBOJ-2017-96490	Vodermaier, Hartmut	Reject post review	Titia Sixma,Niels Mailand,Grant Stewart	Titia Sixma	Titia	female	1	8
+834	EMBOJ-2017-96490	Vodermaier, Hartmut	Reject post review	Titia Sixma,Niels Mailand,Grant Stewart	Niels Mailand	Niels	male	0.95	210
+835	EMBOJ-2017-96490	Vodermaier, Hartmut	Reject post review	Titia Sixma,Niels Mailand,Grant Stewart	Grant Stewart	Grant	male	1	592
+836	EMBOJ-2017-96585	Vodermaier, Hartmut	Revise and Re-review	Johannes Walter,Maria Vartiainen,Dirk Görlich	Johannes Walter	Johannes	male	1	198
+837	EMBOJ-2017-96585	Vodermaier, Hartmut	Revise and Re-review	Johannes Walter,Maria Vartiainen,Dirk Görlich	Maria Vartiainen	Maria	female	0.99	8402
+838	EMBOJ-2017-96585	Vodermaier, Hartmut	Revise and Re-review	Johannes Walter,Maria Vartiainen,Dirk Görlich	Dirk Görlich	Dirk	male	1	213
+839	EMBOJ-2017-96631	Vodermaier, Hartmut	Revise and Re-review	Karim Mekhail,Grzegorz Ira,Irene Chiolo	Karim Mekhail	Karim	male	0.92	474
+840	EMBOJ-2017-96631	Vodermaier, Hartmut	Revise and Re-review	Karim Mekhail,Grzegorz Ira,Irene Chiolo	Grzegorz Ira	Grzegorz	male	0.98	56
+841	EMBOJ-2017-96631	Vodermaier, Hartmut	Revise and Re-review	Karim Mekhail,Grzegorz Ira,Irene Chiolo	Irene Chiolo	Irene	female	1	1300
+842	EMBOJ-2017-96636	Vodermaier, Hartmut	Revise and Re-review	Martin Singleton,Johannes Lechner,Tatsuo Fukagawa	Martin Singleton	Martin	male	1	3568
+843	EMBOJ-2017-96636	Vodermaier, Hartmut	Revise and Re-review	Martin Singleton,Johannes Lechner,Tatsuo Fukagawa	Johannes Lechner	Johannes	male	1	198
+844	EMBOJ-2017-96636	Vodermaier, Hartmut	Revise and Re-review	Martin Singleton,Johannes Lechner,Tatsuo Fukagawa	Tatsuo Fukagawa	Tatsuo	None	NA	NA
+845	EMBOJ-2017-96659	Vodermaier, Hartmut	Reject post review	Anabelle Decottignies,Arturo Londono-Vallejo,Dirk Hockemeyer	Anabelle Decottignies	Anabelle	female	1	25
+846	EMBOJ-2017-96659	Vodermaier, Hartmut	Reject post review	Anabelle Decottignies,Arturo Londono-Vallejo,Dirk Hockemeyer	Arturo Londono-Vallejo	Arturo	male	1	515
+847	EMBOJ-2017-96659	Vodermaier, Hartmut	Reject post review	Anabelle Decottignies,Arturo Londono-Vallejo,Dirk Hockemeyer	Dirk Hockemeyer	Dirk	male	1	213
+848	EMBOJ-2017-96664	Vodermaier, Hartmut	Revise and Re-review	Bennett Van Houten,John Rouse,Orlando Scharer	Bennett Van Houten	Bennett Van	None	NA	NA
+849	EMBOJ-2017-96664	Vodermaier, Hartmut	Revise and Re-review	Bennett Van Houten,John Rouse,Orlando Scharer	John Rouse	John	male	0.99	9931
+850	EMBOJ-2017-96664	Vodermaier, Hartmut	Revise and Re-review	Bennett Van Houten,John Rouse,Orlando Scharer	Orlando Scharer	Orlando	male	0.99	364
+851	EMBOJ-2017-96669	Vodermaier, Hartmut	Reject post review	Gali Prag,Simona Polo,Katrin Rittinger	Gali Prag	Gali	female	0.94	16
+852	EMBOJ-2017-96669	Vodermaier, Hartmut	Reject post review	Gali Prag,Simona Polo,Katrin Rittinger	Simona Polo	Simona	female	0.99	503
+853	EMBOJ-2017-96669	Vodermaier, Hartmut	Reject post review	Gali Prag,Simona Polo,Katrin Rittinger	Katrin Rittinger	Katrin	female	1	193
+854	EMBOJ-2017-96729	Vodermaier, Hartmut	Reject post review	Alessandro Vindigni,Vincenzo Costanzo,Lata Balakrishnan	Alessandro Vindigni	Alessandro	male	1	1025
+855	EMBOJ-2017-96729	Vodermaier, Hartmut	Reject post review	Alessandro Vindigni,Vincenzo Costanzo,Lata Balakrishnan	Vincenzo Costanzo	Vincenzo	male	1	350
+856	EMBOJ-2017-96729	Vodermaier, Hartmut	Reject post review	Alessandro Vindigni,Vincenzo Costanzo,Lata Balakrishnan	Lata Balakrishnan	Lata	female	0.94	17
+857	EMBOJ-2017-96867	Vodermaier, Hartmut	Reject post review	Maria Pia Longhese,Lumir Krejci,Xiaohua Wu	Maria Pia Longhese	Maria Pia	female	1	6
+858	EMBOJ-2017-96867	Vodermaier, Hartmut	Reject post review	Maria Pia Longhese,Lumir Krejci,Xiaohua Wu	Lumir Krejci	Lumir	None	NA	NA
+859	EMBOJ-2017-96867	Vodermaier, Hartmut	Reject post review	Maria Pia Longhese,Lumir Krejci,Xiaohua Wu	Xiaohua Wu	Xiaohua	female	1	1
+860	EMBOJ-2017-96887	Vodermaier, Hartmut	Revise only	Michael Stone,Neal F. Lue,Emmanuel Skordalakes	Michael Stone	Michael	male	1	11094
+861	EMBOJ-2017-96887	Vodermaier, Hartmut	Revise only	Michael Stone,Neal F. Lue,Emmanuel Skordalakes	Neal F. Lue	Neal F.	None	NA	NA
+862	EMBOJ-2017-96887	Vodermaier, Hartmut	Revise only	Michael Stone,Neal F. Lue,Emmanuel Skordalakes	Emmanuel Skordalakes	Emmanuel	male	1	761
+863	EMBOJ-2017-96889	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Roderick O'Sullivan,Yie Liu,Roger Greenberg	Roderick O'Sullivan	Roderick	male	1	76
+864	EMBOJ-2017-96889	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Roderick O'Sullivan,Yie Liu,Roger Greenberg	Yie Liu	Yie	female	0.5	2
+865	EMBOJ-2017-96889	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Roderick O'Sullivan,Yie Liu,Roger Greenberg	Roger Greenberg	Roger	male	1	1220
+866	EMBOJ-2017-96905	Vodermaier, Hartmut	Revise and Re-review	David Barford,Daniel Donoghue	David Barford	David	male	1	12593
+867	EMBOJ-2017-96905	Vodermaier, Hartmut	Revise and Re-review	David Barford,Daniel Donoghue	Daniel Donoghue	Daniel	male	1	8180
+868	EMBOJ-2017-96948	Vodermaier, Hartmut	Revise and Re-review	Lorraine S. Symington,Jeremy Stark,Mitch McVey	Lorraine S. Symington	Lorraine S.	None	NA	NA
+869	EMBOJ-2017-96948	Vodermaier, Hartmut	Revise and Re-review	Lorraine S. Symington,Jeremy Stark,Mitch McVey	Jeremy Stark	Jeremy	male	0.99	1840
+870	EMBOJ-2017-96948	Vodermaier, Hartmut	Revise and Re-review	Lorraine S. Symington,Jeremy Stark,Mitch McVey	Mitch McVey	Mitch	male	0.93	358
+871	EMBOJ-2017-96987	Vodermaier, Hartmut	Reject post review	Prasad Jallepalli,Frank Uhlmann,Benjamin Rowland	Prasad Jallepalli	Prasad	male	1	72
+872	EMBOJ-2017-96987	Vodermaier, Hartmut	Reject post review	Prasad Jallepalli,Frank Uhlmann,Benjamin Rowland	Frank Uhlmann	Frank	male	1	1565
+873	EMBOJ-2017-96987	Vodermaier, Hartmut	Reject post review	Prasad Jallepalli,Frank Uhlmann,Benjamin Rowland	Benjamin Rowland	Benjamin	male	1	1475
+874	EMBOJ-2017-97003	Vodermaier, Hartmut	Reject post review	Genevieve Almouzni,Vincenzo D'Angiolella,Lars Jansen	Genevieve Almouzni	Genevieve	female	1	244
+875	EMBOJ-2017-97003	Vodermaier, Hartmut	Reject post review	Genevieve Almouzni,Vincenzo D'Angiolella,Lars Jansen	Vincenzo D'Angiolella	Vincenzo	male	1	350
+876	EMBOJ-2017-97003	Vodermaier, Hartmut	Reject post review	Genevieve Almouzni,Vincenzo D'Angiolella,Lars Jansen	Lars Jansen	Lars	male	1	450
+877	EMBOJ-2017-97159	Vodermaier, Hartmut	Revise and Re-review	Ive De Smet,Xing Liu,Xing Wang Deng	Ive De Smet	Ive De	None	NA	NA
+878	EMBOJ-2017-97159	Vodermaier, Hartmut	Revise and Re-review	Ive De Smet,Xing Liu,Xing Wang Deng	Xing Liu	Xing	female	0.78	9
+879	EMBOJ-2017-97159	Vodermaier, Hartmut	Revise and Re-review	Ive De Smet,Xing Liu,Xing Wang Deng	Xing Wang Deng	Xing Wang	None	NA	NA
+880	EMBOJ-2017-97208	Vodermaier, Hartmut	Revise and Re-review	Sergio de Almeida,Philippe Pasero,David Tollervey	Sergio de Almeida	Sergio de	None	NA	NA
+881	EMBOJ-2017-97208	Vodermaier, Hartmut	Revise and Re-review	Sergio de Almeida,Philippe Pasero,David Tollervey	Philippe Pasero	Philippe	male	0.99	605
+882	EMBOJ-2017-97208	Vodermaier, Hartmut	Revise and Re-review	Sergio de Almeida,Philippe Pasero,David Tollervey	David Tollervey	David	male	1	12593
+883	EMBOJ-2017-97291	Vodermaier, Hartmut	Revise only	Andrea Musacchio,Song-Tao Liu	Andrea Musacchio	Andrea	female	0.79	5794
+884	EMBOJ-2017-97291	Vodermaier, Hartmut	Revise only	Andrea Musacchio,Song-Tao Liu	Song-Tao Liu	Song-Tao	None	NA	NA
+885	EMBOJ-2017-97508	Vodermaier, Hartmut	Revise and Re-review	Michele Pagano,Jörn Dengjel,Matthias Peter 	Michele Pagano	Michele	female	0.7	1311
+886	EMBOJ-2017-97508	Vodermaier, Hartmut	Revise and Re-review	Michele Pagano,Jörn Dengjel,Matthias Peter 	Jörn Dengjel	Jörn	male	1	14
+887	EMBOJ-2017-97508	Vodermaier, Hartmut	Revise and Re-review	Michele Pagano,Jörn Dengjel,Matthias Peter 	Matthias Peter 	Matthias	male	1	257
+888	EMBOJ-2017-97512	Vodermaier, Hartmut	Reject post review	Gary Kleiger,Danny Huang,Shaun Olsen	Gary Kleiger	Gary	male	1	2132
+889	EMBOJ-2017-97512	Vodermaier, Hartmut	Reject post review	Gary Kleiger,Danny Huang,Shaun Olsen	Danny Huang	Danny	male	0.95	1633
+890	EMBOJ-2017-97512	Vodermaier, Hartmut	Reject post review	Gary Kleiger,Danny Huang,Shaun Olsen	Shaun Olsen	Shaun	male	0.98	709
+891	EMBOJ-2017-97528	Vodermaier, Hartmut	Reject post review	Pedro Carvalho,Ernst Jarosch,Yihong Ye	Pedro Carvalho	Pedro	male	0.99	1631
+892	EMBOJ-2017-97528	Vodermaier, Hartmut	Reject post review	Pedro Carvalho,Ernst Jarosch,Yihong Ye	Ernst Jarosch	Ernst	male	1	25
+893	EMBOJ-2017-97528	Vodermaier, Hartmut	Reject post review	Pedro Carvalho,Ernst Jarosch,Yihong Ye	Yihong Ye	Yihong	male	1	1
+894	EMBOJ-2017-97596	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Damien Hudson,Stephan Gruber,Vincent Croquette	Damien Hudson	Damien	male	1	567
+895	EMBOJ-2017-97596	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Damien Hudson,Stephan Gruber,Vincent Croquette	Stephan Gruber	Stephan	male	1	265
+896	EMBOJ-2017-97596	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Damien Hudson,Stephan Gruber,Vincent Croquette	Vincent Croquette	Vincent	male	1	1424
+897	EMBOJ-2017-97630	Vodermaier, Hartmut	Revise and Re-review	Rene Medema,Floris Foijer,Renata Basto	Rene Medema	Rene	male	0.81	522
+898	EMBOJ-2017-97630	Vodermaier, Hartmut	Revise and Re-review	Rene Medema,Floris Foijer,Renata Basto	Floris Foijer	Floris	male	0.92	12
+899	EMBOJ-2017-97630	Vodermaier, Hartmut	Revise and Re-review	Rene Medema,Floris Foijer,Renata Basto	Renata Basto	Renata	female	0.99	309
+900	EMBOJ-2017-97651	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Kai Papenfort,Pascale Romby,William Margolin	Kai Papenfort	Kai	male	0.87	207
+901	EMBOJ-2017-97651	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Kai Papenfort,Pascale Romby,William Margolin	Pascale Romby	Pascale	female	1	205
+902	EMBOJ-2017-97651	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Kai Papenfort,Pascale Romby,William Margolin	William Margolin	William	male	1	2626
+903	EMBOJ-2017-97657	Vodermaier, Hartmut	Reject post review	Simon Powell,Marcel Tijsterman,Eric Hendrickson	Simon Powell	Simon	male	0.99	2443
+904	EMBOJ-2017-97657	Vodermaier, Hartmut	Reject post review	Simon Powell,Marcel Tijsterman,Eric Hendrickson	Marcel Tijsterman	Marcel	male	0.96	403
+905	EMBOJ-2017-97657	Vodermaier, Hartmut	Reject post review	Simon Powell,Marcel Tijsterman,Eric Hendrickson	Eric Hendrickson	Eric	male	1	4110
+906	EMBOJ-2017-97677	Vodermaier, Hartmut	Reject post review	Hironori Funabiki,Christopher Campbell,Jennifer DeLuca	Hironori Funabiki	Hironori	None	NA	NA
+907	EMBOJ-2017-97677	Vodermaier, Hartmut	Reject post review	Hironori Funabiki,Christopher Campbell,Jennifer DeLuca	Christopher Campbell	Christopher	male	1	2339
+908	EMBOJ-2017-97677	Vodermaier, Hartmut	Reject post review	Hironori Funabiki,Christopher Campbell,Jennifer DeLuca	Jennifer DeLuca	Jennifer	female	1	6717
+909	EMBOJ-2017-97741	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Arnaud Echard,Paul Conduit,Oliver Gruss	Arnaud Echard	Arnaud	male	0.99	375
+910	EMBOJ-2017-97741	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Arnaud Echard,Paul Conduit,Oliver Gruss	Paul Conduit	Paul	male	1	5931
+911	EMBOJ-2017-97741	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Arnaud Echard,Paul Conduit,Oliver Gruss	Oliver Gruss	Oliver	male	0.99	750
+912	EMBOJ-2017-97755	Vodermaier, Hartmut	Reject Post Review - 2 Reviewers	Björn Schumacher,Peter McHugh,Jan H.J. Hoeijmakers	Björn Schumacher	Björn	male	1	194
+913	EMBOJ-2017-97755	Vodermaier, Hartmut	Reject Post Review - 2 Reviewers	Björn Schumacher,Peter McHugh,Jan H.J. Hoeijmakers	Peter McHugh	Peter	male	1	4373
+914	EMBOJ-2017-97755	Vodermaier, Hartmut	Reject Post Review - 2 Reviewers	Björn Schumacher,Peter McHugh,Jan H.J. Hoeijmakers	Jan H.J. Hoeijmakers	Jan H.J.	None	NA	NA
+915	EMBOJ-2017-97833	Vodermaier, Hartmut	Revise and Re-review	Yunje Cho,R Williams,Magnar Bjoras	Yunje Cho	Yunje	None	NA	NA
+916	EMBOJ-2017-97833	Vodermaier, Hartmut	Revise and Re-review	Yunje Cho,R Williams,Magnar Bjoras	R Williams	R	male	0.79	42
+917	EMBOJ-2017-97833	Vodermaier, Hartmut	Revise and Re-review	Yunje Cho,R Williams,Magnar Bjoras	Magnar Bjoras	Magnar	male	1	4
+918	EMBOJ-2017-97876	Vodermaier, Hartmut	Revise only	Tony Hunter,Christopher Lima,R. Andrew Byrd,Walter Chazin	Tony Hunter	Tony	male	1	3071
+919	EMBOJ-2017-97876	Vodermaier, Hartmut	Revise only	Tony Hunter,Christopher Lima,R. Andrew Byrd,Walter Chazin	Christopher Lima	Christopher	male	1	2339
+920	EMBOJ-2017-97876	Vodermaier, Hartmut	Revise only	Tony Hunter,Christopher Lima,R. Andrew Byrd,Walter Chazin	R. Andrew Byrd	R. Andrew	None	NA	NA
+921	EMBOJ-2017-97876	Vodermaier, Hartmut	Revise only	Tony Hunter,Christopher Lima,R. Andrew Byrd,Walter Chazin	Walter Chazin	Walter	male	1	864
+922	EMBOJ-2017-97877	Vodermaier, Hartmut	Revise and Re-review	Nicholas Dyson,Makoto Nakanishi,Claus Sorensen	Nicholas Dyson	Nicholas	male	1	1176
+923	EMBOJ-2017-97877	Vodermaier, Hartmut	Revise and Re-review	Nicholas Dyson,Makoto Nakanishi,Claus Sorensen	Makoto Nakanishi	Makoto	male	1	28
+924	EMBOJ-2017-97877	Vodermaier, Hartmut	Revise and Re-review	Nicholas Dyson,Makoto Nakanishi,Claus Sorensen	Claus Sorensen	Claus	male	0.88	119
+925	EMBOJ-2017-97900	Vodermaier, Hartmut	Reject post review	Daniel Durocher,Dipanjan Chowdhury,Thanos Halazonetis	Daniel Durocher	Daniel	male	1	8180
+926	EMBOJ-2017-97900	Vodermaier, Hartmut	Reject post review	Daniel Durocher,Dipanjan Chowdhury,Thanos Halazonetis	Dipanjan Chowdhury	Dipanjan	male	1	2
+927	EMBOJ-2017-97900	Vodermaier, Hartmut	Reject post review	Daniel Durocher,Dipanjan Chowdhury,Thanos Halazonetis	Thanos Halazonetis	Thanos	male	1	44
+928	EMBOJ-2017-97902	Vodermaier, Hartmut	Revise and Re-review	Seth Rubin,Alexander Bird,Nicholas Levinson	Seth Rubin	Seth	male	1	373
+929	EMBOJ-2017-97902	Vodermaier, Hartmut	Revise and Re-review	Seth Rubin,Alexander Bird,Nicholas Levinson	Alexander Bird	Alexander	male	1	1645
+930	EMBOJ-2017-97902	Vodermaier, Hartmut	Revise and Re-review	Seth Rubin,Alexander Bird,Nicholas Levinson	Nicholas Levinson	Nicholas	male	1	1176
+931	EMBOJ-2017-97929	Vodermaier, Hartmut	Reject post review	Amy Kenter,Alberto Martin,Primo Schär	Amy Kenter	Amy	female	0.99	4334
+932	EMBOJ-2017-97929	Vodermaier, Hartmut	Reject post review	Amy Kenter,Alberto Martin,Primo Schär	Alberto Martin	Alberto	male	1	1530
+933	EMBOJ-2017-97929	Vodermaier, Hartmut	Reject post review	Amy Kenter,Alberto Martin,Primo Schär	Primo Schär	Primo	male	1	5
+934	EMBOJ-2017-98099	Vodermaier, Hartmut	Revise and Re-review	Benjamin Wolozin,Matthew LaVoie,Christian Gloeckner	Benjamin Wolozin	Benjamin	male	1	1475
+935	EMBOJ-2017-98099	Vodermaier, Hartmut	Revise and Re-review	Benjamin Wolozin,Matthew LaVoie,Christian Gloeckner	Matthew LaVoie	Matthew	male	1	3338
+936	EMBOJ-2017-98099	Vodermaier, Hartmut	Revise and Re-review	Benjamin Wolozin,Matthew LaVoie,Christian Gloeckner	Christian Gloeckner	Christian	male	0.99	2548
+937	EMBOJ-2017-98134	Vodermaier, Hartmut	Revise and Re-review	Andrea Musacchio,Kevin Corbett,Gregory Alushin	Andrea Musacchio	Andrea	female	0.79	5794
+938	EMBOJ-2017-98134	Vodermaier, Hartmut	Revise and Re-review	Andrea Musacchio,Kevin Corbett,Gregory Alushin	Kevin Corbett	Kevin	male	1	5362
+939	EMBOJ-2017-98134	Vodermaier, Hartmut	Revise and Re-review	Andrea Musacchio,Kevin Corbett,Gregory Alushin	Gregory Alushin	Gregory	male	1	721
+940	EMBOJ-2017-98139	Vodermaier, Hartmut	Reject post review	Karl-Peter Hopfner,Malcolm White,Peter Cherepanov	Karl-Peter Hopfner	Karl-Peter	None	NA	NA
+941	EMBOJ-2017-98139	Vodermaier, Hartmut	Reject post review	Karl-Peter Hopfner,Malcolm White,Peter Cherepanov	Malcolm White	Malcolm	male	1	227
+942	EMBOJ-2017-98139	Vodermaier, Hartmut	Reject post review	Karl-Peter Hopfner,Malcolm White,Peter Cherepanov	Peter Cherepanov	Peter	male	1	4373
+943	EMBOJ-2017-98168	Vodermaier, Hartmut	Reject post review	Valery Krizhanovsky,James Manfredi,Marcos Malumbres	Valery Krizhanovsky	Valery	female	0.89	37
+944	EMBOJ-2017-98168	Vodermaier, Hartmut	Reject post review	Valery Krizhanovsky,James Manfredi,Marcos Malumbres	James Manfredi	James	male	0.99	6359
+945	EMBOJ-2017-98168	Vodermaier, Hartmut	Reject post review	Valery Krizhanovsky,James Manfredi,Marcos Malumbres	Marcos Malumbres	Marcos	male	1	823
+946	EMBOJ-2017-98177	Vodermaier, Hartmut	Reject post review	Robert Benezra,Eduardo Torres,Zuzana Storchova	Robert Benezra	Robert	male	1	5222
+947	EMBOJ-2017-98177	Vodermaier, Hartmut	Reject post review	Robert Benezra,Eduardo Torres,Zuzana Storchova	Eduardo Torres	Eduardo	male	1	1644
+948	EMBOJ-2017-98177	Vodermaier, Hartmut	Reject post review	Robert Benezra,Eduardo Torres,Zuzana Storchova	Zuzana Storchova	Zuzana	female	1	209
+949	EMBOJ-2017-98306	Vodermaier, Hartmut	Revise and Re-review	Helle Ulrich,Dana Branzei,Hongtao Yu	Helle Ulrich	Helle	female	1	170
+950	EMBOJ-2017-98306	Vodermaier, Hartmut	Revise and Re-review	Helle Ulrich,Dana Branzei,Hongtao Yu	Dana Branzei	Dana	female	0.92	1154
+951	EMBOJ-2017-98306	Vodermaier, Hartmut	Revise and Re-review	Helle Ulrich,Dana Branzei,Hongtao Yu	Hongtao Yu	Hongtao	male	1	1
+952	EMBOJ-2017-98358	Vodermaier, Hartmut	Revise and Re-review	Masaaki Komatsu,Vladimir Kirkin,Nico P. Dantuma	Masaaki Komatsu	Masaaki	male	1	12
+953	EMBOJ-2017-98358	Vodermaier, Hartmut	Revise and Re-review	Masaaki Komatsu,Vladimir Kirkin,Nico P. Dantuma	Vladimir Kirkin	Vladimir	male	1	299
+954	EMBOJ-2017-98358	Vodermaier, Hartmut	Revise and Re-review	Masaaki Komatsu,Vladimir Kirkin,Nico P. Dantuma	Nico P. Dantuma	Nico P.	None	NA	NA
+955	EMBOJ-2017-98369	Vodermaier, Hartmut	Reject post review	Grant Brown,Philippe Pasero,Maria Pia Longhese	Grant Brown	Grant	male	1	592
+956	EMBOJ-2017-98369	Vodermaier, Hartmut	Reject post review	Grant Brown,Philippe Pasero,Maria Pia Longhese	Philippe Pasero	Philippe	male	0.99	605
+957	EMBOJ-2017-98369	Vodermaier, Hartmut	Reject post review	Grant Brown,Philippe Pasero,Maria Pia Longhese	Maria Pia Longhese	Maria Pia	female	1	6
+958	EMBOJ-2017-98576	Vodermaier, Hartmut	Revise and Re-review	Andrew Holland,Renata Basto,Manuel Thery,Daniel Müller	Andrew Holland	Andrew	male	1	5168
+959	EMBOJ-2017-98576	Vodermaier, Hartmut	Revise and Re-review	Andrew Holland,Renata Basto,Manuel Thery,Daniel Müller	Renata Basto	Renata	female	0.99	309
+960	EMBOJ-2017-98576	Vodermaier, Hartmut	Revise and Re-review	Andrew Holland,Renata Basto,Manuel Thery,Daniel Müller	Manuel Thery	Manuel	male	1	1954
+961	EMBOJ-2017-98576	Vodermaier, Hartmut	Revise and Re-review	Andrew Holland,Renata Basto,Manuel Thery,Daniel Müller	Daniel Müller	Daniel	male	1	8180
+962	EMBOJ-2017-98588	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Petr Cejka,Sang Eun Lee,John Tainer	Petr Cejka	Petr	male	1	172
+963	EMBOJ-2017-98588	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Petr Cejka,Sang Eun Lee,John Tainer	Sang Eun Lee	Sang Eun	female	1	1
+964	EMBOJ-2017-98588	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Petr Cejka,Sang Eun Lee,John Tainer	John Tainer	John	male	0.99	9931
+965	EMBOJ-2017-98589	Vodermaier, Hartmut	Revise only	Chi Dang,Michael N. Hall	Chi Dang	Chi	female	0.55	86
+966	EMBOJ-2017-98589	Vodermaier, Hartmut	Revise only	Chi Dang,Michael N. Hall	Michael N. Hall	Michael N.	None	NA	NA
+967	EMBOJ-2017-98728	Vodermaier, Hartmut	Revise and Re-review	Nancy Hollingsworth,Erwin Peterman,Roland Kanaar	Nancy Hollingsworth	Nancy	female	1	2716
+968	EMBOJ-2017-98728	Vodermaier, Hartmut	Revise and Re-review	Nancy Hollingsworth,Erwin Peterman,Roland Kanaar	Erwin Peterman	Erwin	male	0.98	185
+969	EMBOJ-2017-98728	Vodermaier, Hartmut	Revise and Re-review	Nancy Hollingsworth,Erwin Peterman,Roland Kanaar	Roland Kanaar	Roland	male	1	255
+970	EMBOJ-2017-98732	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Jennifer Cobb,Lena Ström,Rodrigo Bermejo	Jennifer Cobb	Jennifer	female	1	6717
+971	EMBOJ-2017-98732	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Jennifer Cobb,Lena Ström,Rodrigo Bermejo	Lena Ström	Lena	female	0.99	592
+972	EMBOJ-2017-98732	Vodermaier, Hartmut	Revise and Re-Review - Border Line Reject	Jennifer Cobb,Lena Ström,Rodrigo Bermejo	Rodrigo Bermejo	Rodrigo	male	1	1277
+973	EMBOJ-2017-98760	Vodermaier, Hartmut	Revise and Re-review	Philipp Oberdoerffer,Matthias Altmeyer,Manuel Stucki	Philipp Oberdoerffer	Philipp	male	1	205
+974	EMBOJ-2017-98760	Vodermaier, Hartmut	Revise and Re-review	Philipp Oberdoerffer,Matthias Altmeyer,Manuel Stucki	Matthias Altmeyer	Matthias	male	1	257
+975	EMBOJ-2017-98760	Vodermaier, Hartmut	Revise and Re-review	Philipp Oberdoerffer,Matthias Altmeyer,Manuel Stucki	Manuel Stucki	Manuel	male	1	1954

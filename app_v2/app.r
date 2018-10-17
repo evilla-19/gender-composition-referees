@@ -1,0 +1,473 @@
+########################################
+########## libraries ###################
+########################################
+
+
+library(shiny)
+library(ggplot2)
+library(dplyr)
+library(DT)
+library(chron)
+library(plotly)
+library(RColorBrewer)
+library(ggalluvial)
+
+
+########################################
+########## Read in data ################
+########################################
+
+#setwd('/Users/benito/Documents/SourceData/GitHub/gender-composition-referees')
+
+data_2015 = read.delim(file = 'EMBOJ_Track_Record_2015_annotated.txt', header = TRUE, sep = '\t')
+data_2016 = read.delim(file = 'Track_record_2016_annotated.txt', header = TRUE, sep = '\t')
+data_2017 = read.delim(file = 'EMBOJ_Track_record_2017_annotated.txt', header = TRUE, sep = '\t')
+
+data_2015$gender = factor(data_2015$gender, levels = c('male', 'female', 'None'))
+data_2016$gender = factor(data_2016$gender, levels = c('male', 'female', 'None'))
+data_2017$gender = factor(data_2017$gender, levels = c('male', 'female', 'None'))
+
+########################################
+########## UI layout ###################
+########################################
+
+
+ui = shinyUI(
+  fluidPage(theme = 'styles.css',
+    fluidRow(class = 'top-panel',
+      column(
+        width = 12, 
+        h1(class = 'title-top', 'Visualize EMBO J referee gender distribution')
+            )
+            ),
+    fluidRow(class = 'layer-1',
+      column(class = 'intro-text',
+        width = 3, 
+        wellPanel(
+          p('This is small demo app to see the kinds of visualizations we could develop for referee team gender composition. It is based on the internship project from Silvia La Porta and extended by Eva.'),
+          br(), br(), br(),
+          p('The general conclusion is that there is a strong gender imbalance, with an ovepowering number of male referees overall, as well as a higher proportion of male-only referee teams. Although the biggest proportion of referee teams was mixed, within those, most of the teams were imbalanced with a clear shift towards male-dominated teams.'),
+          br(), br(), br(),
+          p('If you find this useful, drop me an email at '),
+          a(href = 'mailto:eva.benito@embo.org', 'eva.benito@embo.org')
+                  )
+            ),
+      column(class = 'layer-1-graph-1',
+        width = 3, 
+        wellPanel(
+          h2('Frequency of all_male/all_female/mixed referee teams yearly'),
+          plotOutput(outputId = 'global_team_composition_year')
+                  )
+            ),
+      column(class = 'layer-1-graph-2',
+        width = 3, 
+        wellPanel(
+          h2('Overall percentage of male/female referees per year'),
+          plotOutput(outputId = 'overall_perc_gender_year')
+                  )
+            ),
+      column(class = 'layer-1-graph-3',
+        width = 3, 
+        wellPanel(
+          h2('Percentage of male/female referees within mixed teams per year'),
+          plotOutput(outputId = 'perc_gender_mixed')
+                  )
+            )
+            ),
+    fluidRow(class = 'layer-2',
+      column(
+        width = 3, 
+        offset = 3,
+        wellPanel(class = 'year-label',
+          h3('2015')
+                  ),
+        wellPanel(
+          sliderInput(
+            inputId = 'slider_2015',
+            label = 'Please select how many papers to visualize for the stacked pie chart',
+            min = 10,
+            value = length(unique(data_2015$Manuscript)),
+            max = length(unique(data_2015$Manuscript))
+          )
+        )
+            ),
+      column(
+        width = 3, 
+        wellPanel(
+          h2('Gender distribution for each manuscript in the year'),
+          plotOutput(outputId = 'stacked_pie_2015')
+                  )
+            ),
+      column(
+        width = 3, 
+        wellPanel(
+          h2('Final fate of reviewed manuscript in the year'),
+          plotOutput(outputId = 'alluvium_2015')
+                  )
+            )
+            ),
+    fluidRow(class = 'layer-3',
+      column(
+        width = 3, 
+        offset = 3,
+        wellPanel(class = 'year-label',
+          h3('2016')
+                  ),
+        wellPanel(
+          sliderInput(
+            inputId = 'slider_2016',
+            label = 'Please select how many papers to visualize for the stacked pie chart',
+            min = 10,
+            value = length(unique(data_2016$Manuscript)),
+            max = length(unique(data_2016$Manuscript))
+          )
+        )
+            ),
+      column(
+        width = 3, 
+        wellPanel(
+          h2('Gender distribution for each manuscript in the year'),
+          plotOutput(outputId = 'stacked_pie_2016')
+                  )
+            ),
+      column(
+        width = 3, 
+        wellPanel(
+          h2('Final fate of reviewed manuscript in the year'),
+          plotOutput(outputId = 'alluvium_2016')
+                  )
+            )
+            ),
+    fluidRow(class = 'layer-3',
+      column(
+        width = 3, 
+        offset = 3,
+        wellPanel(class = 'year-label',
+          h3('2017')
+                  ),
+        wellPanel(
+          sliderInput(
+            inputId = 'slider_2017',
+            label = 'Please select how many papers to visualize for the stacked pie chart',
+            min = 10,
+            value = length(unique(data_2017$Manuscript)),
+            max = length(unique(data_2017$Manuscript))
+          )
+        )
+            ),
+      column(
+        width = 3, 
+        wellPanel(
+          h2('Gender distribution for each manuscript in the year'),
+          plotOutput(outputId = 'stacked_pie_2017')
+                  )
+            ),
+      column(
+        width = 3, 
+        wellPanel(
+          h2('Final fate of reviewed manuscript in the year'),
+          plotOutput(outputId = 'alluvium_2017')
+                  )
+            )
+            )
+            )
+            )
+  
+
+
+########################################
+########## Server ######################
+########################################
+
+server = function(input, output){
+
+
+###### Block 1 for graph-1   ########
+
+df1_2015 = data_2015 %>% group_by(Manuscript) %>% 
+mutate(male_count = sum(gender == 'male'), female_count = sum(gender == 'female'), none_count = sum(gender == 'None'), total= n(), perc_male = (male_count / total) * 100, perc_female = (female_count/ total) * 100) %>% 
+mutate(team_composition = ifelse(perc_male == 100, 'male_only', ifelse(perc_female == 100, 'female_only', 'mixed'))) %>% group_by(team_composition)
+
+
+df1_2016 = data_2016 %>% group_by(Manuscript) %>% 
+mutate(male_count = sum(gender == 'male'), female_count = sum(gender == 'female'), none_count = sum(gender == 'None'), total= n(), perc_male = (male_count / total) * 100, perc_female = (female_count/ total) * 100) %>% 
+mutate(team_composition = ifelse(perc_male == 100, 'male_only', ifelse(perc_female == 100, 'female_only', 'mixed'))) %>% group_by(team_composition)
+
+df1_2017 = data_2017 %>% group_by(Manuscript) %>% 
+mutate(male_count = sum(gender == 'male'), female_count = sum(gender == 'female'), none_count = sum(gender == 'None'), total= n(), perc_male = (male_count / total) * 100, perc_female = (female_count/ total) * 100) %>% 
+mutate(team_composition = ifelse(perc_male == 100, 'male_only', ifelse(perc_female == 100, 'female_only', 'mixed'))) %>% group_by(team_composition)
+
+
+plot1_2015 = as.data.frame(table(df1_2015$team_composition))
+plot1_2016 = as.data.frame(table(df1_2016$team_composition))
+plot1_2017 = as.data.frame(table(df1_2017$team_composition))
+
+
+colnames(plot1_2015)[1] = 'gender'
+colnames(plot1_2016)[1] = 'gender'
+colnames(plot1_2017)[1] = 'gender'
+
+df1_yearly = bind_rows(plot1_2015, plot1_2016, plot1_2017)
+df1_yearly$year = c('2015', '2015', '2015', '2016', '2016', '2016', '2017', '2017', '2017')
+
+
+theme_settings = theme_minimal() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())  
+
+# output plot
+output$global_team_composition_year = renderPlot({
+
+ggplot(data = df1_yearly, aes(x = year, y = Freq, group = gender)) + 
+geom_line(aes(color=gender))  +
+geom_point(aes(color=gender)) + 
+scale_color_manual(values = c('orange', 'darkblue', '#42f468')) +
+theme_settings
+                                                  })
+
+
+###### Block 2 for graph-2   ########
+
+df2_2015 = data_2015 %>% group_by(Manuscript, gender) %>%
+mutate(count = n())
+
+df2_2016 = data_2016 %>% group_by(Manuscript, gender) %>%
+mutate(count = n())
+
+df2_2017 = data_2017 %>% group_by(Manuscript, gender) %>%
+mutate(count = n())
+
+plot2_2015 = as.data.frame(table(df2_2015$gender))
+plot2_2016 = as.data.frame(table(df2_2016$gender))
+plot2_2017 = as.data.frame(table(df2_2017$gender))
+
+
+df2_yearly = bind_rows(plot2_2015, plot2_2016, plot2_2017)
+df2_yearly$year = c('2015', '2015', '2015', '2016', '2016', '2016', '2017', '2017', '2017')
+
+colnames(df2_yearly)[1] = 'gender'
+
+
+
+output$overall_perc_gender_year = renderPlot({
+
+ggplot(data = df2_yearly, aes(x = year, y = Freq, fill = gender)) + 
+geom_bar(stat = 'identity', position = 'fill', width = 0.5)  +
+scale_fill_manual(values = c('darkblue','orange', 'darkgray')) +
+theme_settings
+
+})
+
+
+###### Block 3 for graph-3   ########
+
+df3_2015 = df1_2015 %>% group_by(Manuscript, gender) %>%
+filter(team_composition == 'mixed') %>%
+mutate(count = n())
+
+df3_2016 = df1_2016 %>% group_by(Manuscript, gender) %>%
+filter(team_composition == 'mixed') %>%
+mutate(count = n())
+
+df3_2017 = df1_2017 %>% group_by(Manuscript, gender) %>%
+filter(team_composition == 'mixed') %>%
+mutate(count = n())
+
+plot3_2015 = as.data.frame(table(df3_2015$gender))
+plot3_2016 = as.data.frame(table(df3_2016$gender))
+plot3_2017 = as.data.frame(table(df3_2017$gender))
+
+df3_yearly = bind_rows(plot3_2015, plot3_2016, plot3_2017)
+df3_yearly$year = c('2015', '2015', '2015', '2016', '2016', '2016', '2017', '2017', '2017')
+
+colnames(df3_yearly)[1] = 'gender'
+
+output$perc_gender_mixed = renderPlot({
+  ggplot(data = df3_yearly, aes(x = year, y = Freq, fill = gender)) + 
+  geom_bar(stat = 'identity', position = 'fill', width = 0.5)  +
+  scale_fill_manual(values = c('darkblue','orange', 'darkgray')) +
+  theme_settings
+})
+
+
+
+
+###### Block 4 for graph-4   ########
+
+ms_2015 = unique(df3_2015$Manuscript)
+
+main_data_2015 = reactive({
+        df3_2015[which(df3_2015$Manuscript %in% ms_2015[1:input$slider_2015]),]
+              })
+
+
+output$stacked_pie_2015 = renderPlot({
+
+ggplot(main_data_2015(), aes(x = as.numeric(Manuscript), y = count, fill = gender)) + geom_bar(stat = 'identity', width = 1, position = 'fill') + scale_fill_manual(values = c('darkblue', 'orange', 'darkgray')) + theme_settings + coord_polar('y', start = 0) + xlab('Manuscript') + ylab('')
+  
+})
+
+
+
+
+###### Block 5 for graph-5   ########
+
+
+df4_2015 = data_2015 %>% group_by(Manuscript) %>% 
+mutate(male_count = sum(gender == 'male'), female_count = sum(gender == 'female'), none_count = sum(gender == 'None'), total= n(), perc_male = (male_count / total) * 100, perc_female = (female_count/ total) * 100) %>% 
+mutate(team_composition = ifelse(perc_male == 100, 'male_only', ifelse(perc_female == 100, 'female_only', 'mixed'))) %>% group_by(team_composition, Final.Decision.Type) %>%
+select(team_composition, Final.Decision.Type) %>%
+mutate(freq = n()) %>% unique()
+
+
+df4_2016 = data_2016 %>% group_by(Manuscript) %>% 
+mutate(male_count = sum(gender == 'male'), female_count = sum(gender == 'female'), none_count = sum(gender == 'None'), total= n(), perc_male = (male_count / total) * 100, perc_female = (female_count/ total) * 100) %>% 
+mutate(team_composition = ifelse(perc_male == 100, 'male_only', ifelse(perc_female == 100, 'female_only', 'mixed'))) %>% group_by(team_composition, Final.Decision.Type) %>%
+select(team_composition, Final.Decision.Type) %>%
+mutate(freq = n()) %>% unique()
+
+df4_2017 = data_2017 %>% group_by(Manuscript) %>% 
+mutate(male_count = sum(gender == 'male'), female_count = sum(gender == 'female'), none_count = sum(gender == 'None'), total= n(), perc_male = (male_count / total) * 100, perc_female = (female_count/ total) * 100) %>% 
+mutate(team_composition = ifelse(perc_male == 100, 'male_only', ifelse(perc_female == 100, 'female_only', 'mixed'))) %>% group_by(team_composition, Final.Decision.Type) %>%
+select(team_composition, Final.Decision.Type) %>%
+mutate(freq = n()) %>% unique()
+
+
+### color block, reusable for all other alluvium plots ###
+decision_types = data.frame(decision_type = unique(c(
+  as.character(df4_2015$Final.Decision.Type), 
+  as.character(df4_2016$Final.Decision.Type),
+  as.character(df4_2017$Final.Decision.Type)
+)))
+
+decision_types$color = c('#bcb8b8', '#6b2626', '#9e3434', '#225620', '#36ad32', '#1a2977', '#452c59', 
+'#663a0b', '#302f2e', '#3d5e51')
+
+
+############################################################
+
+col_2015 = decision_types$color[match(levels(df4_2015$Final.Decision.Type), decision_types$decision_type)]
+
+fill_levels_2015 = c(unique(as.character(df4_2015$Final.Decision.Type)),
+unique(df4_2015$team_composition)
+)
+
+fill_2015 = c('darkgray', 'darkblue', 'darkgray', rep('darkgray', length(fill_levels_2015)-3))
+
+
+output$alluvium_2015 = renderPlot({
+
+ggplot(df4_2015, aes(y = freq, axis1 = team_composition, axis2 = Final.Decision.Type)) +
+geom_alluvium(aes(fill = Final.Decision.Type), width = 1/12) +
+geom_stratum(width = 1/12, fill = fill_2015, color = 'black') +
+geom_label(stat = "stratum", label.strata = TRUE) +
+scale_x_discrete(limits = c("referee group composition", "final decision"), expand = c(.05, .05)) +
+scale_fill_manual(values = col_2015) +
+theme_minimal() +
+theme(legend.position = 'right', panel.grid.major = element_blank(), panel.grid.minor = element_blank(),axis.text.x=element_blank())
+
+})
+
+
+
+
+
+###### Block 6 for graph-6   ########
+
+ms_2016 = unique(df3_2016$Manuscript)
+
+main_data_2016 = reactive({
+        df3_2016[which(df3_2016$Manuscript %in% ms_2016[1:input$slider_2016]),]
+              })
+
+
+output$stacked_pie_2016 = renderPlot({
+
+ggplot(main_data_2016(), aes(x = as.numeric(Manuscript), y = count, fill = gender)) + geom_bar(stat = 'identity', width = 1, position = 'fill') + scale_fill_manual(values = c('darkblue', 'orange', 'darkgray')) + theme_settings + coord_polar('y', start = 0) + xlab('Manuscript') + ylab('')
+  
+})
+
+
+###### Block 7 for graph-7   ########
+
+col_2016 = decision_types$color[match(levels(df4_2016$Final.Decision.Type), decision_types$decision_type)]
+
+fill_levels_2016 = c(unique(as.character(df4_2016$Final.Decision.Type)),
+unique(df4_2016$team_composition)
+)
+
+fill_2016 = c('darkgray', 'darkblue', 'darkgray', rep('darkgray', length(fill_levels_2016)-3))
+
+output$alluvium_2016 = renderPlot({
+
+ggplot(df4_2016, aes(y = freq, axis1 = team_composition, axis2 = Final.Decision.Type)) +
+geom_alluvium(aes(fill = Final.Decision.Type), width = 1/12) +
+geom_stratum(width = 1/12, fill = fill_2016 , color = 'black') +
+geom_label(stat = "stratum", label.strata = TRUE) +
+scale_x_discrete(limits = c("referee group composition", "final decision"), expand = c(.05, .05)) +
+scale_fill_manual(values = col_2016) +
+theme_minimal() +
+theme(legend.position = 'right', panel.grid.major = element_blank(), panel.grid.minor = element_blank(),axis.text.x=element_blank())
+
+})
+
+
+
+
+
+###### Block 8 for graph-8   ########
+
+ms_2017 = unique(df3_2017$Manuscript)
+
+main_data_2017 = reactive({
+        df3_2017[which(df3_2017$Manuscript %in% ms_2017[1:input$slider_2017]),]
+              })
+
+
+output$stacked_pie_2017 = renderPlot({
+
+ggplot(main_data_2017(), aes(x = as.numeric(Manuscript), y = count, fill = gender)) + geom_bar(stat = 'identity', width = 1, position = 'fill') + scale_fill_manual(values = c('darkblue', 'orange', 'darkgray')) + theme_settings + coord_polar('y', start = 0) + xlab('Manuscript') + ylab('')
+  
+})
+
+###### Block 9 for graph-9   ########
+
+
+col_2017 = decision_types$color[match(levels(df4_2017$Final.Decision.Type), decision_types$decision_type)]
+
+
+fill_levels_2017 = c(unique(as.character(df4_2017$Final.Decision.Type)),
+unique(df4_2017$team_composition)
+)
+
+fill_2017 = c('darkgray', 'darkblue', 'darkgray', rep('darkgray', length(fill_levels_2017)-3))
+
+output$alluvium_2017 = renderPlot({ 
+
+ggplot(df4_2017, aes(y = freq, axis1 = team_composition, axis2 = Final.Decision.Type)) +
+geom_alluvium(aes(fill = Final.Decision.Type), width = 1/12) +
+geom_stratum(width = 1/12, fill = fill_2017, color = 'black') +
+geom_label(stat = "stratum", label.strata = TRUE) +
+scale_x_discrete(limits = c("referee group composition", "final decision"), expand = c(.05, .05)) +
+scale_fill_manual(values = col_2017) +
+theme_minimal() +
+theme(legend.position = 'right', panel.grid.major = element_blank(), panel.grid.minor = element_blank(),axis.text.x=element_blank())
+
+})
+
+
+}
+
+
+
+
+
+########################################
+########## App #########################
+########################################
+
+
+
+shinyApp(ui = ui, server = server)
+
+# shiny::runApp(display.mode="showcase")
+
+
