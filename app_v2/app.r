@@ -9,7 +9,6 @@ library(RColorBrewer)
 library(ggalluvial)
 
 
-
 ########################################
 ########## Read in data ################
 ########################################
@@ -466,9 +465,9 @@ theme(legend.position = 'top', panel.grid.major = element_blank(), panel.grid.mi
 ########################################
 
 
+options(shiny.host={'172.21.3.110'}, shiny.port = 7775)
 
 shinyApp(ui = ui, server = server)
-
 # shiny::runApp(display.mode="showcase")
 
 
